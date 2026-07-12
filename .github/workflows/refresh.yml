@@ -1,0 +1,33 @@
+name: Refresh predictions
+
+on:
+  schedule:
+    # Every 3 hours from 10:00 to 04:00 UTC (covers the MLB game day,
+    # roughly 6am-midnight ET). GitHub cron is UTC.
+    - cron: "0 10,13,16,19,22,1,4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build predictions
+        run: python scripts/build_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "hr-forecast-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Refresh predictions $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

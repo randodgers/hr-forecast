@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HR Forecast — Daily MLB Home Run Predictions</title>
+  <meta name="description" content="Free daily MLB home run predictions from weather, ballpark factors, and player data.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚾</text></svg>">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <h1>⚾ HR Forecast</h1>
+      <p class="tagline">Daily home run conditions &amp; player picks — built entirely on free public data</p>
+      <p class="meta" id="meta">Loading…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section aria-labelledby="parks-h">
+      <h2 id="parks-h">Ballpark conditions <span class="hint">HRFI 1–10 · 5 = neutral · weather at first pitch</span></h2>
+      <div class="park-grid" id="parks"></div>
+    </section>
+
+    <section aria-labelledby="players-h">
+      <div class="section-head">
+        <h2 id="players-h">Top home run picks</h2>
+        <div class="controls">
+          <label class="toggle">
+            Sort
+            <select id="sort-by">
+              <option value="prob">Model %</option>
+              <option value="edge">Edge vs market</option>
+            </select>
+          </label>
+          <label class="toggle">
+            <input type="checkbox" id="lineup-only">
+            Confirmed lineups only
+          </label>
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table id="players-table">
+          <thead>
+            <tr>
+              <th class="num">#</th>
+              <th>Player</th>
+              <th>Matchup</th>
+              <th>Ballpark</th>
+              <th class="num">Season</th>
+              <th class="num">L10</th>
+              <th class="num">Brl/PA</th>
+              <th class="num">HR&nbsp;prob</th>
+              <th class="num">Market</th>
+              <th class="num">Edge</th>
+              <th>Why</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section aria-labelledby="method-h" class="method">
+      <h2 id="method-h">Methodology</h2>
+      <p>
+        Each hitter's power rate blends his home-run rate against the opposing starter's
+        handedness (platoon split, regressed) with a barrel-rate-based expected HR rate
+        from Statcast. That rate is then adjusted by four multipliers: last-10-games form
+        (hot/cold, heavily regressed), the starter's HR allowed vs. this batter's side,
+        the ballpark's 3-year Statcast HR park factor, and a weather factor built from
+        first-pitch temperature, out-blowing wind relative to the stadium's orientation,
+        and air pressure. Game probability assumes 3.7–4.7 plate appearances by lineup spot.
+        The HRFI is the weather factor alone mapped onto a 1–10 scale; domes score a flat 5.
+      </p>
+      <p>
+        The Market column shows each sportsbook price converted to an implied
+        probability. That number still includes the book's vig, so it overstates the
+        true market probability by a few points; Edge (model % − market %) is therefore
+        a conservative comparison. Prices refresh with the data, not in real time.
+      </p>
+      <p class="sources">
+        Data: <a href="https://statsapi.mlb.com" rel="noopener">MLB Stats API</a> ·
+        <a href="https://open-meteo.com" rel="noopener">Open-Meteo</a> ·
+        <a href="https://baseballsavant.mlb.com/leaderboard/statcast-park-factors" rel="noopener">Baseball Savant</a> ·
+        public sportsbook prop prices.
+        For entertainment and research only — not betting or financial advice.
+      </p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
