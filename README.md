@@ -65,15 +65,41 @@ P(HR in game) = 1 − (1 − P(HR per PA))^expected_PA
 
 The HRFI is `5 + (weather_mult − 1) × 20`, clamped to 1–10.
 
-### Market comparison
+### Pitch-arsenal matchup
 
-Each player's "to hit a home run" prop price is converted to an implied
-probability (`100/(odds+100)` for positive American odds). One-sided prop
-prices still contain the book's vig, so the implied number overstates the
-true market probability by a few points — treat **Edge** (model % − market %)
-as conservative. Odds refresh with the pipeline, not in real time, and the
-whole feature degrades gracefully: if no odds source is reachable the market
-columns simply show a dash.
+For every pitch the opposing starter throws at ≥5% usage, the model compares
+(a) the batter's expected SLG against that pitch type and (b) the starter's
+expected SLG allowed on it, each vs. the league average for the pitch type,
+weighted by usage (Savant pitch-arsenal-stats, expected stats so lucky
+outcomes don't leak in). The resulting index is damped 50% and clamped to
+0.85–1.18. This is the systematic version of the classic prop-betting
+workflow of isolating a starter's vulnerable pitches by handedness.
+
+### Market comparison (de-vigged)
+
+Each "to hit a home run" prop price is converted to an implied probability
+(`100/(odds+100)` for positive American odds). Because these are one-sided
+markets (no "No" price is offered), standard two-way de-vigging is
+impossible; the raw implied number contains the book's margin and one-sided
+longshot props carry extra vig (favorite–longshot bias). The pipeline
+therefore multiplies implied probabilities by a **de-vig factor** — a
+documented prior of 0.85 until 200+ priced picks have been graded, after
+which it is **calibrated empirically** from our own track record: the actual
+HR rate of priced players divided by their average implied probability
+(clamped 0.70–1.00). **Edge** = model % − de-vigged fair %.
+
+### Track record
+
+Every refresh snapshots the final pre-game prediction for each player in a
+confirmed lineup or with a market price (`data/picks_log.json`). The next
+morning `scripts/grade_results.py` grades those snapshots against final
+boxscores (players with zero plate appearances are dropped, not counted as
+misses), accumulates `data/history.json`, and publishes
+`data/track_record.json`: top-10-picks hit rate, Brier scores for the model
+and the de-vigged market, and calibration buckets (predicted vs. actual HR
+rate by probability band). The site shows this section once data exists.
+The market Brier score is the benchmark: matching it is genuinely hard, and
+beating it would indicate real edge.
 
 All knobs live at the top of [scripts/build_data.py](scripts/build_data.py).
 

@@ -58,6 +58,7 @@ function factorChips(pl) {
   if (pl.platoonEdge) chips.push(`<span class="chip up" title="Batter has the platoon advantage vs this starter">platoon ✓</span>`);
   if (f.formMult != null) chip("form", f.formMult);
   chip("pitcher", f.pitcherMult);
+  if (f.arsenalMult != null && Math.abs(f.arsenalMult - 1) >= 0.005) chip("arsenal", f.arsenalMult);
   chip("park", f.parkMult);
   chip("weather", f.weatherMult);
   return chips.join("");
@@ -82,11 +83,32 @@ function renderPlayers(players, lineupOnly, maxProb, sortBy) {
       <td class="num">${pl.l10Hr != null ? `${pl.l10Hr} HR<span class="sub">${pl.l10Pa} PA</span>` : "—"}</td>
       <td class="num">${pl.brlPa != null ? `${pl.brlPa.toFixed(1)}%` : "—"}</td>
       <td class="num"><span class="prob-cell"><span class="prob-bar"><span style="width:${(pl.probPct / maxProb) * 100}%"></span></span><b>${pl.probPct}%</b></span></td>
-      <td class="num">${pl.marketOdds != null ? `${pl.marketOdds > 0 ? "+" : ""}${pl.marketOdds}<span class="sub">${pl.marketPct}% impl.</span>` : "—"}</td>
+      <td class="num">${pl.marketOdds != null ? `${pl.marketOdds > 0 ? "+" : ""}${pl.marketOdds}<span class="sub" title="raw implied ${pl.marketPct}%">${pl.marketFairPct}% fair</span>` : "—"}</td>
       <td class="num">${pl.edgePct != null ? `<span class="edge ${pl.edgePct >= 2 ? "up" : pl.edgePct <= -2 ? "down" : ""}">${pl.edgePct > 0 ? "+" : ""}${pl.edgePct.toFixed(1)}</span>` : "—"}</td>
       <td><span class="chips">${factorChips(pl)}</span></td>`;
     tbody.appendChild(tr);
   });
+}
+
+async function renderTrackRecord() {
+  let tr;
+  try {
+    const res = await fetch(`data/track_record.json?t=${Date.now()}`);
+    if (!res.ok) return;
+    tr = await res.json();
+  } catch { return; }
+  if (!tr.gradedPicks) return;
+  const sec = document.getElementById("track-record");
+  sec.hidden = false;
+  document.getElementById("tr-tiles").innerHTML = `
+    <div class="tr-tile"><b>${tr.gradedPicks}</b><span>picks graded</span></div>
+    <div class="tr-tile"><b>${tr.topPicksHitRatePct ?? "—"}%</b><span>top-10 picks hit rate (${tr.topPicksRecord})</span></div>
+    <div class="tr-tile"><b>${tr.modelBrier ?? "—"}</b><span>model Brier score</span></div>
+    <div class="tr-tile"><b>${tr.marketBrier ?? "—"}</b><span>market Brier (${tr.marketPricedPicks} priced)</span></div>`;
+  const tbody = document.querySelector("#tr-buckets tbody");
+  tbody.innerHTML = (tr.buckets || []).map((b) => `
+    <tr><td>${b.range}</td><td class="num">${b.n}</td>
+    <td class="num">${b.predictedPct}%</td><td class="num">${b.actualPct}%</td></tr>`).join("");
 }
 
 async function init() {
@@ -98,6 +120,10 @@ async function init() {
     `${data.date} · ${data.gameCount} games · updated ${gen.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`;
 
   renderParks(data.parks);
+  if (!data.gameCount) {
+    document.getElementById("parks").innerHTML =
+      `<p class="empty-note">No MLB games scheduled today — likely an off day or the All-Star break. Predictions return with the next slate.</p>`;
+  }
 
   const maxProb = Math.max(...data.players.map((p) => p.probPct), 1);
   const toggle = document.getElementById("lineup-only");
@@ -107,6 +133,7 @@ async function init() {
   toggle.addEventListener("change", draw);
   sortSel.addEventListener("change", draw);
   draw();
+  renderTrackRecord();
 }
 
 init().catch((err) => {

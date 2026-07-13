@@ -144,6 +144,25 @@ td.venue-cell { max-width: 165px; overflow: hidden; text-overflow: ellipsis; }
   .chip.down { color: #e66767; }
 }
 
+.empty-note { grid-column: 1 / -1; color: var(--ink-2); background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
+
+/* ── Track record ────────────────────────────────────── */
+.tr-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.tr-tile {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+.tr-tile b { display: block; font-size: 1.6rem; font-weight: 700; }
+.tr-tile span { color: var(--muted); font-size: 0.8rem; }
+.tr-table { max-width: 560px; }
+
 /* ── Methodology ─────────────────────────────────────── */
 .method { margin: 40px 0 60px; color: var(--ink-2); font-size: 0.9rem; }
 .method p { max-width: 72ch; }

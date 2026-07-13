@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Grade yesterday's picks
+        run: python scripts/grade_results.py || true
+
       - name: Build predictions
         run: python scripts/build_data.py
 
