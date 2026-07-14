@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-07-14T11:21:52+00:00",
+ "generatedAtUtc": "2026-07-14T14:44:51+00:00",
  "date": "2026-07-14",
  "gameCount": 1,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 8.6,
-   "tempF": 89.7,
-   "windMph": 8.3,
-   "windFromDeg": 218,
-   "windOutMph": 4.4,
-   "humidityPct": 47,
+   "hrfi": 8.7,
+   "tempF": 89.2,
+   "windMph": 9.1,
+   "windFromDeg": 220,
+   "windOutMph": 4.7,
+   "humidityPct": 49,
    "cloudPct": 0,
    "parkFactorHR": 115,
    "elevationFt": 20
@@ -53,7 +53,7 @@
     "pitcherMult": 0.867,
     "arsenalMult": 1.145,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -85,7 +85,7 @@
     "pitcherMult": 0.977,
     "arsenalMult": 1.068,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -117,7 +117,7 @@
     "pitcherMult": 0.977,
     "arsenalMult": 1.005,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -149,7 +149,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 1.086,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -179,9 +179,9 @@
     "batterRatePct": 5.6,
     "formMult": 1.041,
     "pitcherMult": 0.977,
-    "arsenalMult": 1.005,
+    "arsenalMult": 1.004,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -213,7 +213,7 @@
     "pitcherMult": 0.867,
     "arsenalMult": 1.055,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -232,7 +232,7 @@
    "l10Hr": 2,
    "l10Pa": 43,
    "brlPa": 9.7,
-   "probPct": 25.1,
+   "probPct": 25.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -245,7 +245,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 1.017,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -277,7 +277,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 0.97,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -309,7 +309,7 @@
     "pitcherMult": 0.977,
     "arsenalMult": 1.099,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -341,7 +341,7 @@
     "pitcherMult": 0.867,
     "arsenalMult": 1.012,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -373,7 +373,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 1.015,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -405,7 +405,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 1.011,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -437,7 +437,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 0.983,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -467,9 +467,9 @@
     "batterRatePct": 3.92,
     "formMult": 0.85,
     "pitcherMult": 0.75,
-    "arsenalMult": 0.973,
+    "arsenalMult": 0.974,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -501,7 +501,7 @@
     "pitcherMult": 0.867,
     "arsenalMult": 1.022,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -533,7 +533,7 @@
     "pitcherMult": 0.678,
     "arsenalMult": 0.958,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -565,7 +565,7 @@
     "pitcherMult": 0.977,
     "arsenalMult": 0.957,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   },
   {
@@ -597,7 +597,7 @@
     "pitcherMult": 0.75,
     "arsenalMult": 0.944,
     "parkMult": 1.127,
-    "weatherMult": 1.182
+    "weatherMult": 1.183
    }
   }
  ],
