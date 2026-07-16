@@ -5,7 +5,7 @@
 "id": 665742,
 "name": "Juan Soto",
 "team": "New York Mets",
-"prob": 44.1,
+"prob": 44.6,
 "mkt": 30.3,
 "fair": 25.8,
 "spot": null
@@ -16,7 +16,7 @@
 "id": 682626,
 "name": "Francisco Alvarez",
 "team": "New York Mets",
-"prob": 22.7,
+"prob": 23.0,
 "mkt": 17.9,
 "fair": 15.2,
 "spot": null
@@ -27,7 +27,7 @@
 "id": 805999,
 "name": "A.J. Ewing",
 "team": "New York Mets",
-"prob": 20.8,
+"prob": 21.1,
 "mkt": 16.7,
 "fair": 14.2,
 "spot": null
@@ -38,7 +38,7 @@
 "id": 676724,
 "name": "Jared Young",
 "team": "New York Mets",
-"prob": 20.3,
+"prob": 20.6,
 "mkt": 17.9,
 "fair": 15.2,
 "spot": null
@@ -49,7 +49,7 @@
 "id": 596019,
 "name": "Francisco Lindor",
 "team": "New York Mets",
-"prob": 18.7,
+"prob": 19.0,
 "mkt": 20.4,
 "fair": 17.3,
 "spot": null
@@ -60,7 +60,7 @@
 "id": 701807,
 "name": "Carson Benge",
 "team": "New York Mets",
-"prob": 16.1,
+"prob": 16.3,
 "mkt": 16.7,
 "fair": 14.2,
 "spot": null
@@ -71,7 +71,7 @@
 "id": 683146,
 "name": "Brett Baty",
 "team": "New York Mets",
-"prob": 15.8,
+"prob": 16.1,
 "mkt": 16.7,
 "fair": 14.2,
 "spot": null
@@ -82,7 +82,7 @@
 "id": 666182,
 "name": "Bo Bichette",
 "team": "New York Mets",
-"prob": 13.3,
+"prob": 13.5,
 "mkt": 14.3,
 "fair": 12.2,
 "spot": null
@@ -93,7 +93,7 @@
 "id": 592663,
 "name": "J.T. Realmuto",
 "team": "Philadelphia Phillies",
-"prob": 13.2,
+"prob": 13.4,
 "mkt": 15.4,
 "fair": 13.1,
 "spot": null
@@ -104,7 +104,7 @@
 "id": 681082,
 "name": "Bryson Stott",
 "team": "Philadelphia Phillies",
-"prob": 11.0,
+"prob": 11.2,
 "mkt": 15.4,
 "fair": 13.1,
 "spot": null
@@ -115,7 +115,7 @@
 "id": 607208,
 "name": "Trea Turner",
 "team": "Philadelphia Phillies",
-"prob": 10.9,
+"prob": 11.0,
 "mkt": 16.7,
 "fair": 14.2,
 "spot": null
@@ -126,7 +126,7 @@
 "id": 664761,
 "name": "Alec Bohm",
 "team": "Philadelphia Phillies",
-"prob": 9.7,
+"prob": 9.9,
 "mkt": 14.3,
 "fair": 12.2,
 "spot": null
@@ -137,7 +137,7 @@
 "id": 702222,
 "name": "Justin Crawford",
 "team": "Philadelphia Phillies",
-"prob": 4.1,
+"prob": 4.2,
 "mkt": 7.1,
 "fair": 6.0,
 "spot": null
