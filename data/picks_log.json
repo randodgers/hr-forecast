@@ -5,10 +5,10 @@
 "id": 665742,
 "name": "Juan Soto",
 "team": "New York Mets",
-"prob": 44.1,
-"mkt": 33.3,
-"fair": 28.3,
-"spot": null
+"prob": 47.6,
+"mkt": 32.3,
+"fair": 27.5,
+"spot": 2
 },
 "2026-07-16|823440|682626": {
 "d": "2026-07-16",
@@ -16,10 +16,10 @@
 "id": 682626,
 "name": "Francisco Alvarez",
 "team": "New York Mets",
-"prob": 22.7,
+"prob": 21.2,
 "mkt": 19.2,
 "fair": 16.3,
-"spot": null
+"spot": 9
 },
 "2026-07-16|823440|805999": {
 "d": "2026-07-16",
@@ -27,10 +27,10 @@
 "id": 805999,
 "name": "A.J. Ewing",
 "team": "New York Mets",
-"prob": 20.9,
+"prob": 23.4,
 "mkt": 16.7,
 "fair": 14.2,
-"spot": null
+"spot": 1
 },
 "2026-07-16|823440|676724": {
 "d": "2026-07-16",
@@ -38,10 +38,10 @@
 "id": 676724,
 "name": "Jared Young",
 "team": "New York Mets",
-"prob": 20.3,
-"mkt": 18.9,
-"fair": 16.1,
-"spot": null
+"prob": 19.9,
+"mkt": 18.5,
+"fair": 15.7,
+"spot": 7
 },
 "2026-07-16|823440|596019": {
 "d": "2026-07-16",
@@ -49,10 +49,10 @@
 "id": 596019,
 "name": "Francisco Lindor",
 "team": "New York Mets",
-"prob": 18.8,
-"mkt": 22.2,
-"fair": 18.9,
-"spot": null
+"prob": 19.7,
+"mkt": 22.7,
+"fair": 19.3,
+"spot": 4
 },
 "2026-07-16|823440|701807": {
 "d": "2026-07-16",
@@ -60,10 +60,10 @@
 "id": 701807,
 "name": "Carson Benge",
 "team": "New York Mets",
-"prob": 16.1,
+"prob": 16.6,
 "mkt": 16.7,
 "fair": 14.2,
-"spot": null
+"spot": 5
 },
 "2026-07-16|823440|683146": {
 "d": "2026-07-16",
@@ -71,10 +71,10 @@
 "id": 683146,
 "name": "Brett Baty",
 "team": "New York Mets",
-"prob": 15.9,
-"mkt": 17.9,
-"fair": 15.2,
-"spot": null
+"prob": 15.1,
+"mkt": 17.4,
+"fair": 14.8,
+"spot": 8
 },
 "2026-07-16|823440|666182": {
 "d": "2026-07-16",
@@ -82,10 +82,10 @@
 "id": 666182,
 "name": "Bo Bichette",
 "team": "New York Mets",
-"prob": 13.3,
+"prob": 14.4,
 "mkt": 14.3,
 "fair": 12.2,
-"spot": null
+"spot": 3
 },
 "2026-07-16|823440|592663": {
 "d": "2026-07-16",
@@ -93,10 +93,10 @@
 "id": 592663,
 "name": "J.T. Realmuto",
 "team": "Philadelphia Phillies",
-"prob": 13.2,
+"prob": 12.9,
 "mkt": 15.4,
 "fair": 13.1,
-"spot": null
+"spot": 7
 },
 "2026-07-16|823440|681082": {
 "d": "2026-07-16",
@@ -104,10 +104,10 @@
 "id": 681082,
 "name": "Bryson Stott",
 "team": "Philadelphia Phillies",
-"prob": 11.0,
-"mkt": 16.7,
-"fair": 14.2,
-"spot": null
+"prob": 11.1,
+"mkt": 18.2,
+"fair": 15.5,
+"spot": 6
 },
 "2026-07-16|823440|607208": {
 "d": "2026-07-16",
@@ -115,10 +115,10 @@
 "id": 607208,
 "name": "Trea Turner",
 "team": "Philadelphia Phillies",
-"prob": 10.9,
+"prob": 12.3,
 "mkt": 16.7,
 "fair": 14.2,
-"spot": null
+"spot": 1
 },
 "2026-07-16|823440|664761": {
 "d": "2026-07-16",
@@ -126,10 +126,10 @@
 "id": 664761,
 "name": "Alec Bohm",
 "team": "Philadelphia Phillies",
-"prob": 9.8,
+"prob": 10.1,
 "mkt": 14.3,
 "fair": 12.2,
-"spot": null
+"spot": 5
 },
 "2026-07-16|823440|702222": {
 "d": "2026-07-16",
@@ -137,10 +137,10 @@
 "id": 702222,
 "name": "Justin Crawford",
 "team": "Philadelphia Phillies",
-"prob": 4.1,
+"prob": 3.8,
 "mkt": 8.3,
 "fair": 7.1,
-"spot": null
+"spot": 9
 },
 "2026-07-16|823440|656941": {
 "d": "2026-07-16",
@@ -148,10 +148,10 @@
 "id": 656941,
 "name": "Kyle Schwarber",
 "team": "Philadelphia Phillies",
-"prob": 29.6,
-"mkt": 36.2,
-"fair": 30.8,
-"spot": null
+"prob": 32.3,
+"mkt": 38.2,
+"fair": 32.5,
+"spot": 2
 },
 "2026-07-16|823440|547180": {
 "d": "2026-07-16",
@@ -159,10 +159,10 @@
 "id": 547180,
 "name": "Bryce Harper",
 "team": "Philadelphia Phillies",
-"prob": 24.2,
+"prob": 25.9,
 "mkt": 26.3,
 "fair": 22.4,
-"spot": null
+"spot": 3
 },
 "2026-07-16|823440|669016": {
 "d": "2026-07-16",
@@ -170,9 +170,31 @@
 "id": 669016,
 "name": "Brandon Marsh",
 "team": "Philadelphia Phillies",
-"prob": 17.1,
+"prob": 18.0,
 "mkt": 18.5,
 "fair": 15.7,
-"spot": null
+"spot": 4
+},
+"2026-07-16|823440|687282": {
+"d": "2026-07-16",
+"g": 823440,
+"id": 687282,
+"name": "Gabriel Rincones Jr.",
+"team": "Philadelphia Phillies",
+"prob": 14.0,
+"mkt": 17.4,
+"fair": 14.8,
+"spot": 8
+},
+"2026-07-16|823440|593871": {
+"d": "2026-07-16",
+"g": 823440,
+"id": 593871,
+"name": "Jorge Polanco",
+"team": "New York Mets",
+"prob": 12.6,
+"mkt": 20.4,
+"fair": 17.3,
+"spot": 6
 }
 }
