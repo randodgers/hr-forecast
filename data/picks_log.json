@@ -5,9 +5,9 @@
 "id": 665742,
 "name": "Juan Soto",
 "team": "New York Mets",
-"prob": 44.0,
-"mkt": 29.4,
-"fair": 25.0,
+"prob": 44.1,
+"mkt": 33.3,
+"fair": 28.3,
 "spot": null
 },
 "2026-07-16|823440|682626": {
@@ -16,9 +16,9 @@
 "id": 682626,
 "name": "Francisco Alvarez",
 "team": "New York Mets",
-"prob": 22.6,
-"mkt": 17.9,
-"fair": 15.2,
+"prob": 22.7,
+"mkt": 19.2,
+"fair": 16.3,
 "spot": null
 },
 "2026-07-16|823440|805999": {
@@ -27,9 +27,9 @@
 "id": 805999,
 "name": "A.J. Ewing",
 "team": "New York Mets",
-"prob": 20.8,
-"mkt": 15.4,
-"fair": 13.1,
+"prob": 20.9,
+"mkt": 16.7,
+"fair": 14.2,
 "spot": null
 },
 "2026-07-16|823440|676724": {
@@ -38,9 +38,9 @@
 "id": 676724,
 "name": "Jared Young",
 "team": "New York Mets",
-"prob": 20.2,
-"mkt": 16.7,
-"fair": 14.2,
+"prob": 20.3,
+"mkt": 18.9,
+"fair": 16.1,
 "spot": null
 },
 "2026-07-16|823440|596019": {
@@ -49,9 +49,9 @@
 "id": 596019,
 "name": "Francisco Lindor",
 "team": "New York Mets",
-"prob": 18.7,
-"mkt": 21.3,
-"fair": 18.1,
+"prob": 18.8,
+"mkt": 22.2,
+"fair": 18.9,
 "spot": null
 },
 "2026-07-16|823440|701807": {
@@ -61,8 +61,8 @@
 "name": "Carson Benge",
 "team": "New York Mets",
 "prob": 16.1,
-"mkt": 16.0,
-"fair": 13.6,
+"mkt": 16.7,
+"fair": 14.2,
 "spot": null
 },
 "2026-07-16|823440|683146": {
@@ -71,9 +71,9 @@
 "id": 683146,
 "name": "Brett Baty",
 "team": "New York Mets",
-"prob": 15.8,
-"mkt": 16.7,
-"fair": 14.2,
+"prob": 15.9,
+"mkt": 17.9,
+"fair": 15.2,
 "spot": null
 },
 "2026-07-16|823440|666182": {
@@ -83,8 +83,8 @@
 "name": "Bo Bichette",
 "team": "New York Mets",
 "prob": 13.3,
-"mkt": 13.8,
-"fair": 11.7,
+"mkt": 14.3,
+"fair": 12.2,
 "spot": null
 },
 "2026-07-16|823440|592663": {
@@ -93,7 +93,7 @@
 "id": 592663,
 "name": "J.T. Realmuto",
 "team": "Philadelphia Phillies",
-"prob": 13.1,
+"prob": 13.2,
 "mkt": 15.4,
 "fair": 13.1,
 "spot": null
@@ -105,8 +105,8 @@
 "name": "Bryson Stott",
 "team": "Philadelphia Phillies",
 "prob": 11.0,
-"mkt": 15.4,
-"fair": 13.1,
+"mkt": 16.7,
+"fair": 14.2,
 "spot": null
 },
 "2026-07-16|823440|607208": {
@@ -115,9 +115,9 @@
 "id": 607208,
 "name": "Trea Turner",
 "team": "Philadelphia Phillies",
-"prob": 10.8,
-"mkt": 15.4,
-"fair": 13.1,
+"prob": 10.9,
+"mkt": 16.7,
+"fair": 14.2,
 "spot": null
 },
 "2026-07-16|823440|664761": {
@@ -126,7 +126,7 @@
 "id": 664761,
 "name": "Alec Bohm",
 "team": "Philadelphia Phillies",
-"prob": 9.7,
+"prob": 9.8,
 "mkt": 14.3,
 "fair": 12.2,
 "spot": null
@@ -138,8 +138,8 @@
 "name": "Justin Crawford",
 "team": "Philadelphia Phillies",
 "prob": 4.1,
-"mkt": 7.1,
-"fair": 6.0,
+"mkt": 8.3,
+"fair": 7.1,
 "spot": null
 },
 "2026-07-16|823440|656941": {
@@ -148,9 +148,9 @@
 "id": 656941,
 "name": "Kyle Schwarber",
 "team": "Philadelphia Phillies",
-"prob": 29.5,
-"mkt": 34.5,
-"fair": 29.3,
+"prob": 29.6,
+"mkt": 36.2,
+"fair": 30.8,
 "spot": null
 },
 "2026-07-16|823440|547180": {
@@ -159,9 +159,9 @@
 "id": 547180,
 "name": "Bryce Harper",
 "team": "Philadelphia Phillies",
-"prob": 24.1,
-"mkt": 26.0,
-"fair": 22.1,
+"prob": 24.2,
+"mkt": 26.3,
+"fair": 22.4,
 "spot": null
 },
 "2026-07-16|823440|669016": {
@@ -171,8 +171,8 @@
 "name": "Brandon Marsh",
 "team": "Philadelphia Phillies",
 "prob": 17.1,
-"mkt": 18.9,
-"fair": 16.1,
+"mkt": 18.5,
+"fair": 15.7,
 "spot": null
 }
 }
