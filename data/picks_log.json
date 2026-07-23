@@ -511,10 +511,10 @@
 "id": 693307,
 "name": "Dillon Dingler",
 "team": "Detroit Tigers",
-"prob": 23.5,
-"mkt": 15.4,
-"fair": 12.4,
-"spot": null
+"prob": 24.3,
+"mkt": 16.7,
+"fair": 13.4,
+"spot": 5
 },
 "2026-07-23|824247|679529": {
 "d": "2026-07-23",
@@ -522,10 +522,10 @@
 "id": 679529,
 "name": "Spencer Torkelson",
 "team": "Detroit Tigers",
-"prob": 22.0,
-"mkt": 16.7,
-"fair": 13.4,
-"spot": null
+"prob": 21.7,
+"mkt": 18.2,
+"fair": 14.6,
+"spot": 7
 },
 "2026-07-23|823042|682998": {
 "d": "2026-07-23",
@@ -533,10 +533,10 @@
 "id": 682998,
 "name": "Corbin Carroll",
 "team": "Arizona Diamondbacks",
-"prob": 18.8,
-"mkt": 18.5,
-"fair": 14.9,
-"spot": null
+"prob": 20.3,
+"mkt": 19.2,
+"fair": 15.4,
+"spot": 2
 },
 "2026-07-23|824247|682985": {
 "d": "2026-07-23",
@@ -544,10 +544,10 @@
 "id": 682985,
 "name": "Riley Greene",
 "team": "Detroit Tigers",
-"prob": 18.6,
+"prob": 19.7,
 "mkt": 22.2,
 "fair": 17.8,
-"spot": null
+"spot": 4
 },
 "2026-07-23|823042|676475": {
 "d": "2026-07-23",
@@ -555,10 +555,10 @@
 "id": 676475,
 "name": "Alec Burleson",
 "team": "St. Louis Cardinals",
-"prob": 16.6,
+"prob": 17.6,
 "mkt": 16.7,
 "fair": 13.4,
-"spot": null
+"spot": 3
 },
 "2026-07-23|823042|802139": {
 "d": "2026-07-23",
@@ -566,10 +566,10 @@
 "id": 802139,
 "name": "JJ Wetherholt",
 "team": "St. Louis Cardinals",
-"prob": 16.6,
-"mkt": 11.8,
-"fair": 9.5,
-"spot": null
+"prob": 18.3,
+"mkt": 11.1,
+"fair": 8.9,
+"spot": 1
 },
 "2026-07-23|823042|571448": {
 "d": "2026-07-23",
@@ -588,10 +588,10 @@
 "id": 691023,
 "name": "Jordan Walker",
 "team": "St. Louis Cardinals",
-"prob": 15.3,
-"mkt": 17.9,
-"fair": 14.4,
-"spot": null
+"prob": 16.6,
+"mkt": 18.5,
+"fair": 14.9,
+"spot": 2
 },
 "2026-07-23|823042|606466": {
 "d": "2026-07-23",
@@ -599,10 +599,10 @@
 "id": 606466,
 "name": "Ketel Marte",
 "team": "Arizona Diamondbacks",
-"prob": 14.3,
-"mkt": 20.0,
-"fair": 16.1,
-"spot": null
+"prob": 15.9,
+"mkt": 21.3,
+"fair": 17.1,
+"spot": 1
 },
 "2026-07-23|824247|681481": {
 "d": "2026-07-23",
@@ -610,10 +610,10 @@
 "id": 681481,
 "name": "Kerry Carpenter",
 "team": "Detroit Tigers",
-"prob": 13.8,
-"mkt": 16.7,
-"fair": 13.4,
-"spot": null
+"prob": 14.0,
+"mkt": 18.5,
+"fair": 14.9,
+"spot": 6
 },
 "2026-07-23|824247|521692": {
 "d": "2026-07-23",
@@ -621,10 +621,10 @@
 "id": 521692,
 "name": "Salvador Perez",
 "team": "Kansas City Royals",
-"prob": 13.5,
-"mkt": 17.4,
-"fair": 14.0,
-"spot": null
+"prob": 14.3,
+"mkt": 16.7,
+"fair": 13.4,
+"spot": 4
 },
 "2026-07-23|824893|805347": {
 "d": "2026-07-23",
@@ -643,10 +643,10 @@
 "id": 695600,
 "name": "Carter Jensen",
 "team": "Kansas City Royals",
-"prob": 12.6,
+"prob": 14.3,
 "mkt": 16.7,
 "fair": 13.4,
-"spot": null
+"spot": 1
 },
 "2026-07-23|824247|690993": {
 "d": "2026-07-23",
@@ -654,10 +654,10 @@
 "id": 690993,
 "name": "Colt Keith",
 "team": "Detroit Tigers",
-"prob": 12.2,
-"mkt": 10.8,
-"fair": 8.7,
-"spot": null
+"prob": 13.2,
+"mkt": 10.5,
+"fair": 8.4,
+"spot": 3
 },
 "2026-07-23|824247|805808": {
 "d": "2026-07-23",
@@ -665,10 +665,10 @@
 "id": 805808,
 "name": "Kevin McGonigle",
 "team": "Detroit Tigers",
-"prob": 11.6,
+"prob": 13.2,
 "mkt": 15.4,
 "fair": 12.4,
-"spot": null
+"spot": 1
 },
 "2026-07-23|824406|672275": {
 "d": "2026-07-23",
@@ -687,10 +687,10 @@
 "id": 701675,
 "name": "Nathan Church",
 "team": "St. Louis Cardinals",
-"prob": 10.8,
+"prob": 10.4,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 7
 },
 "2026-07-23|824247|657041": {
 "d": "2026-07-23",
@@ -698,10 +698,10 @@
 "id": 657041,
 "name": "Lane Thomas",
 "team": "Kansas City Royals",
-"prob": 10.7,
+"prob": 11.9,
 "mkt": 12.9,
 "fair": 10.4,
-"spot": null
+"spot": 2
 },
 "2026-07-23|824406|690984": {
 "d": "2026-07-23",
@@ -720,10 +720,10 @@
 "id": 672515,
 "name": "Gabriel Moreno",
 "team": "Arizona Diamondbacks",
-"prob": 10.3,
+"prob": 10.7,
 "mkt": 10.0,
 "fair": 8.0,
-"spot": null
+"spot": 4
 },
 "2026-07-23|824893|642086": {
 "d": "2026-07-23",
@@ -742,10 +742,10 @@
 "id": 686681,
 "name": "Michael Massey",
 "team": "Kansas City Royals",
-"prob": 9.4,
+"prob": 9.8,
 "mkt": 12.9,
 "fair": 10.4,
-"spot": null
+"spot": 5
 },
 "2026-07-23|824247|650402": {
 "d": "2026-07-23",
@@ -753,10 +753,10 @@
 "id": 650402,
 "name": "Gleyber Torres",
 "team": "Detroit Tigers",
-"prob": 9.2,
+"prob": 10.2,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 2
 },
 "2026-07-23|824893|687749": {
 "d": "2026-07-23",
@@ -786,10 +786,10 @@
 "id": 686469,
 "name": "Vinnie Pasquantino",
 "team": "Kansas City Royals",
-"prob": 8.4,
+"prob": 9.2,
 "mkt": 16.7,
 "fair": 13.4,
-"spot": null
+"spot": 3
 },
 "2026-07-23|824247|686555": {
 "d": "2026-07-23",
@@ -797,10 +797,10 @@
 "id": 686555,
 "name": "Isaac Collins",
 "team": "Kansas City Royals",
-"prob": 8.0,
+"prob": 8.1,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 6
 },
 "2026-07-23|823042|672695": {
 "d": "2026-07-23",
@@ -808,10 +808,10 @@
 "id": 672695,
 "name": "Geraldo Perdomo",
 "team": "Arizona Diamondbacks",
-"prob": 7.4,
+"prob": 7.8,
 "mkt": 10.0,
 "fair": 8.0,
-"spot": null
+"spot": 3
 },
 "2026-07-23|824247|681546": {
 "d": "2026-07-23",
@@ -819,10 +819,10 @@
 "id": 681546,
 "name": "James Outman",
 "team": "Detroit Tigers",
-"prob": 7.1,
+"prob": 6.6,
 "mkt": 11.1,
 "fair": 8.9,
-"spot": null
+"spot": 9
 },
 "2026-07-23|824247|656716": {
 "d": "2026-07-23",
@@ -830,10 +830,10 @@
 "id": 656716,
 "name": "Zach McKinstry",
 "team": "Detroit Tigers",
-"prob": 6.9,
+"prob": 6.7,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 8
 },
 "2026-07-23|823042|545121": {
 "d": "2026-07-23",
@@ -841,10 +841,10 @@
 "id": 545121,
 "name": "Ildemaro Vargas",
 "team": "Arizona Diamondbacks",
-"prob": 6.4,
+"prob": 6.0,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 8
 },
 "2026-07-23|823042|671056": {
 "d": "2026-07-23",
@@ -866,7 +866,7 @@
 "prob": 4.1,
 "mkt": 8.3,
 "fair": 6.7,
-"spot": null
+"spot": 5
 },
 "2026-07-23|822785|683748": {
 "d": "2026-07-23",
@@ -966,5 +966,126 @@
 "mkt": null,
 "fair": null,
 "spot": 7
+},
+"2026-07-23|823042|596146": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 596146,
+"name": "Max Kepler",
+"team": "Arizona Diamondbacks",
+"prob": 17.0,
+"mkt": 15.4,
+"fair": 12.4,
+"spot": 5
+},
+"2026-07-23|823042|694374": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 694374,
+"name": "Tim Tawa",
+"team": "Arizona Diamondbacks",
+"prob": 16.0,
+"mkt": 10.5,
+"fair": 8.4,
+"spot": 6
+},
+"2026-07-23|823042|663457": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 663457,
+"name": "Lars Nootbaar",
+"team": "St. Louis Cardinals",
+"prob": 12.7,
+"mkt": 13.8,
+"fair": 11.1,
+"spot": 4
+},
+"2026-07-23|823042|699625": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 699625,
+"name": "Jimmy Crooks",
+"team": "St. Louis Cardinals",
+"prob": 11.9,
+"mkt": 11.1,
+"fair": 8.9,
+"spot": 9
+},
+"2026-07-23|823042|680728": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 680728,
+"name": "Adrian Del Castillo",
+"team": "Arizona Diamondbacks",
+"prob": 11.2,
+"mkt": 11.8,
+"fair": 9.5,
+"spot": 7
+},
+"2026-07-23|824247|623205": {
+"d": "2026-07-23",
+"g": 824247,
+"id": 623205,
+"name": "Andrew Velazquez",
+"team": "Kansas City Royals",
+"prob": 11.1,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-07-23|823042|814439": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 814439,
+"name": "Ryan Waldschmidt",
+"team": "Arizona Diamondbacks",
+"prob": 8.8,
+"mkt": 10.0,
+"fair": 8.0,
+"spot": 9
+},
+"2026-07-23|824247|668942": {
+"d": "2026-07-23",
+"g": 824247,
+"id": 668942,
+"name": "Josh Rojas",
+"team": "Kansas City Royals",
+"prob": 8.8,
+"mkt": 9.1,
+"fair": 7.3,
+"spot": 7
+},
+"2026-07-23|823042|691458": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 691458,
+"name": "Blaze Jordan",
+"team": "St. Louis Cardinals",
+"prob": 7.7,
+"mkt": 9.1,
+"fair": 7.3,
+"spot": 8
+},
+"2026-07-23|823042|665877": {
+"d": "2026-07-23",
+"g": 823042,
+"id": 665877,
+"name": "Jos\u00e9 Ferm\u00edn",
+"team": "St. Louis Cardinals",
+"prob": 6.5,
+"mkt": 7.7,
+"fair": 6.2,
+"spot": 6
+},
+"2026-07-23|824247|679845": {
+"d": "2026-07-23",
+"g": 824247,
+"id": 679845,
+"name": "Nick Loftin",
+"team": "Kansas City Royals",
+"prob": 5.7,
+"mkt": null,
+"fair": null,
+"spot": 8
 }
 }
