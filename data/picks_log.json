@@ -852,10 +852,10 @@
 "id": 656941,
 "name": "Kyle Schwarber",
 "team": "Philadelphia Phillies",
-"prob": 26.9,
-"mkt": 31.7,
-"fair": 22.6,
-"spot": null
+"prob": 29.9,
+"mkt": 33.3,
+"fair": 23.7,
+"spot": 2
 },
 "2026-07-26|823840|664034": {
 "d": "2026-07-26",
@@ -907,9 +907,9 @@
 "id": 502671,
 "name": "Paul Goldschmidt",
 "team": "New York Yankees",
-"prob": 23.8,
-"mkt": 16.7,
-"fair": 11.9,
+"prob": 24.1,
+"mkt": 17.9,
+"fair": 12.7,
 "spot": null
 },
 "2026-07-26|823028|663993": {
@@ -962,10 +962,10 @@
 "id": 547180,
 "name": "Bryce Harper",
 "team": "Philadelphia Phillies",
-"prob": 22.3,
-"mkt": 21.3,
-"fair": 15.2,
-"spot": null
+"prob": 24.3,
+"mkt": 22.2,
+"fair": 15.8,
+"spot": 3
 },
 "2026-07-26|823840|592518": {
 "d": "2026-07-26",
@@ -1226,10 +1226,10 @@
 "id": 669016,
 "name": "Brandon Marsh",
 "team": "Philadelphia Phillies",
-"prob": 18.2,
-"mkt": 14.3,
-"fair": 10.2,
-"spot": null
+"prob": 19.5,
+"mkt": 16.7,
+"fair": 11.9,
+"spot": 4
 },
 "2026-07-26|823194|666176": {
 "d": "2026-07-26",
@@ -1380,10 +1380,10 @@
 "id": 607208,
 "name": "Trea Turner",
 "team": "Philadelphia Phillies",
-"prob": 16.7,
+"prob": 19.2,
 "mkt": 16.7,
 "fair": 11.9,
-"spot": null
+"spot": 1
 },
 "2026-07-26|823599|605141": {
 "d": "2026-07-26",
@@ -1413,7 +1413,7 @@
 "id": 642708,
 "name": "Amed Rosario",
 "team": "New York Yankees",
-"prob": 16.6,
+"prob": 16.7,
 "mkt": 11.1,
 "fair": 7.9,
 "spot": null
@@ -1424,7 +1424,7 @@
 "id": 663757,
 "name": "Trent Grisham",
 "team": "New York Yankees",
-"prob": 16.3,
+"prob": 16.4,
 "mkt": 12.9,
 "fair": 9.2,
 "spot": null
@@ -1556,10 +1556,10 @@
 "id": 664761,
 "name": "Alec Bohm",
 "team": "Philadelphia Phillies",
-"prob": 14.3,
-"mkt": 13.8,
-"fair": 9.8,
-"spot": null
+"prob": 14.9,
+"mkt": 12.9,
+"fair": 9.2,
+"spot": 5
 },
 "2026-07-26|823678|605170": {
 "d": "2026-07-26",
@@ -1919,10 +1919,10 @@
 "id": 681082,
 "name": "Bryson Stott",
 "team": "Philadelphia Phillies",
-"prob": 10.5,
-"mkt": 14.3,
-"fair": 10.2,
-"spot": null
+"prob": 10.7,
+"mkt": 16.0,
+"fair": 11.4,
+"spot": 6
 },
 "2026-07-26|823194|687093": {
 "d": "2026-07-26",
@@ -1941,9 +1941,9 @@
 "id": 676609,
 "name": "Jos\u00e9 Caballero",
 "team": "New York Yankees",
-"prob": 10.1,
-"mkt": 9.1,
-"fair": 6.5,
+"prob": 10.2,
+"mkt": 8.3,
+"fair": 5.9,
 "spot": null
 },
 "2026-07-26|824246|695600": {
@@ -1999,7 +1999,7 @@
 "prob": 9.5,
 "mkt": 13.8,
 "fair": 9.8,
-"spot": null
+"spot": 7
 },
 "2026-07-26|824246|690993": {
 "d": "2026-07-26",
@@ -2326,7 +2326,7 @@
 "id": 683011,
 "name": "Anthony Volpe",
 "team": "New York Yankees",
-"prob": 6.2,
+"prob": 6.3,
 "mkt": 10.5,
 "fair": 7.5,
 "spot": null
@@ -2436,10 +2436,10 @@
 "id": 702222,
 "name": "Justin Crawford",
 "team": "Philadelphia Phillies",
-"prob": 3.9,
+"prob": 3.6,
 "mkt": 8.3,
 "fair": 5.9,
-"spot": null
+"spot": 9
 },
 "2026-07-26|823840|805300": {
 "d": "2026-07-26",
@@ -2568,9 +2568,9 @@
 "id": 669224,
 "name": "Austin Wells",
 "team": "New York Yankees",
-"prob": 13.3,
-"mkt": 10.0,
-"fair": 7.1,
+"prob": 13.5,
+"mkt": 10.8,
+"fair": 7.7,
 "spot": null
 },
 "2026-07-26|823433|691176": {
@@ -2579,7 +2579,7 @@
 "id": 691176,
 "name": "Jasson Dom\u00ednguez",
 "team": "New York Yankees",
-"prob": 12.3,
+"prob": 12.5,
 "mkt": 11.8,
 "fair": 8.4,
 "spot": null
@@ -3254,5 +3254,16 @@
 "mkt": null,
 "fair": null,
 "spot": 9
+},
+"2026-07-26|823433|687282": {
+"d": "2026-07-26",
+"g": 823433,
+"id": 687282,
+"name": "Gabriel Rincones Jr.",
+"team": "Philadelphia Phillies",
+"prob": 14.2,
+"mkt": 12.9,
+"fair": 9.2,
+"spot": 8
 }
 }
