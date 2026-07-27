@@ -214,10 +214,10 @@
 "id": 670042,
 "name": "Luke Raley",
 "team": "Seattle Mariners",
-"prob": 22.3,
-"mkt": 22.7,
-"fair": 16.2,
-"spot": null
+"prob": 22.4,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-07-27|822868|592626": {
 "d": "2026-07-27",
@@ -225,10 +225,10 @@
 "id": 592626,
 "name": "Joc Pederson",
 "team": "Texas Rangers",
-"prob": 21.5,
-"mkt": 18.5,
-"fair": 13.2,
-"spot": null
+"prob": 24.1,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-07-27|822705|686611": {
 "d": "2026-07-27",
@@ -379,10 +379,10 @@
 "id": 686527,
 "name": "Dominic Canzone",
 "team": "Seattle Mariners",
-"prob": 18.9,
-"mkt": 22.2,
-"fair": 15.9,
-"spot": null
+"prob": 20.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-07-27|824001|666139": {
 "d": "2026-07-27",
@@ -423,10 +423,10 @@
 "id": 694671,
 "name": "Wyatt Langford",
 "team": "Texas Rangers",
-"prob": 18.1,
-"mkt": 18.9,
-"fair": 13.5,
-"spot": null
+"prob": 19.8,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-07-27|823839|691788": {
 "d": "2026-07-27",
@@ -533,10 +533,10 @@
 "id": 669394,
 "name": "Jake Burger",
 "team": "Texas Rangers",
-"prob": 16.1,
-"mkt": 16.7,
-"fair": 11.9,
-"spot": null
+"prob": 16.2,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-07-27|822705|660688": {
 "d": "2026-07-27",
@@ -687,10 +687,10 @@
 "id": 702284,
 "name": "Cole Young",
 "team": "Seattle Mariners",
-"prob": 15.0,
-"mkt": 13.8,
-"fair": 9.9,
-"spot": null
+"prob": 17.3,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-07-27|823597|596019": {
 "d": "2026-07-27",
@@ -951,10 +951,10 @@
 "id": 668227,
 "name": "Randy Arozarena",
 "team": "Seattle Mariners",
-"prob": 12.6,
-"mkt": 14.3,
-"fair": 10.2,
-"spot": null
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-07-27|822868|607043": {
 "d": "2026-07-27",
@@ -962,10 +962,10 @@
 "id": 607043,
 "name": "Brandon Nimmo",
 "team": "Texas Rangers",
-"prob": 12.6,
-"mkt": 12.9,
-"fair": 9.2,
-"spot": null
+"prob": 13.3,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-07-27|823195|694192": {
 "d": "2026-07-27",
@@ -1116,10 +1116,10 @@
 "id": 677594,
 "name": "Julio Rodr\u00edguez",
 "team": "Seattle Mariners",
-"prob": 10.9,
-"mkt": 18.2,
-"fair": 13.0,
-"spot": null
+"prob": 12.1,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-07-27|824245|683002": {
 "d": "2026-07-27",
@@ -1171,10 +1171,10 @@
 "id": 694497,
 "name": "Evan Carter",
 "team": "Texas Rangers",
-"prob": 10.2,
-"mkt": 12.9,
-"fair": 9.2,
-"spot": null
+"prob": 10.6,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-07-27|824490|667472": {
 "d": "2026-07-27",
@@ -1215,10 +1215,10 @@
 "id": 641487,
 "name": "J.P. Crawford",
 "team": "Seattle Mariners",
-"prob": 10.1,
-"mkt": 11.1,
-"fair": 7.9,
-"spot": null
+"prob": 9.6,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-07-27|822868|677649": {
 "d": "2026-07-27",
@@ -1226,10 +1226,10 @@
 "id": 677649,
 "name": "Ezequiel Duran",
 "team": "Texas Rangers",
-"prob": 10.0,
-"mkt": 11.1,
-"fair": 7.9,
-"spot": null
+"prob": 11.1,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-07-27|824977|702332": {
 "d": "2026-07-27",
@@ -1325,10 +1325,10 @@
 "id": 806068,
 "name": "Colt Emerson",
 "team": "Seattle Mariners",
-"prob": 9.5,
-"mkt": 13.8,
-"fair": 9.9,
-"spot": null
+"prob": 9.0,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-07-27|823597|643289": {
 "d": "2026-07-27",
@@ -1413,10 +1413,10 @@
 "id": 647304,
 "name": "Josh Naylor",
 "team": "Seattle Mariners",
-"prob": 8.1,
-"mkt": 13.8,
-"fair": 9.9,
-"spot": null
+"prob": 8.5,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-07-27|823839|592663": {
 "d": "2026-07-27",
@@ -1721,10 +1721,10 @@
 "id": 670032,
 "name": "Nicky Lopez",
 "team": "Texas Rangers",
-"prob": 3.4,
-"mkt": 6.7,
-"fair": 4.8,
-"spot": null
+"prob": 3.3,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-07-27|823839|702222": {
 "d": "2026-07-27",
@@ -1780,5 +1780,38 @@
 "mkt": 8.3,
 "fair": 5.9,
 "spot": null
+},
+"2026-07-27|822868|641598": {
+"d": "2026-07-27",
+"g": 822868,
+"id": 641598,
+"name": "Mitch Garver",
+"team": "Seattle Mariners",
+"prob": 10.3,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-07-27|822868|669701": {
+"d": "2026-07-27",
+"g": 822868,
+"id": 669701,
+"name": "Josh Smith",
+"team": "Texas Rangers",
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-07-27|822868|553869": {
+"d": "2026-07-27",
+"g": 822868,
+"id": 553869,
+"name": "Elias D\u00edaz",
+"team": "Texas Rangers",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
