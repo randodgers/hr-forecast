@@ -126,7 +126,7 @@
 "id": 575929,
 "name": "Willson Contreras",
 "team": "Boston Red Sox",
-"prob": 25.0,
+"prob": 25.3,
 "mkt": 23.3,
 "fair": 16.6,
 "spot": null
@@ -247,7 +247,7 @@
 "id": 677800,
 "name": "Wilyer Abreu",
 "team": "Boston Red Sox",
-"prob": 21.5,
+"prob": 21.7,
 "mkt": 22.2,
 "fair": 15.9,
 "spot": null
@@ -269,7 +269,7 @@
 "id": 701762,
 "name": "Nick Kurtz",
 "team": "Athletics",
-"prob": 21.3,
+"prob": 21.6,
 "mkt": 23.3,
 "fair": 16.6,
 "spot": null
@@ -368,7 +368,7 @@
 "id": 691016,
 "name": "Tyler Soderstrom",
 "team": "Athletics",
-"prob": 19.2,
+"prob": 19.5,
 "mkt": 17.4,
 "fair": 12.4,
 "spot": null
@@ -841,7 +841,7 @@
 "id": 678882,
 "name": "Ceddanne Rafaela",
 "team": "Boston Red Sox",
-"prob": 13.6,
+"prob": 13.8,
 "mkt": 12.9,
 "fair": 9.2,
 "spot": null
@@ -852,7 +852,7 @@
 "id": 680776,
 "name": "Jarren Duran",
 "team": "Boston Red Sox",
-"prob": 13.6,
+"prob": 13.7,
 "mkt": 17.4,
 "fair": 12.4,
 "spot": null
@@ -907,7 +907,7 @@
 "id": 641680,
 "name": "Jonah Heim",
 "team": "Athletics",
-"prob": 13.1,
+"prob": 13.2,
 "mkt": 17.4,
 "fair": 12.4,
 "spot": null
@@ -1237,7 +1237,7 @@
 "id": 702332,
 "name": "Caleb Durbin",
 "team": "Boston Red Sox",
-"prob": 9.9,
+"prob": 10.0,
 "mkt": 10.0,
 "fair": 7.1,
 "spot": null
@@ -1292,7 +1292,7 @@
 "id": 807799,
 "name": "Masataka Yoshida",
 "team": "Boston Red Sox",
-"prob": 9.7,
+"prob": 9.8,
 "mkt": 13.8,
 "fair": 9.9,
 "spot": null
@@ -1314,7 +1314,7 @@
 "id": 805779,
 "name": "Jacob Wilson",
 "team": "Athletics",
-"prob": 9.6,
+"prob": 9.7,
 "mkt": 13.8,
 "fair": 9.9,
 "spot": null
@@ -1457,7 +1457,7 @@
 "id": 703607,
 "name": "Henry Bolte",
 "team": "Athletics",
-"prob": 7.5,
+"prob": 7.6,
 "mkt": 15.4,
 "fair": 11.0,
 "spot": null
@@ -1589,7 +1589,7 @@
 "id": 657136,
 "name": "Connor Wong",
 "team": "Boston Red Sox",
-"prob": 6.0,
+"prob": 6.1,
 "mkt": 12.9,
 "fair": 9.2,
 "spot": null
