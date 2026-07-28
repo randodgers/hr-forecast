@@ -731,9 +731,9 @@
 "id": 663993,
 "name": "Nathaniel Lowe",
 "team": "Cincinnati Reds",
-"prob": 29.8,
-"mkt": 20.0,
-"fair": 14.3,
+"prob": 29.4,
+"mkt": null,
+"fair": null,
 "spot": 5
 },
 "2026-07-28|824489|663993": {
@@ -764,9 +764,9 @@
 "id": 682829,
 "name": "Elly De La Cruz",
 "team": "Cincinnati Reds",
-"prob": 31.8,
-"mkt": 23.8,
-"fair": 17.0,
+"prob": 31.3,
+"mkt": null,
+"fair": null,
 "spot": 1
 },
 "2026-07-28|824490|701398": {
@@ -775,9 +775,9 @@
 "id": 701398,
 "name": "Sal Stewart",
 "team": "Cincinnati Reds",
-"prob": 30.8,
-"mkt": 23.3,
-"fair": 16.6,
+"prob": 30.3,
+"mkt": null,
+"fair": null,
 "spot": 2
 },
 "2026-07-28|824489|553993": {
@@ -841,9 +841,9 @@
 "id": 553993,
 "name": "Eugenio Su\u00e1rez",
 "team": "Cincinnati Reds",
-"prob": 26.9,
-"mkt": 22.7,
-"fair": 16.2,
+"prob": 26.5,
+"mkt": null,
+"fair": null,
 "spot": 4
 },
 "2026-07-28|823838|691788": {
@@ -863,9 +863,9 @@
 "id": 663886,
 "name": "Tyler Stephenson",
 "team": "Cincinnati Reds",
-"prob": 24.8,
-"mkt": 17.9,
-"fair": 12.8,
+"prob": 24.5,
+"mkt": null,
+"fair": null,
 "spot": 6
 },
 "2026-07-28|824490|682657": {
@@ -874,9 +874,9 @@
 "id": 682657,
 "name": "Angel Mart\u00ednez",
 "team": "Cleveland Guardians",
-"prob": 22.8,
-"mkt": 16.7,
-"fair": 11.9,
+"prob": 22.5,
+"mkt": null,
+"fair": null,
 "spot": 7
 },
 "2026-07-28|823676|665019": {
@@ -940,9 +940,9 @@
 "id": 668709,
 "name": "JJ Bleday",
 "team": "Cincinnati Reds",
-"prob": 23.4,
-"mkt": 23.8,
-"fair": 17.0,
+"prob": 23.1,
+"mkt": null,
+"fair": null,
 "spot": 3
 },
 "2026-07-28|822703|686611": {
@@ -1050,9 +1050,9 @@
 "id": 672275,
 "name": "Patrick Bailey",
 "team": "Cleveland Guardians",
-"prob": 17.9,
-"mkt": 15.4,
-"fair": 11.0,
+"prob": 17.7,
+"mkt": null,
+"fair": null,
 "spot": 8
 },
 "2026-07-28|824490|700932": {
@@ -1061,9 +1061,9 @@
 "id": 700932,
 "name": "Kyle Manzardo",
 "team": "Cleveland Guardians",
-"prob": 18.1,
-"mkt": 17.9,
-"fair": 12.8,
+"prob": 17.8,
+"mkt": null,
+"fair": null,
 "spot": 6
 },
 "2026-07-28|823676|668904": {
@@ -1138,9 +1138,9 @@
 "id": 683953,
 "name": "Travis Bazzana",
 "team": "Cleveland Guardians",
-"prob": 17.8,
-"mkt": 16.0,
-"fair": 11.4,
+"prob": 17.5,
+"mkt": null,
+"fair": null,
 "spot": 4
 },
 "2026-07-28|823838|669065": {
@@ -1204,9 +1204,9 @@
 "id": 800050,
 "name": "Chase DeLauter",
 "team": "Cleveland Guardians",
-"prob": 17.2,
-"mkt": 17.4,
-"fair": 12.4,
+"prob": 17.0,
+"mkt": null,
+"fair": null,
 "spot": 3
 },
 "2026-07-28|824243|805808": {
@@ -1523,9 +1523,9 @@
 "id": 608070,
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
-"prob": 13.8,
-"mkt": 20.0,
-"fair": 14.3,
+"prob": 13.6,
+"mkt": null,
+"fair": null,
 "spot": 2
 },
 "2026-07-28|824243|683002": {
@@ -1721,9 +1721,9 @@
 "id": 677587,
 "name": "Brayan Rocchio",
 "team": "Cleveland Guardians",
-"prob": 10.7,
-"mkt": 15.4,
-"fair": 11.0,
+"prob": 10.6,
+"mkt": null,
+"fair": null,
 "spot": 5
 },
 "2026-07-28|822949|650490": {
@@ -1754,9 +1754,9 @@
 "id": 667472,
 "name": "Dane Myers",
 "team": "Cincinnati Reds",
-"prob": 10.1,
-"mkt": 13.8,
-"fair": 9.8,
+"prob": 9.9,
+"mkt": null,
+"fair": null,
 "spot": 7
 },
 "2026-07-28|823350|571448": {
@@ -1952,9 +1952,9 @@
 "id": 670770,
 "name": "TJ Friedl",
 "team": "Cincinnati Reds",
-"prob": 6.6,
-"mkt": 11.8,
-"fair": 8.4,
+"prob": 6.5,
+"mkt": null,
+"fair": null,
 "spot": 9
 },
 "2026-07-28|824243|687637": {
@@ -2173,8 +2173,8 @@
 "name": "Steven Kwan",
 "team": "Cleveland Guardians",
 "prob": 2.9,
-"mkt": 8.3,
-"fair": 5.9,
+"mkt": null,
+"fair": null,
 "spot": 1
 },
 "2026-07-28|822949|802415": {
@@ -2205,9 +2205,9 @@
 "id": 690984,
 "name": "Petey Halpin",
 "team": "Cleveland Guardians",
-"prob": 13.6,
-"mkt": 13.8,
-"fair": 9.8,
+"prob": 13.4,
+"mkt": null,
+"fair": null,
 "spot": 9
 },
 "2026-07-28|824490|695490": {
@@ -2217,8 +2217,8 @@
 "name": "Edwin Arroyo",
 "team": "Cincinnati Reds",
 "prob": 4.5,
-"mkt": 12.9,
-"fair": 9.2,
+"mkt": null,
+"fair": null,
 "spot": 8
 }
 }
