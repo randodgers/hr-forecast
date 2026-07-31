@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-07-31T11:55:30+00:00",
+ "generatedAtUtc": "2026-07-31T15:15:29+00:00",
  "date": "2026-07-31",
  "gameCount": 15,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 10.0,
-   "tempF": 96.7,
-   "windMph": 9.8,
-   "windFromDeg": 235,
-   "windOutMph": 5.8,
-   "humidityPct": 16,
+   "hrfi": 9.9,
+   "tempF": 95.9,
+   "windMph": 9.4,
+   "windFromDeg": 234,
+   "windOutMph": 5.6,
+   "humidityPct": 18,
    "cloudPct": 0,
    "parkFactorHR": 100,
    "elevationFt": 24
@@ -31,13 +31,13 @@
    "dayNight": "night",
    "roof": "Retractable",
    "roofClosed": false,
-   "hrfi": 9.3,
-   "tempF": 91.1,
-   "windMph": 10.6,
-   "windFromDeg": 187,
-   "windOutMph": 5.8,
+   "hrfi": 9.5,
+   "tempF": 91.5,
+   "windMph": 11.7,
+   "windFromDeg": 184,
+   "windOutMph": 6.6,
    "humidityPct": 51,
-   "cloudPct": 1,
+   "cloudPct": 76,
    "parkFactorHR": 105,
    "elevationFt": 45
   },
@@ -50,12 +50,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 8.7,
-   "tempF": 90.7,
-   "windMph": 7.8,
-   "windFromDeg": 77,
-   "windOutMph": -1.4,
-   "humidityPct": 15,
+   "hrfi": 8.0,
+   "tempF": 89.9,
+   "windMph": 9.2,
+   "windFromDeg": 58,
+   "windOutMph": -3.2,
+   "humidityPct": 16,
    "cloudPct": 100,
    "parkFactorHR": 105,
    "elevationFt": 5190
@@ -69,13 +69,13 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 8.3,
-   "tempF": 87.4,
-   "windMph": 7.4,
-   "windFromDeg": 249,
-   "windOutMph": 4.0,
-   "humidityPct": 46,
-   "cloudPct": 3,
+   "hrfi": 8.0,
+   "tempF": 85.1,
+   "windMph": 7.3,
+   "windFromDeg": 243,
+   "windOutMph": 4.1,
+   "humidityPct": 53,
+   "cloudPct": 7,
    "parkFactorHR": 113,
    "elevationFt": 151
   },
@@ -88,13 +88,13 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 8.1,
-   "tempF": 89.7,
-   "windMph": 4.8,
-   "windFromDeg": 259,
-   "windOutMph": 1.2,
+   "hrfi": 7.9,
+   "tempF": 89.8,
+   "windMph": 5.8,
+   "windFromDeg": 238,
+   "windOutMph": 0.2,
    "humidityPct": 33,
-   "cloudPct": 94,
+   "cloudPct": 100,
    "parkFactorHR": 105,
    "elevationFt": 1001
   },
@@ -107,12 +107,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 7.4,
-   "tempF": 86.8,
-   "windMph": 3.4,
-   "windFromDeg": 262,
-   "windOutMph": 1.3,
-   "humidityPct": 37,
+   "hrfi": 7.2,
+   "tempF": 87.0,
+   "windMph": 2.1,
+   "windFromDeg": 288,
+   "windOutMph": 0.3,
+   "humidityPct": 43,
    "cloudPct": 0,
    "parkFactorHR": 106,
    "elevationFt": 33
@@ -126,12 +126,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 7.1,
-   "tempF": 90.2,
-   "windMph": 4.8,
-   "windFromDeg": 158,
-   "windOutMph": -2.3,
-   "humidityPct": 30,
+   "hrfi": 6.9,
+   "tempF": 90.9,
+   "windMph": 5.3,
+   "windFromDeg": 126,
+   "windOutMph": -3.2,
+   "humidityPct": 29,
    "cloudPct": 100,
    "parkFactorHR": 123,
    "elevationFt": 535
@@ -145,13 +145,13 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 6.6,
-   "tempF": 82.7,
-   "windMph": 4.0,
-   "windFromDeg": 109,
-   "windOutMph": 0.3,
-   "humidityPct": 52,
-   "cloudPct": 8,
+   "hrfi": 6.8,
+   "tempF": 80.1,
+   "windMph": 6.0,
+   "windFromDeg": 146,
+   "windOutMph": 2.5,
+   "humidityPct": 66,
+   "cloudPct": 4,
    "parkFactorHR": 104,
    "elevationFt": 10
   },
@@ -165,12 +165,12 @@
    "roof": "Open",
    "roofClosed": false,
    "hrfi": 6.4,
-   "tempF": 76.4,
-   "windMph": 6.1,
+   "tempF": 76.1,
+   "windMph": 6.3,
    "windFromDeg": 253,
-   "windOutMph": 2.5,
+   "windOutMph": 2.6,
    "humidityPct": 69,
-   "cloudPct": 4,
+   "cloudPct": 3,
    "parkFactorHR": 127,
    "elevationFt": 515
   },
@@ -184,33 +184,14 @@
    "roof": "Retractable",
    "roofClosed": false,
    "hrfi": 6.2,
-   "tempF": 76.6,
-   "windMph": 3.5,
-   "windFromDeg": 145,
-   "windOutMph": 2.0,
-   "humidityPct": 46,
+   "tempF": 78.8,
+   "windMph": 3.2,
+   "windFromDeg": 98,
+   "windOutMph": 0.8,
+   "humidityPct": 54,
    "cloudPct": 100,
    "parkFactorHR": 104,
    "elevationFt": 270
-  },
-  {
-   "venue": "Progressive Field",
-   "city": "Cleveland",
-   "matchup": "Arizona Diamondbacks @ Cleveland Guardians",
-   "gameTimeUtc": "2026-07-31T23:10:00Z",
-   "localHour": "2026-07-31T19:00",
-   "dayNight": "night",
-   "roof": "Open",
-   "roofClosed": false,
-   "hrfi": 6.0,
-   "tempF": 82.5,
-   "windMph": 4.1,
-   "windFromDeg": 347,
-   "windOutMph": -2.4,
-   "humidityPct": 50,
-   "cloudPct": 100,
-   "parkFactorHR": 85,
-   "elevationFt": 653
   },
   {
    "venue": "Wrigley Field",
@@ -221,15 +202,34 @@
    "dayNight": "day",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 5.9,
-   "tempF": 78.6,
-   "windMph": 13.4,
-   "windFromDeg": 120,
-   "windOutMph": -1.0,
-   "humidityPct": 71,
+   "hrfi": 5.8,
+   "tempF": 78.3,
+   "windMph": 12.1,
+   "windFromDeg": 118,
+   "windOutMph": -1.1,
+   "humidityPct": 69,
    "cloudPct": 100,
    "parkFactorHR": 99,
    "elevationFt": 595
+  },
+  {
+   "venue": "Progressive Field",
+   "city": "Cleveland",
+   "matchup": "Arizona Diamondbacks @ Cleveland Guardians",
+   "gameTimeUtc": "2026-07-31T23:10:00Z",
+   "localHour": "2026-07-31T19:00",
+   "dayNight": "night",
+   "roof": "Open",
+   "roofClosed": false,
+   "hrfi": 5.8,
+   "tempF": 82.0,
+   "windMph": 5.2,
+   "windFromDeg": 20,
+   "windOutMph": -2.9,
+   "humidityPct": 54,
+   "cloudPct": 100,
+   "parkFactorHR": 85,
+   "elevationFt": 653
   },
   {
    "venue": "T-Mobile Park",
@@ -240,12 +240,12 @@
    "dayNight": "night",
    "roof": "Retractable",
    "roofClosed": false,
-   "hrfi": 5.7,
-   "tempF": 79.1,
-   "windMph": 3.6,
-   "windFromDeg": 349,
-   "windOutMph": -1.1,
-   "humidityPct": 35,
+   "hrfi": 5.8,
+   "tempF": 79.0,
+   "windMph": 3.0,
+   "windFromDeg": 343,
+   "windOutMph": -0.7,
+   "humidityPct": 31,
    "cloudPct": 0,
    "parkFactorHR": 93,
    "elevationFt": 10
@@ -260,12 +260,12 @@
    "roof": "Dome",
    "roofClosed": true,
    "hrfi": 5.0,
-   "tempF": 83.3,
-   "windMph": 7.1,
-   "windFromDeg": 259,
+   "tempF": 82.8,
+   "windMph": 6.1,
+   "windFromDeg": 264,
    "windOutMph": 0.0,
    "humidityPct": 82,
-   "cloudPct": 99,
+   "cloudPct": 100,
    "parkFactorHR": 100,
    "elevationFt": 15
   },
@@ -279,12 +279,12 @@
    "roof": "Open",
    "roofClosed": false,
    "hrfi": 4.8,
-   "tempF": 74.0,
-   "windMph": 5.8,
-   "windFromDeg": 306,
-   "windOutMph": -2.0,
-   "humidityPct": 86,
-   "cloudPct": 55,
+   "tempF": 75.1,
+   "windMph": 6.8,
+   "windFromDeg": 308,
+   "windOutMph": -2.5,
+   "humidityPct": 82,
+   "cloudPct": 42,
    "parkFactorHR": 102,
    "elevationFt": 23
   }
@@ -306,7 +306,7 @@
    "l10Hr": 4,
    "l10Pa": 44,
    "brlPa": 12.3,
-   "probPct": 44.7,
+   "probPct": 45.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -319,7 +319,7 @@
     "pitcherMult": 1.101,
     "arsenalMult": 1.18,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
    }
   },
   {
@@ -338,7 +338,7 @@
    "l10Hr": 2,
    "l10Pa": 37,
    "brlPa": 9.5,
-   "probPct": 38.5,
+   "probPct": 37.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -351,7 +351,7 @@
     "pitcherMult": 1.514,
     "arsenalMult": 1.16,
     "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.152
    }
   },
   {
@@ -370,7 +370,7 @@
    "l10Hr": 4,
    "l10Pa": 41,
    "brlPa": 9.6,
-   "probPct": 36.8,
+   "probPct": 35.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -383,7 +383,7 @@
     "pitcherMult": 1.037,
     "arsenalMult": 1.06,
     "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.152
    }
   },
   {
@@ -402,7 +402,7 @@
    "l10Hr": 3,
    "l10Pa": 42,
    "brlPa": 7.5,
-   "probPct": 34.4,
+   "probPct": 34.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -415,7 +415,7 @@
     "pitcherMult": 1.362,
     "arsenalMult": 1.163,
     "parkMult": 1.0,
-    "weatherMult": 1.256
+    "weatherMult": 1.246
    }
   },
   {
@@ -434,7 +434,7 @@
    "l10Hr": 2,
    "l10Pa": 41,
    "brlPa": 13.2,
-   "probPct": 32.4,
+   "probPct": 32.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -447,7 +447,7 @@
     "pitcherMult": 0.961,
     "arsenalMult": 1.18,
     "parkMult": 1.196,
-    "weatherMult": 1.103
+    "weatherMult": 1.097
    }
   },
   {
@@ -466,7 +466,7 @@
    "l10Hr": 3,
    "l10Pa": 44,
    "brlPa": 10.1,
-   "probPct": 29.8,
+   "probPct": 29.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -479,7 +479,7 @@
     "pitcherMult": 1.194,
     "arsenalMult": 1.146,
     "parkMult": 0.941,
-    "weatherMult": 1.036
+    "weatherMult": 1.039
    }
   },
   {
@@ -498,7 +498,7 @@
    "l10Hr": 6,
    "l10Pa": 44,
    "brlPa": 7.5,
-   "probPct": 29.1,
+   "probPct": 28.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -511,7 +511,7 @@
     "pitcherMult": 0.973,
     "arsenalMult": 1.055,
     "parkMult": 1.042,
-    "weatherMult": 1.156
+    "weatherMult": 1.143
    }
   },
   {
@@ -530,7 +530,7 @@
    "l10Hr": 3,
    "l10Pa": 43,
    "brlPa": 9.8,
-   "probPct": 29.1,
+   "probPct": 28.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -543,7 +543,7 @@
     "pitcherMult": 0.973,
     "arsenalMult": 1.052,
     "parkMult": 1.042,
-    "weatherMult": 1.156
+    "weatherMult": 1.143
    }
   },
   {
@@ -562,7 +562,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 7.8,
-   "probPct": 28.5,
+   "probPct": 28.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -575,39 +575,7 @@
     "pitcherMult": 1.362,
     "arsenalMult": 1.083,
     "parkMult": 1.0,
-    "weatherMult": 1.256
-   }
-  },
-  {
-   "name": "Salvador Perez",
-   "bats": "R",
-   "team": "Kansas City Royals",
-   "opponent": "Colorado Rockies",
-   "pitcher": "Tomoyuki Sugano",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.88",
-   "platoonEdge": false,
-   "venue": "Coors Field",
-   "lineupSpot": null,
-   "seasonHr": 15,
-   "seasonPa": 430,
-   "l10Hr": 3,
-   "l10Pa": 43,
-   "brlPa": 7.4,
-   "probPct": 28.0,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824325,
-   "playerId": 521692,
-   "factors": {
-    "batterRatePct": 3.65,
-    "formMult": 1.2,
-    "pitcherMult": 1.232,
-    "arsenalMult": 1.152,
-    "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.246
    }
   },
   {
@@ -643,35 +611,35 @@
    }
   },
   {
-   "name": "James Wood",
-   "bats": "L",
-   "team": "Washington Nationals",
-   "opponent": "Atlanta Braves",
-   "pitcher": "Bryce Elder",
+   "name": "Salvador Perez",
+   "bats": "R",
+   "team": "Kansas City Royals",
+   "opponent": "Colorado Rockies",
+   "pitcher": "Tomoyuki Sugano",
    "pitcherHand": "R",
-   "pitcherHr9": "1.43",
-   "platoonEdge": true,
-   "venue": "Truist Park",
+   "pitcherHr9": "1.88",
+   "platoonEdge": false,
+   "venue": "Coors Field",
    "lineupSpot": null,
-   "seasonHr": 30,
-   "seasonPa": 518,
-   "l10Hr": 2,
-   "l10Pa": 49,
-   "brlPa": 11.4,
-   "probPct": 26.4,
+   "seasonHr": 15,
+   "seasonPa": 430,
+   "l10Hr": 3,
+   "l10Pa": 43,
+   "brlPa": 7.4,
+   "probPct": 27.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
-   "gamePk": 824892,
-   "playerId": 695578,
+   "gamePk": 824325,
+   "playerId": 521692,
    "factors": {
-    "batterRatePct": 5.87,
-    "formMult": 0.914,
-    "pitcherMult": 0.973,
-    "arsenalMult": 1.146,
+    "batterRatePct": 3.65,
+    "formMult": 1.2,
+    "pitcherMult": 1.232,
+    "arsenalMult": 1.152,
     "parkMult": 1.042,
-    "weatherMult": 1.156
+    "weatherMult": 1.152
    }
   },
   {
@@ -690,7 +658,7 @@
    "l10Hr": 3,
    "l10Pa": 38,
    "brlPa": 10.0,
-   "probPct": 26.1,
+   "probPct": 26.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -703,7 +671,39 @@
     "pitcherMult": 1.043,
     "arsenalMult": 1.07,
     "parkMult": 1.034,
-    "weatherMult": 1.078
+    "weatherMult": 1.088
+   }
+  },
+  {
+   "name": "James Wood",
+   "bats": "L",
+   "team": "Washington Nationals",
+   "opponent": "Atlanta Braves",
+   "pitcher": "Bryce Elder",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.43",
+   "platoonEdge": true,
+   "venue": "Truist Park",
+   "lineupSpot": null,
+   "seasonHr": 30,
+   "seasonPa": 518,
+   "l10Hr": 2,
+   "l10Pa": 49,
+   "brlPa": 11.4,
+   "probPct": 26.2,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824892,
+   "playerId": 695578,
+   "factors": {
+    "batterRatePct": 5.87,
+    "formMult": 0.914,
+    "pitcherMult": 0.973,
+    "arsenalMult": 1.146,
+    "parkMult": 1.042,
+    "weatherMult": 1.143
    }
   },
   {
@@ -735,7 +735,7 @@
     "pitcherMult": 0.892,
     "arsenalMult": 1.019,
     "parkMult": 1.23,
-    "weatherMult": 1.07
+    "weatherMult": 1.069
    }
   },
   {
@@ -754,7 +754,7 @@
    "l10Hr": 2,
    "l10Pa": 46,
    "brlPa": 10.0,
-   "probPct": 25.3,
+   "probPct": 25.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -767,39 +767,7 @@
     "pitcherMult": 1.179,
     "arsenalMult": 1.111,
     "parkMult": 0.992,
-    "weatherMult": 1.043
-   }
-  },
-  {
-   "name": "Hao-Yu Lee",
-   "bats": "R",
-   "team": "Detroit Tigers",
-   "opponent": "Athletics",
-   "pitcher": "Jeffrey Springs",
-   "pitcherHand": "L",
-   "pitcherHr9": "2.34",
-   "platoonEdge": true,
-   "venue": "Sutter Health Park",
-   "lineupSpot": null,
-   "seasonHr": 6,
-   "seasonPa": 196,
-   "l10Hr": 2,
-   "l10Pa": 31,
-   "brlPa": 6.6,
-   "probPct": 25.0,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824975,
-   "playerId": 701678,
-   "factors": {
-    "batterRatePct": 3.16,
-    "formMult": 1.2,
-    "pitcherMult": 1.362,
-    "arsenalMult": 1.043,
-    "parkMult": 1.0,
-    "weatherMult": 1.256
+    "weatherMult": 1.039
    }
   },
   {
@@ -835,99 +803,35 @@
    }
   },
   {
-   "name": "Jo Adell",
+   "name": "Hao-Yu Lee",
    "bats": "R",
-   "team": "Los Angeles Angels",
-   "opponent": "Milwaukee Brewers",
-   "pitcher": "Shane Drohan",
+   "team": "Detroit Tigers",
+   "opponent": "Athletics",
+   "pitcher": "Jeffrey Springs",
    "pitcherHand": "L",
-   "pitcherHr9": "0.66",
+   "pitcherHr9": "2.34",
    "platoonEdge": true,
-   "venue": "Angel Stadium",
+   "venue": "Sutter Health Park",
    "lineupSpot": null,
-   "seasonHr": 16,
-   "seasonPa": 446,
-   "l10Hr": 3,
-   "l10Pa": 39,
-   "brlPa": 6.1,
-   "probPct": 24.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 823999,
-   "playerId": 666176,
-   "factors": {
-    "batterRatePct": 4.39,
-    "formMult": 1.2,
-    "pitcherMult": 0.956,
-    "arsenalMult": 1.013,
-    "parkMult": 1.11,
-    "weatherMult": 1.164
-   }
-  },
-  {
-   "name": "Jeremy Pe\u00f1a",
-   "bats": "R",
-   "team": "Houston Astros",
-   "opponent": "Texas Rangers",
-   "pitcher": "Nathan Eovaldi",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.62",
-   "platoonEdge": false,
-   "venue": "Daikin Park",
-   "lineupSpot": null,
-   "seasonHr": 12,
-   "seasonPa": 264,
-   "l10Hr": 6,
-   "l10Pa": 43,
-   "brlPa": 4.2,
-   "probPct": 24.3,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824164,
-   "playerId": 665161,
-   "factors": {
-    "batterRatePct": 3.76,
-    "formMult": 1.2,
-    "pitcherMult": 1.118,
-    "arsenalMult": 1.027,
-    "parkMult": 1.042,
-    "weatherMult": 1.214
-   }
-  },
-  {
-   "name": "Drake Baldwin",
-   "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Washington Nationals",
-   "pitcher": "Foster Griffin",
-   "pitcherHand": "L",
-   "pitcherHr9": "1.23",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 20,
-   "seasonPa": 383,
+   "seasonHr": 6,
+   "seasonPa": 196,
    "l10Hr": 2,
-   "l10Pa": 45,
-   "brlPa": 9.9,
-   "probPct": 24.2,
+   "l10Pa": 31,
+   "brlPa": 6.6,
+   "probPct": 24.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
-   "gamePk": 824892,
-   "playerId": 686948,
+   "gamePk": 824975,
+   "playerId": 701678,
    "factors": {
-    "batterRatePct": 4.85,
-    "formMult": 0.995,
-    "pitcherMult": 1.029,
-    "arsenalMult": 1.092,
-    "parkMult": 1.042,
-    "weatherMult": 1.156
+    "batterRatePct": 3.16,
+    "formMult": 1.2,
+    "pitcherMult": 1.362,
+    "arsenalMult": 1.043,
+    "parkMult": 1.0,
+    "weatherMult": 1.246
    }
   },
   {
@@ -946,7 +850,7 @@
    "l10Hr": 4,
    "l10Pa": 35,
    "brlPa": 7.3,
-   "probPct": 24.2,
+   "probPct": 24.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -959,7 +863,39 @@
     "pitcherMult": 0.889,
     "arsenalMult": 0.981,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
+   }
+  },
+  {
+   "name": "Jeremy Pe\u00f1a",
+   "bats": "R",
+   "team": "Houston Astros",
+   "opponent": "Texas Rangers",
+   "pitcher": "Nathan Eovaldi",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.62",
+   "platoonEdge": false,
+   "venue": "Daikin Park",
+   "lineupSpot": null,
+   "seasonHr": 12,
+   "seasonPa": 264,
+   "l10Hr": 6,
+   "l10Pa": 43,
+   "brlPa": 4.2,
+   "probPct": 24.5,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824164,
+   "playerId": 665161,
+   "factors": {
+    "batterRatePct": 3.76,
+    "formMult": 1.2,
+    "pitcherMult": 1.118,
+    "arsenalMult": 1.027,
+    "parkMult": 1.042,
+    "weatherMult": 1.227
    }
   },
   {
@@ -978,7 +914,7 @@
    "l10Hr": 3,
    "l10Pa": 27,
    "brlPa": 8.3,
-   "probPct": 24.1,
+   "probPct": 24.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -991,39 +927,71 @@
     "pitcherMult": 1.043,
     "arsenalMult": 1.038,
     "parkMult": 1.034,
-    "weatherMult": 1.078
+    "weatherMult": 1.088
    }
   },
   {
-   "name": "Carter Jensen",
-   "bats": "L",
-   "team": "Kansas City Royals",
-   "opponent": "Colorado Rockies",
-   "pitcher": "Tomoyuki Sugano",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.88",
+   "name": "Jo Adell",
+   "bats": "R",
+   "team": "Los Angeles Angels",
+   "opponent": "Milwaukee Brewers",
+   "pitcher": "Shane Drohan",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.66",
    "platoonEdge": true,
-   "venue": "Coors Field",
+   "venue": "Angel Stadium",
    "lineupSpot": null,
-   "seasonHr": 14,
-   "seasonPa": 402,
-   "l10Hr": 1,
-   "l10Pa": 42,
-   "brlPa": 5.7,
+   "seasonHr": 16,
+   "seasonPa": 446,
+   "l10Hr": 3,
+   "l10Pa": 39,
+   "brlPa": 6.1,
    "probPct": 24.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
-   "gamePk": 824325,
-   "playerId": 695600,
+   "gamePk": 823999,
+   "playerId": 666176,
    "factors": {
-    "batterRatePct": 3.52,
-    "formMult": 0.88,
-    "pitcherMult": 1.514,
-    "arsenalMult": 1.12,
+    "batterRatePct": 4.39,
+    "formMult": 1.2,
+    "pitcherMult": 0.956,
+    "arsenalMult": 1.013,
+    "parkMult": 1.11,
+    "weatherMult": 1.149
+   }
+  },
+  {
+   "name": "Drake Baldwin",
+   "bats": "L",
+   "team": "Atlanta Braves",
+   "opponent": "Washington Nationals",
+   "pitcher": "Foster Griffin",
+   "pitcherHand": "L",
+   "pitcherHr9": "1.23",
+   "platoonEdge": false,
+   "venue": "Truist Park",
+   "lineupSpot": null,
+   "seasonHr": 20,
+   "seasonPa": 383,
+   "l10Hr": 2,
+   "l10Pa": 45,
+   "brlPa": 9.9,
+   "probPct": 24.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824892,
+   "playerId": 686948,
+   "factors": {
+    "batterRatePct": 4.85,
+    "formMult": 0.995,
+    "pitcherMult": 1.029,
+    "arsenalMult": 1.092,
     "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.143
    }
   },
   {
@@ -1059,6 +1027,38 @@
    }
   },
   {
+   "name": "Carter Jensen",
+   "bats": "L",
+   "team": "Kansas City Royals",
+   "opponent": "Colorado Rockies",
+   "pitcher": "Tomoyuki Sugano",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.88",
+   "platoonEdge": true,
+   "venue": "Coors Field",
+   "lineupSpot": null,
+   "seasonHr": 14,
+   "seasonPa": 402,
+   "l10Hr": 1,
+   "l10Pa": 42,
+   "brlPa": 5.7,
+   "probPct": 23.5,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824325,
+   "playerId": 695600,
+   "factors": {
+    "batterRatePct": 3.52,
+    "formMult": 0.88,
+    "pitcherMult": 1.514,
+    "arsenalMult": 1.12,
+    "parkMult": 1.042,
+    "weatherMult": 1.152
+   }
+  },
+  {
    "name": "Pete Crow-Armstrong",
    "bats": "L",
    "team": "Chicago Cubs",
@@ -1074,7 +1074,7 @@
    "l10Hr": 3,
    "l10Pa": 49,
    "brlPa": 7.1,
-   "probPct": 23.5,
+   "probPct": 23.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1087,7 +1087,7 @@
     "pitcherMult": 1.051,
     "arsenalMult": 1.047,
     "parkMult": 0.992,
-    "weatherMult": 1.043
+    "weatherMult": 1.039
    }
   },
   {
@@ -1119,7 +1119,7 @@
     "pitcherMult": 1.111,
     "arsenalMult": 1.114,
     "parkMult": 1.017,
-    "weatherMult": 0.99
+    "weatherMult": 0.991
    }
   },
   {
@@ -1138,7 +1138,7 @@
    "l10Hr": 2,
    "l10Pa": 45,
    "brlPa": 9.2,
-   "probPct": 23.0,
+   "probPct": 22.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1151,7 +1151,7 @@
     "pitcherMult": 1.029,
     "arsenalMult": 1.05,
     "parkMult": 1.042,
-    "weatherMult": 1.156
+    "weatherMult": 1.143
    }
   },
   {
@@ -1170,7 +1170,7 @@
    "l10Hr": 2,
    "l10Pa": 44,
    "brlPa": 7.8,
-   "probPct": 22.8,
+   "probPct": 22.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1183,7 +1183,7 @@
     "pitcherMult": 0.853,
     "arsenalMult": 1.089,
     "parkMult": 1.196,
-    "weatherMult": 1.103
+    "weatherMult": 1.097
    }
   },
   {
@@ -1202,7 +1202,7 @@
    "l10Hr": 0,
    "l10Pa": 35,
    "brlPa": 8.0,
-   "probPct": 22.8,
+   "probPct": 22.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1215,7 +1215,7 @@
     "pitcherMult": 1.147,
     "arsenalMult": 1.06,
     "parkMult": 1.11,
-    "weatherMult": 1.164
+    "weatherMult": 1.149
    }
   },
   {
@@ -1234,7 +1234,7 @@
    "l10Hr": 2,
    "l10Pa": 42,
    "brlPa": 7.4,
-   "probPct": 22.5,
+   "probPct": 22.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1247,7 +1247,7 @@
     "pitcherMult": 0.914,
     "arsenalMult": 1.057,
     "parkMult": 1.051,
-    "weatherMult": 1.121
+    "weatherMult": 1.109
    }
   },
   {
@@ -1266,7 +1266,7 @@
    "l10Hr": 1,
    "l10Pa": 43,
    "brlPa": 9.0,
-   "probPct": 22.4,
+   "probPct": 22.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1279,39 +1279,7 @@
     "pitcherMult": 0.914,
     "arsenalMult": 1.067,
     "parkMult": 1.051,
-    "weatherMult": 1.121
-   }
-  },
-  {
-   "name": "Mickey Moniak",
-   "bats": "L",
-   "team": "Colorado Rockies",
-   "opponent": "Kansas City Royals",
-   "pitcher": "Michael Wacha",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.09",
-   "platoonEdge": true,
-   "venue": "Coors Field",
-   "lineupSpot": null,
-   "seasonHr": 17,
-   "seasonPa": 264,
-   "l10Hr": 2,
-   "l10Pa": 41,
-   "brlPa": 7.6,
-   "probPct": 22.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824325,
-   "playerId": 666160,
-   "factors": {
-    "batterRatePct": 5.32,
-    "formMult": 0.99,
-    "pitcherMult": 0.888,
-    "arsenalMult": 1.037,
-    "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.109
    }
   },
   {
@@ -1330,7 +1298,7 @@
    "l10Hr": 3,
    "l10Pa": 28,
    "brlPa": 6.7,
-   "probPct": 22.1,
+   "probPct": 22.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1343,7 +1311,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 1.035,
     "parkMult": 1.034,
-    "weatherMult": 1.078
+    "weatherMult": 1.088
    }
   },
   {
@@ -1362,7 +1330,7 @@
    "l10Hr": 2,
    "l10Pa": 27,
    "brlPa": 6.0,
-   "probPct": 22.0,
+   "probPct": 22.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1375,7 +1343,7 @@
     "pitcherMult": 1.101,
     "arsenalMult": 1.031,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
    }
   },
   {
@@ -1407,7 +1375,39 @@
     "pitcherMult": 0.892,
     "arsenalMult": 1.106,
     "parkMult": 1.23,
-    "weatherMult": 1.07
+    "weatherMult": 1.069
+   }
+  },
+  {
+   "name": "Mickey Moniak",
+   "bats": "L",
+   "team": "Colorado Rockies",
+   "opponent": "Kansas City Royals",
+   "pitcher": "Michael Wacha",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.09",
+   "platoonEdge": true,
+   "venue": "Coors Field",
+   "lineupSpot": null,
+   "seasonHr": 17,
+   "seasonPa": 264,
+   "l10Hr": 2,
+   "l10Pa": 41,
+   "brlPa": 7.6,
+   "probPct": 21.8,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824325,
+   "playerId": 666160,
+   "factors": {
+    "batterRatePct": 5.32,
+    "formMult": 0.99,
+    "pitcherMult": 0.888,
+    "arsenalMult": 1.037,
+    "parkMult": 1.042,
+    "weatherMult": 1.152
    }
   },
   {
@@ -1426,7 +1426,7 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 9.2,
-   "probPct": 21.8,
+   "probPct": 21.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1439,39 +1439,7 @@
     "pitcherMult": 0.9,
     "arsenalMult": 0.982,
     "parkMult": 1.196,
-    "weatherMult": 1.103
-   }
-  },
-  {
-   "name": "Coby Mayo",
-   "bats": "R",
-   "team": "Baltimore Orioles",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "TBD",
-   "pitcherHand": null,
-   "pitcherHr9": null,
-   "platoonEdge": false,
-   "venue": "Oriole Park at Camden Yards",
-   "lineupSpot": null,
-   "seasonHr": 14,
-   "seasonPa": 275,
-   "l10Hr": 2,
-   "l10Pa": 29,
-   "brlPa": 6.9,
-   "probPct": 21.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824809,
-   "playerId": 691723,
-   "factors": {
-    "batterRatePct": 4.09,
-    "formMult": 1.2,
-    "pitcherMult": 1.0,
-    "arsenalMult": 1.0,
-    "parkMult": 1.051,
-    "weatherMult": 1.121
+    "weatherMult": 1.097
    }
   },
   {
@@ -1522,7 +1490,7 @@
    "l10Hr": 3,
    "l10Pa": 44,
    "brlPa": 6.9,
-   "probPct": 21.4,
+   "probPct": 21.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1535,7 +1503,39 @@
     "pitcherMult": 0.995,
     "arsenalMult": 1.025,
     "parkMult": 1.034,
-    "weatherMult": 1.078
+    "weatherMult": 1.088
+   }
+  },
+  {
+   "name": "Coby Mayo",
+   "bats": "R",
+   "team": "Baltimore Orioles",
+   "opponent": "Philadelphia Phillies",
+   "pitcher": "TBD",
+   "pitcherHand": null,
+   "pitcherHr9": null,
+   "platoonEdge": false,
+   "venue": "Oriole Park at Camden Yards",
+   "lineupSpot": null,
+   "seasonHr": 14,
+   "seasonPa": 275,
+   "l10Hr": 2,
+   "l10Pa": 29,
+   "brlPa": 6.9,
+   "probPct": 21.5,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824809,
+   "playerId": 691723,
+   "factors": {
+    "batterRatePct": 4.09,
+    "formMult": 1.2,
+    "pitcherMult": 1.0,
+    "arsenalMult": 1.0,
+    "parkMult": 1.051,
+    "weatherMult": 1.109
    }
   },
   {
@@ -1554,7 +1554,7 @@
    "l10Hr": 2,
    "l10Pa": 44,
    "brlPa": 4.3,
-   "probPct": 21.3,
+   "probPct": 21.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1567,7 +1567,7 @@
     "pitcherMult": 1.118,
     "arsenalMult": 1.037,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
    }
   },
   {
@@ -1586,7 +1586,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 4.4,
-   "probPct": 21.0,
+   "probPct": 21.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1599,39 +1599,7 @@
     "pitcherMult": 1.118,
     "arsenalMult": 0.987,
     "parkMult": 1.042,
-    "weatherMult": 1.214
-   }
-  },
-  {
-   "name": "Michael Massey",
-   "bats": "L",
-   "team": "Kansas City Royals",
-   "opponent": "Colorado Rockies",
-   "pitcher": "Tomoyuki Sugano",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.88",
-   "platoonEdge": true,
-   "venue": "Coors Field",
-   "lineupSpot": null,
-   "seasonHr": 8,
-   "seasonPa": 293,
-   "l10Hr": 1,
-   "l10Pa": 37,
-   "brlPa": 4.8,
-   "probPct": 20.9,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824325,
-   "playerId": 686681,
-   "factors": {
-    "batterRatePct": 2.72,
-    "formMult": 0.976,
-    "pitcherMult": 1.514,
-    "arsenalMult": 1.123,
-    "parkMult": 1.042,
-    "weatherMult": 1.185
+    "weatherMult": 1.227
    }
   },
   {
@@ -1650,7 +1618,7 @@
    "l10Hr": 0,
    "l10Pa": 20,
    "brlPa": 9.4,
-   "probPct": 20.8,
+   "probPct": 20.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1663,39 +1631,7 @@
     "pitcherMult": 1.194,
     "arsenalMult": 1.096,
     "parkMult": 0.941,
-    "weatherMult": 1.036
-   }
-  },
-  {
-   "name": "Ty France",
-   "bats": "R",
-   "team": "San Diego Padres",
-   "opponent": "San Francisco Giants",
-   "pitcher": "Carson Whisenhunt",
-   "pitcherHand": "L",
-   "pitcherHr9": "1.72",
-   "platoonEdge": true,
-   "venue": "Petco Park",
-   "lineupSpot": null,
-   "seasonHr": 16,
-   "seasonPa": 286,
-   "l10Hr": 2,
-   "l10Pa": 43,
-   "brlPa": 7.7,
-   "probPct": 20.6,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 823272,
-   "playerId": 664034,
-   "factors": {
-    "batterRatePct": 4.29,
-    "formMult": 1.008,
-    "pitcherMult": 1.111,
-    "arsenalMult": 1.134,
-    "parkMult": 1.017,
-    "weatherMult": 0.99
+    "weatherMult": 1.039
    }
   },
   {
@@ -1714,7 +1650,7 @@
    "l10Hr": 3,
    "l10Pa": 41,
    "brlPa": 7.3,
-   "probPct": 20.5,
+   "probPct": 20.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1727,7 +1663,39 @@
     "pitcherMult": 0.872,
     "arsenalMult": 0.998,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
+   }
+  },
+  {
+   "name": "Ty France",
+   "bats": "R",
+   "team": "San Diego Padres",
+   "opponent": "San Francisco Giants",
+   "pitcher": "Carson Whisenhunt",
+   "pitcherHand": "L",
+   "pitcherHr9": "1.72",
+   "platoonEdge": true,
+   "venue": "Petco Park",
+   "lineupSpot": null,
+   "seasonHr": 16,
+   "seasonPa": 286,
+   "l10Hr": 2,
+   "l10Pa": 43,
+   "brlPa": 7.7,
+   "probPct": 20.7,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 823272,
+   "playerId": 664034,
+   "factors": {
+    "batterRatePct": 4.29,
+    "formMult": 1.008,
+    "pitcherMult": 1.111,
+    "arsenalMult": 1.134,
+    "parkMult": 1.017,
+    "weatherMult": 0.991
    }
   },
   {
@@ -1746,7 +1714,7 @@
    "l10Hr": 1,
    "l10Pa": 27,
    "brlPa": 7.6,
-   "probPct": 20.4,
+   "probPct": 20.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1759,39 +1727,7 @@
     "pitcherMult": 1.118,
     "arsenalMult": 1.039,
     "parkMult": 1.042,
-    "weatherMult": 1.214
-   }
-  },
-  {
-   "name": "Ryan Jeffers",
-   "bats": "R",
-   "team": "Minnesota Twins",
-   "opponent": "Seattle Mariners",
-   "pitcher": "Bryce Miller",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.44",
-   "platoonEdge": false,
-   "venue": "T-Mobile Park",
-   "lineupSpot": null,
-   "seasonHr": 9,
-   "seasonPa": 194,
-   "l10Hr": 2,
-   "l10Pa": 41,
-   "brlPa": 8.8,
-   "probPct": 20.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 823111,
-   "playerId": 680777,
-   "factors": {
-    "batterRatePct": 4.62,
-    "formMult": 1.107,
-    "pitcherMult": 1.111,
-    "arsenalMult": 0.978,
-    "parkMult": 0.941,
-    "weatherMult": 1.036
+    "weatherMult": 1.227
    }
   },
   {
@@ -1810,7 +1746,7 @@
    "l10Hr": 3,
    "l10Pa": 42,
    "brlPa": 8.5,
-   "probPct": 20.3,
+   "probPct": 20.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1823,7 +1759,71 @@
     "pitcherMult": 0.844,
     "arsenalMult": 1.077,
     "parkMult": 1.034,
-    "weatherMult": 1.078
+    "weatherMult": 1.088
+   }
+  },
+  {
+   "name": "Ryan Jeffers",
+   "bats": "R",
+   "team": "Minnesota Twins",
+   "opponent": "Seattle Mariners",
+   "pitcher": "Bryce Miller",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.44",
+   "platoonEdge": false,
+   "venue": "T-Mobile Park",
+   "lineupSpot": null,
+   "seasonHr": 9,
+   "seasonPa": 194,
+   "l10Hr": 2,
+   "l10Pa": 41,
+   "brlPa": 8.8,
+   "probPct": 20.5,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 823111,
+   "playerId": 680777,
+   "factors": {
+    "batterRatePct": 4.62,
+    "formMult": 1.107,
+    "pitcherMult": 1.111,
+    "arsenalMult": 0.978,
+    "parkMult": 0.941,
+    "weatherMult": 1.039
+   }
+  },
+  {
+   "name": "Michael Massey",
+   "bats": "L",
+   "team": "Kansas City Royals",
+   "opponent": "Colorado Rockies",
+   "pitcher": "Tomoyuki Sugano",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.88",
+   "platoonEdge": true,
+   "venue": "Coors Field",
+   "lineupSpot": null,
+   "seasonHr": 8,
+   "seasonPa": 293,
+   "l10Hr": 1,
+   "l10Pa": 37,
+   "brlPa": 4.8,
+   "probPct": 20.4,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824325,
+   "playerId": 686681,
+   "factors": {
+    "batterRatePct": 2.72,
+    "formMult": 0.976,
+    "pitcherMult": 1.514,
+    "arsenalMult": 1.123,
+    "parkMult": 1.042,
+    "weatherMult": 1.152
    }
   },
   {
@@ -1842,7 +1842,7 @@
    "l10Hr": 3,
    "l10Pa": 44,
    "brlPa": 6.7,
-   "probPct": 20.2,
+   "probPct": 20.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1855,7 +1855,7 @@
     "pitcherMult": 1.048,
     "arsenalMult": 1.023,
     "parkMult": 1.042,
-    "weatherMult": 1.156
+    "weatherMult": 1.143
    }
   },
   {
@@ -1874,7 +1874,7 @@
    "l10Hr": 0,
    "l10Pa": 44,
    "brlPa": 8.6,
-   "probPct": 20.1,
+   "probPct": 19.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1887,7 +1887,7 @@
     "pitcherMult": 1.153,
     "arsenalMult": 1.05,
     "parkMult": 1.11,
-    "weatherMult": 1.164
+    "weatherMult": 1.149
    }
   },
   {
@@ -1919,39 +1919,7 @@
     "pitcherMult": 0.892,
     "arsenalMult": 0.984,
     "parkMult": 1.23,
-    "weatherMult": 1.07
-   }
-  },
-  {
-   "name": "Julio Rodr\u00edguez",
-   "bats": "R",
-   "team": "Seattle Mariners",
-   "opponent": "Minnesota Twins",
-   "pitcher": "Zebby Matthews",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.78",
-   "platoonEdge": false,
-   "venue": "T-Mobile Park",
-   "lineupSpot": null,
-   "seasonHr": 16,
-   "seasonPa": 428,
-   "l10Hr": 2,
-   "l10Pa": 40,
-   "brlPa": 6.3,
-   "probPct": 19.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 823111,
-   "playerId": 677594,
-   "factors": {
-    "batterRatePct": 3.16,
-    "formMult": 1.166,
-    "pitcherMult": 1.292,
-    "arsenalMult": 1.106,
-    "parkMult": 0.941,
-    "weatherMult": 1.036
+    "weatherMult": 1.069
    }
   },
   {
@@ -1970,7 +1938,7 @@
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 6.4,
-   "probPct": 19.3,
+   "probPct": 19.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1983,7 +1951,39 @@
     "pitcherMult": 1.118,
     "arsenalMult": 0.991,
     "parkMult": 1.042,
-    "weatherMult": 1.214
+    "weatherMult": 1.227
+   }
+  },
+  {
+   "name": "Julio Rodr\u00edguez",
+   "bats": "R",
+   "team": "Seattle Mariners",
+   "opponent": "Minnesota Twins",
+   "pitcher": "Zebby Matthews",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.78",
+   "platoonEdge": false,
+   "venue": "T-Mobile Park",
+   "lineupSpot": null,
+   "seasonHr": 16,
+   "seasonPa": 428,
+   "l10Hr": 2,
+   "l10Pa": 40,
+   "brlPa": 6.3,
+   "probPct": 19.5,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 823111,
+   "playerId": 677594,
+   "factors": {
+    "batterRatePct": 3.16,
+    "formMult": 1.166,
+    "pitcherMult": 1.292,
+    "arsenalMult": 1.106,
+    "parkMult": 0.941,
+    "weatherMult": 1.039
    }
   },
   {
@@ -2002,7 +2002,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 6.8,
-   "probPct": 19.2,
+   "probPct": 19.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -2015,7 +2015,39 @@
     "pitcherMult": 0.839,
     "arsenalMult": 0.97,
     "parkMult": 1.196,
-    "weatherMult": 1.103
+    "weatherMult": 1.097
+   }
+  },
+  {
+   "name": "Nick Kurtz",
+   "bats": "L",
+   "team": "Athletics",
+   "opponent": "Detroit Tigers",
+   "pitcher": "TBD",
+   "pitcherHand": null,
+   "pitcherHr9": null,
+   "platoonEdge": false,
+   "venue": "Sutter Health Park",
+   "lineupSpot": null,
+   "seasonHr": 21,
+   "seasonPa": 431,
+   "l10Hr": 1,
+   "l10Pa": 33,
+   "brlPa": 8.8,
+   "probPct": 19.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 824975,
+   "playerId": 701762,
+   "factors": {
+    "batterRatePct": 4.5,
+    "formMult": 0.895,
+    "pitcherMult": 1.0,
+    "arsenalMult": 1.0,
+    "parkMult": 1.0,
+    "weatherMult": 1.246
    }
   },
   {
@@ -2083,6 +2115,38 @@
    }
   },
   {
+   "name": "Randy Arozarena",
+   "bats": "R",
+   "team": "Seattle Mariners",
+   "opponent": "Minnesota Twins",
+   "pitcher": "Zebby Matthews",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.78",
+   "platoonEdge": false,
+   "venue": "T-Mobile Park",
+   "lineupSpot": null,
+   "seasonHr": 13,
+   "seasonPa": 436,
+   "l10Hr": 2,
+   "l10Pa": 45,
+   "brlPa": 5.3,
+   "probPct": 18.8,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 823111,
+   "playerId": 668227,
+   "factors": {
+    "batterRatePct": 3.1,
+    "formMult": 1.2,
+    "pitcherMult": 1.292,
+    "arsenalMult": 1.053,
+    "parkMult": 0.941,
+    "weatherMult": 1.039
+   }
+  },
+  {
    "name": "Paul Goldschmidt",
    "bats": "R",
    "team": "New York Yankees",
@@ -2098,7 +2162,7 @@
    "l10Hr": 1,
    "l10Pa": 41,
    "brlPa": 7.4,
-   "probPct": 18.7,
+   "probPct": 18.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -2111,7 +2175,7 @@
     "pitcherMult": 1.147,
     "arsenalMult": 1.022,
     "parkMult": 0.992,
-    "weatherMult": 1.043
+    "weatherMult": 1.039
    }
   },
   {
@@ -2130,7 +2194,7 @@
    "l10Hr": 2,
    "l10Pa": 38,
    "brlPa": 6.5,
-   "probPct": 18.7,
+   "probPct": 18.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -2143,71 +2207,7 @@
     "pitcherMult": 0.839,
     "arsenalMult": 0.947,
     "parkMult": 1.196,
-    "weatherMult": 1.103
-   }
-  },
-  {
-   "name": "Michael Harris II",
-   "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Washington Nationals",
-   "pitcher": "Foster Griffin",
-   "pitcherHand": "L",
-   "pitcherHr9": "1.23",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 19,
-   "seasonPa": 414,
-   "l10Hr": 1,
-   "l10Pa": 42,
-   "brlPa": 8.9,
-   "probPct": 18.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 824892,
-   "playerId": 671739,
-   "factors": {
-    "batterRatePct": 4.3,
-    "formMult": 0.85,
-    "pitcherMult": 1.029,
-    "arsenalMult": 1.082,
-    "parkMult": 1.042,
-    "weatherMult": 1.156
-   }
-  },
-  {
-   "name": "Randy Arozarena",
-   "bats": "R",
-   "team": "Seattle Mariners",
-   "opponent": "Minnesota Twins",
-   "pitcher": "Zebby Matthews",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.78",
-   "platoonEdge": false,
-   "venue": "T-Mobile Park",
-   "lineupSpot": null,
-   "seasonHr": 13,
-   "seasonPa": 436,
-   "l10Hr": 2,
-   "l10Pa": 45,
-   "brlPa": 5.3,
-   "probPct": 18.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 823111,
-   "playerId": 668227,
-   "factors": {
-    "batterRatePct": 3.1,
-    "formMult": 1.2,
-    "pitcherMult": 1.292,
-    "arsenalMult": 1.053,
-    "parkMult": 0.941,
-    "weatherMult": 1.036
+    "weatherMult": 1.097
    }
   }
  ],
