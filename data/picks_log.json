@@ -324,10 +324,10 @@
 "id": 672960,
 "name": "Kazuma Okamoto",
 "team": "Toronto Blue Jays",
-"prob": 20.7,
-"mkt": 20.0,
-"fair": 14.0,
-"spot": null
+"prob": 22.3,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-01|824808|656941": {
 "d": "2026-08-01",
@@ -357,10 +357,10 @@
 "id": 691023,
 "name": "Jordan Walker",
 "team": "St. Louis Cardinals",
-"prob": 20.4,
-"mkt": 20.4,
-"fair": 14.3,
-"spot": null
+"prob": 22.4,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-01|824485|682829": {
 "d": "2026-08-01",
@@ -819,10 +819,10 @@
 "id": 802139,
 "name": "JJ Wetherholt",
 "team": "St. Louis Cardinals",
-"prob": 15.3,
-"mkt": 14.3,
-"fair": 10.0,
-"spot": null
+"prob": 17.2,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-01|822781|543807": {
 "d": "2026-08-01",
@@ -830,10 +830,10 @@
 "id": 543807,
 "name": "George Springer",
 "team": "Toronto Blue Jays",
-"prob": 15.2,
-"mkt": 16.7,
-"fair": 11.7,
-"spot": null
+"prob": 16.0,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-01|824485|668804": {
 "d": "2026-08-01",
@@ -885,10 +885,10 @@
 "id": 676475,
 "name": "Alec Burleson",
 "team": "St. Louis Cardinals",
-"prob": 14.8,
-"mkt": 20.0,
-"fair": 14.0,
-"spot": null
+"prob": 16.0,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-01|824000|624585": {
 "d": "2026-08-01",
@@ -1380,10 +1380,10 @@
 "id": 671056,
 "name": "Iv\u00e1n Herrera",
 "team": "St. Louis Cardinals",
-"prob": 10.4,
-"mkt": 13.8,
-"fair": 9.7,
-"spot": null
+"prob": 11.0,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-01|824808|669236": {
 "d": "2026-08-01",
@@ -1490,10 +1490,10 @@
 "id": 701675,
 "name": "Nathan Church",
 "team": "St. Louis Cardinals",
-"prob": 9.5,
-"mkt": 10.0,
-"fair": 7.0,
-"spot": null
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-01|824649|673548": {
 "d": "2026-08-01",
@@ -1545,10 +1545,10 @@
 "id": 663457,
 "name": "Lars Nootbaar",
 "team": "St. Louis Cardinals",
-"prob": 8.9,
-"mkt": 16.7,
-"fair": 11.7,
-"spot": null
+"prob": 9.1,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-08-01|824808|664761": {
 "d": "2026-08-01",
@@ -1655,10 +1655,10 @@
 "id": 662139,
 "name": "Daulton Varsho",
 "team": "Toronto Blue Jays",
-"prob": 8.5,
-"mkt": 12.9,
-"fair": 9.0,
-"spot": null
+"prob": 8.6,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-01|822781|665489": {
 "d": "2026-08-01",
@@ -1666,10 +1666,10 @@
 "id": 665489,
 "name": "Vladimir Guerrero Jr.",
 "team": "Toronto Blue Jays",
-"prob": 8.6,
-"mkt": 17.4,
-"fair": 12.2,
-"spot": null
+"prob": 9.5,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-01|823920|702332": {
 "d": "2026-08-01",
@@ -1798,10 +1798,10 @@
 "id": 676391,
 "name": "Ernie Clement",
 "team": "Toronto Blue Jays",
-"prob": 7.3,
-"mkt": 10.8,
-"fair": 7.6,
-"spot": null
+"prob": 7.1,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-01|823269|630105": {
 "d": "2026-08-01",
@@ -1964,9 +1964,9 @@
 "name": "Masyn Winn",
 "team": "St. Louis Cardinals",
 "prob": 5.6,
-"mkt": 10.0,
-"fair": 7.0,
-"spot": null
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-01|824649|621020": {
 "d": "2026-08-01",
@@ -2183,10 +2183,10 @@
 "id": 808959,
 "name": "Munetaka Murakami",
 "team": "Chicago White Sox",
-"prob": 29.5,
-"mkt": 21.3,
-"fair": 14.9,
-"spot": null
+"prob": 32.5,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-01|824326|521692": {
 "d": "2026-08-01",
@@ -2227,10 +2227,10 @@
 "id": 695657,
 "name": "Colson Montgomery",
 "team": "Chicago White Sox",
-"prob": 18.3,
-"mkt": 20.0,
-"fair": 14.0,
-"spot": null
+"prob": 19.4,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-01|824326|686681": {
 "d": "2026-08-01",
@@ -2260,10 +2260,10 @@
 "id": 678246,
 "name": "Miguel Vargas",
 "team": "Chicago White Sox",
-"prob": 16.1,
-"mkt": 20.4,
-"fair": 14.3,
-"spot": null
+"prob": 17.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-01|824326|679845": {
 "d": "2026-08-01",
@@ -2315,10 +2315,10 @@
 "id": 643217,
 "name": "Andrew Benintendi",
 "team": "Chicago White Sox",
-"prob": 12.2,
-"mkt": 13.8,
-"fair": 9.7,
-"spot": null
+"prob": 13.0,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-08-01|824326|691720": {
 "d": "2026-08-01",
@@ -2359,10 +2359,10 @@
 "id": 803011,
 "name": "Sam Antonacci",
 "team": "Chicago White Sox",
-"prob": 10.0,
-"mkt": 10.0,
-"fair": 7.0,
-"spot": null
+"prob": 11.3,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-01|822944|668723": {
 "d": "2026-08-01",
@@ -2469,10 +2469,10 @@
 "id": 805367,
 "name": "Chase Meidroth",
 "team": "Chicago White Sox",
-"prob": 7.7,
-"mkt": 7.1,
-"fair": 5.0,
-"spot": null
+"prob": 7.4,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-08-01|822944|671976": {
 "d": "2026-08-01",
@@ -2480,10 +2480,10 @@
 "id": 671976,
 "name": "Tristan Peters",
 "team": "Chicago White Sox",
-"prob": 6.6,
-"mkt": 10.0,
-"fair": 7.0,
-"spot": null
+"prob": 6.5,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-01|822944|695731": {
 "d": "2026-08-01",
@@ -2491,10 +2491,10 @@
 "id": 695731,
 "name": "Braden Montgomery",
 "team": "Chicago White Sox",
-"prob": 6.1,
-"mkt": 8.3,
-"fair": 5.8,
-"spot": null
+"prob": 6.2,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-01|822944|663743": {
 "d": "2026-08-01",
@@ -2550,5 +2550,82 @@
 "mkt": 3.8,
 "fair": 2.7,
 "spot": null
+},
+"2026-08-01|822781|649966": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 649966,
+"name": "Luis Ur\u00edas",
+"team": "Toronto Blue Jays",
+"prob": 17.8,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-08-01|822781|699625": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 699625,
+"name": "Jimmy Crooks",
+"team": "St. Louis Cardinals",
+"prob": 11.8,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-08-01|822781|691458": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 691458,
+"name": "Blaze Jordan",
+"team": "St. Louis Cardinals",
+"prob": 9.9,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-08-01|822781|672386": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 672386,
+"name": "Alejandro Kirk",
+"team": "Toronto Blue Jays",
+"prob": 9.9,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-08-01|822781|676914": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 676914,
+"name": "Davis Schneider",
+"team": "Toronto Blue Jays",
+"prob": 9.4,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-08-01|822781|664702": {
+"d": "2026-08-01",
+"g": 822781,
+"id": 664702,
+"name": "Myles Straw",
+"team": "Toronto Blue Jays",
+"prob": 7.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-08-01|822944|700337": {
+"d": "2026-08-01",
+"g": 822944,
+"id": 700337,
+"name": "Edgar Quero",
+"team": "Chicago White Sox",
+"prob": 3.5,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
