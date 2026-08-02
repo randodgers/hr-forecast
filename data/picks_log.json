@@ -49,9 +49,9 @@
 "id": 660271,
 "name": "Shohei Ohtani",
 "team": "Los Angeles Dodgers",
-"prob": 28.8,
-"mkt": null,
-"fair": null,
+"prob": 29.3,
+"mkt": 28.6,
+"fair": 20.1,
 "spot": 1
 },
 "2026-08-02|823919|575929": {
@@ -60,9 +60,9 @@
 "id": 575929,
 "name": "Willson Contreras",
 "team": "Boston Red Sox",
-"prob": 26.8,
-"mkt": null,
-"fair": null,
+"prob": 27.3,
+"mkt": 21.7,
+"fair": 15.3,
 "spot": 4
 },
 "2026-08-02|824483|664040": {
@@ -148,9 +148,9 @@
 "id": 677800,
 "name": "Wilyer Abreu",
 "team": "Boston Red Sox",
-"prob": 22.7,
-"mkt": null,
-"fair": null,
+"prob": 23.1,
+"mkt": 21.7,
+"fair": 15.3,
 "spot": 3
 },
 "2026-08-02|824648|700250": {
@@ -225,9 +225,9 @@
 "id": 687221,
 "name": "Dalton Rushing",
 "team": "Los Angeles Dodgers",
-"prob": 17.6,
-"mkt": null,
-"fair": null,
+"prob": 17.9,
+"mkt": 15.4,
+"fair": 10.8,
 "spot": 9
 },
 "2026-08-02|824807|624413": {
@@ -247,9 +247,9 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 18.9,
-"mkt": null,
-"fair": null,
+"prob": 19.2,
+"mkt": 20.0,
+"fair": 14.1,
 "spot": 7
 },
 "2026-08-02|824163|608369": {
@@ -302,9 +302,9 @@
 "id": 678882,
 "name": "Ceddanne Rafaela",
 "team": "Boston Red Sox",
-"prob": 20.6,
-"mkt": null,
-"fair": null,
+"prob": 21.0,
+"mkt": 11.8,
+"fair": 8.3,
 "spot": 2
 },
 "2026-08-02|824163|572233": {
@@ -368,9 +368,9 @@
 "id": 680776,
 "name": "Jarren Duran",
 "team": "Boston Red Sox",
-"prob": 16.5,
-"mkt": null,
-"fair": null,
+"prob": 16.8,
+"mkt": 16.7,
+"fair": 11.7,
 "spot": 8
 },
 "2026-08-02|824163|665161": {
@@ -445,9 +445,9 @@
 "id": 655316,
 "name": "Andruw Monasterio",
 "team": "Boston Red Sox",
-"prob": 15.3,
-"mkt": null,
-"fair": null,
+"prob": 15.6,
+"mkt": 13.8,
+"fair": 9.7,
 "spot": 7
 },
 "2026-08-02|824483|553993": {
@@ -555,9 +555,9 @@
 "id": 681624,
 "name": "Andy Pages",
 "team": "Los Angeles Dodgers",
-"prob": 16.0,
-"mkt": null,
-"fair": null,
+"prob": 16.3,
+"mkt": 20.4,
+"fair": 14.3,
 "spot": 2
 },
 "2026-08-02|823919|605141": {
@@ -566,9 +566,9 @@
 "id": 605141,
 "name": "Mookie Betts",
 "team": "Los Angeles Dodgers",
-"prob": 14.9,
-"mkt": null,
-"fair": null,
+"prob": 15.2,
+"mkt": 17.4,
+"fair": 12.2,
 "spot": 5
 },
 "2026-08-02|823996|666176": {
@@ -588,9 +588,9 @@
 "id": 665966,
 "name": "Carlos Narv\u00e1ez",
 "team": "Boston Red Sox",
-"prob": 13.2,
-"mkt": null,
-"fair": null,
+"prob": 13.4,
+"mkt": 11.8,
+"fair": 8.3,
 "spot": 9
 },
 "2026-08-02|823107|665019": {
@@ -731,9 +731,9 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 13.5,
-"mkt": null,
-"fair": null,
+"prob": 13.8,
+"mkt": 16.7,
+"fair": 11.7,
 "spot": 4
 },
 "2026-08-02|823107|668227": {
@@ -841,9 +841,9 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 11.7,
-"mkt": null,
-"fair": null,
+"prob": 11.9,
+"mkt": 16.7,
+"fair": 11.7,
 "spot": 6
 },
 "2026-08-02|824648|641857": {
@@ -973,9 +973,9 @@
 "id": 702332,
 "name": "Caleb Durbin",
 "team": "Boston Red Sox",
-"prob": 10.3,
-"mkt": null,
-"fair": null,
+"prob": 10.5,
+"mkt": 11.1,
+"fair": 7.8,
 "spot": 6
 },
 "2026-08-02|823996|694203": {
@@ -3008,9 +3008,9 @@
 "id": 571970,
 "name": "Max Muncy",
 "team": "Los Angeles Dodgers",
-"prob": 24.0,
-"mkt": null,
-"fair": null,
+"prob": 24.5,
+"mkt": 21.7,
+"fair": 15.3,
 "spot": 8
 },
 "2026-08-02|823270|678545": {
@@ -3030,9 +3030,9 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 11.2,
-"mkt": null,
-"fair": null,
+"prob": 11.4,
+"mkt": 15.4,
+"fair": 10.8,
 "spot": 3
 },
 "2026-08-02|823270|669134": {
@@ -3063,9 +3063,9 @@
 "id": 807799,
 "name": "Masataka Yoshida",
 "team": "Boston Red Sox",
-"prob": 10.0,
-"mkt": null,
-"fair": null,
+"prob": 10.2,
+"mkt": 16.7,
+"fair": 11.7,
 "spot": 5
 },
 "2026-08-02|823919|686765": {
@@ -3074,9 +3074,9 @@
 "id": 686765,
 "name": "Nick Sogard",
 "team": "Boston Red Sox",
-"prob": 9.7,
-"mkt": null,
-"fair": null,
+"prob": 9.9,
+"mkt": 10.5,
+"fair": 7.4,
 "spot": 1
 },
 "2026-08-02|823107|702176": {
