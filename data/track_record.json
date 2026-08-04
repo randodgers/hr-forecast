@@ -1,28 +1,28 @@
 {
- "gradedPicks": 4466,
- "totalHits": 490,
+ "gradedPicks": 4483,
+ "totalHits": 491,
  "overallHitRatePct": 11.0,
  "topPicksHitRatePct": 12.5,
  "topPicksRecord": "25/200",
- "modelBrier": 0.0994,
- "marketBrier": 0.0965,
- "marketPricedPicks": 2952,
+ "modelBrier": 0.0992,
+ "marketBrier": 0.0963,
+ "marketPricedPicks": 2969,
  "buckets": [
   {
    "range": "0\u201310%",
-   "n": 1380,
+   "n": 1391,
    "predictedPct": 6.9,
    "actualPct": 7.0
   },
   {
    "range": "10\u201315%",
-   "n": 1400,
-   "predictedPct": 12.2,
-   "actualPct": 10.9
+   "n": 1405,
+   "predictedPct": 12.3,
+   "actualPct": 10.8
   },
   {
    "range": "15\u201320%",
-   "n": 827,
+   "n": 828,
    "predictedPct": 17.2,
    "actualPct": 12.0
   },
@@ -111,5 +111,5 @@
    "topN": 10
   }
  ],
- "updatedAtUtc": "2026-08-04T04:07:50+00:00"
+ "updatedAtUtc": "2026-08-04T11:59:48+00:00"
 }
