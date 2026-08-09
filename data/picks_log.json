@@ -159,10 +159,10 @@
 "id": 670541,
 "name": "Yordan Alvarez",
 "team": "Houston Astros",
-"prob": 20.9,
-"mkt": 30.3,
-"fair": 22.3,
-"spot": null
+"prob": 30.5,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-09|822700|668709": {
 "d": "2026-08-09",
@@ -302,10 +302,10 @@
 "id": 664034,
 "name": "Ty France",
 "team": "San Diego Padres",
-"prob": 18.2,
-"mkt": 16.7,
-"fair": 12.3,
-"spot": null
+"prob": 19.5,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-09|823268|701358": {
 "d": "2026-08-09",
@@ -324,10 +324,10 @@
 "id": 592518,
 "name": "Manny Machado",
 "team": "San Diego Padres",
-"prob": 18.1,
-"mkt": 23.3,
-"fair": 17.2,
-"spot": null
+"prob": 19.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-09|824078|691718": {
 "d": "2026-08-09",
@@ -346,10 +346,10 @@
 "id": 701538,
 "name": "Jackson Merrill",
 "team": "San Diego Padres",
-"prob": 17.4,
-"mkt": 17.9,
-"fair": 13.2,
-"spot": null
+"prob": 18.3,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-08-09|822700|663886": {
 "d": "2026-08-09",
@@ -379,10 +379,10 @@
 "id": 572233,
 "name": "Christian Walker",
 "team": "Houston Astros",
-"prob": 16.7,
-"mkt": 20.0,
-"fair": 14.7,
-"spot": null
+"prob": 21.1,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-09|823268|665487": {
 "d": "2026-08-09",
@@ -390,10 +390,10 @@
 "id": 665487,
 "name": "Fernando Tatis Jr.",
 "team": "San Diego Padres",
-"prob": 15.9,
-"mkt": 22.7,
-"fair": 16.7,
-"spot": null
+"prob": 17.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-09|824564|545341": {
 "d": "2026-08-09",
@@ -478,10 +478,10 @@
 "id": 673237,
 "name": "Yainer Diaz",
 "team": "Houston Astros",
-"prob": 15.0,
-"mkt": 11.1,
-"fair": 8.2,
-"spot": null
+"prob": 19.7,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-08-09|822700|553993": {
 "d": "2026-08-09",
@@ -588,10 +588,10 @@
 "id": 665161,
 "name": "Jeremy Pe\u00f1a",
 "team": "Houston Astros",
-"prob": 14.0,
-"mkt": 15.4,
-"fair": 11.3,
-"spot": null
+"prob": 22.2,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-09|824078|664023": {
 "d": "2026-08-09",
@@ -753,10 +753,10 @@
 "id": 657757,
 "name": "Gavin Sheets",
 "team": "San Diego Padres",
-"prob": 11.7,
-"mkt": 16.0,
-"fair": 11.8,
-"spot": null
+"prob": 11.5,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-09|822700|677588": {
 "d": "2026-08-09",
@@ -808,10 +808,10 @@
 "id": 670623,
 "name": "Isaac Paredes",
 "team": "Houston Astros",
-"prob": 10.7,
-"mkt": 16.7,
-"fair": 12.3,
-"spot": null
+"prob": 16.0,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-09|823345|683146": {
 "d": "2026-08-09",
@@ -863,10 +863,10 @@
 "id": 514888,
 "name": "Jose Altuve",
 "team": "Houston Astros",
-"prob": 10.5,
-"mkt": 13.8,
-"fair": 10.2,
-"spot": null
+"prob": 14.3,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-09|824564|805367": {
 "d": "2026-08-09",
@@ -951,10 +951,10 @@
 "id": 666023,
 "name": "Freddy Fermin",
 "team": "San Diego Padres",
-"prob": 9.8,
-"mkt": 11.8,
-"fair": 8.7,
-"spot": null
+"prob": 9.2,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-08-09|824564|800050": {
 "d": "2026-08-09",
@@ -1006,10 +1006,10 @@
 "id": 593428,
 "name": "Xander Bogaerts",
 "team": "San Diego Padres",
-"prob": 9.6,
-"mkt": 14.3,
-"fair": 10.5,
-"spot": null
+"prob": 9.2,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-08-09|823425|543807": {
 "d": "2026-08-09",
@@ -1127,10 +1127,10 @@
 "id": 662139,
 "name": "Daulton Varsho",
 "team": "Houston Astros",
-"prob": 8.4,
-"mkt": 16.7,
-"fair": 12.3,
-"spot": null
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-09|824078|516782": {
 "d": "2026-08-09",
@@ -1336,10 +1336,10 @@
 "id": 650859,
 "name": "Luis Rengifo",
 "team": "San Diego Padres",
-"prob": 6.4,
-"mkt": 8.3,
-"fair": 6.1,
-"spot": null
+"prob": 6.5,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-09|824078|663538": {
 "d": "2026-08-09",
@@ -1380,10 +1380,10 @@
 "id": 630105,
 "name": "Jake Cronenworth",
 "team": "San Diego Padres",
-"prob": 5.6,
-"mkt": 15.4,
-"fair": 11.3,
-"spot": null
+"prob": 6.2,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-09|822700|667472": {
 "d": "2026-08-09",
@@ -3144,5 +3144,27 @@
 "mkt": null,
 "fair": null,
 "spot": 3
+},
+"2026-08-09|823268|666211": {
+"d": "2026-08-09",
+"g": 823268,
+"id": 666211,
+"name": "Taylor Trammell",
+"team": "Houston Astros",
+"prob": 23.7,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-08-09|823268|664774": {
+"d": "2026-08-09",
+"g": 823268,
+"id": 664774,
+"name": "LaMonte Wade Jr.",
+"team": "Houston Astros",
+"prob": 10.4,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
