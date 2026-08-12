@@ -203,10 +203,10 @@
 "id": 605137,
 "name": "Josh Bell",
 "team": "Minnesota Twins",
-"prob": 16.4,
-"mkt": 18.5,
-"fair": 13.8,
-"spot": null
+"prob": 17.7,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-12|825047|664983": {
 "d": "2026-08-12",
@@ -247,10 +247,10 @@
 "id": 668904,
 "name": "Royce Lewis",
 "team": "Minnesota Twins",
-"prob": 15.7,
-"mkt": 20.0,
-"fair": 14.9,
-"spot": null
+"prob": 17.4,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-12|825047|682998": {
 "d": "2026-08-12",
@@ -324,10 +324,10 @@
 "id": 665019,
 "name": "Kody Clemens",
 "team": "Minnesota Twins",
-"prob": 14.3,
-"mkt": 18.2,
-"fair": 13.6,
-"spot": null
+"prob": 15.1,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-12|823263|664034": {
 "d": "2026-08-12",
@@ -401,10 +401,10 @@
 "id": 686797,
 "name": "Brooks Lee",
 "team": "Minnesota Twins",
-"prob": 12.8,
-"mkt": 11.1,
-"fair": 8.3,
-"spot": null
+"prob": 13.3,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-08-12|823263|592518": {
 "d": "2026-08-12",
@@ -434,10 +434,10 @@
 "id": 663616,
 "name": "Trevor Larnach",
 "team": "Minnesota Twins",
-"prob": 12.3,
-"mkt": 13.8,
-"fair": 10.3,
-"spot": null
+"prob": 13.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-12|823263|665487": {
 "d": "2026-08-12",
@@ -731,10 +731,10 @@
 "id": 807712,
 "name": "Luke Keaschall",
 "team": "Minnesota Twins",
-"prob": 6.9,
-"mkt": 9.1,
-"fair": 6.8,
-"spot": null
+"prob": 7.0,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-12|823263|666023": {
 "d": "2026-08-12",
@@ -2440,5 +2440,38 @@
 "mkt": 4.3,
 "fair": 3.2,
 "spot": null
+},
+"2026-08-12|823672|668952": {
+"d": "2026-08-12",
+"g": 823672,
+"id": 668952,
+"name": "Ryan Kreidler",
+"team": "Minnesota Twins",
+"prob": 8.7,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-08-12|823672|605170": {
+"d": "2026-08-12",
+"g": 823672,
+"id": 605170,
+"name": "Victor Caratini",
+"team": "Minnesota Twins",
+"prob": 7.7,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-08-12|823672|702176": {
+"d": "2026-08-12",
+"g": 823672,
+"id": 702176,
+"name": "Alan Roden",
+"team": "Minnesota Twins",
+"prob": 6.9,
+"mkt": null,
+"fair": null,
+"spot": 8
 }
 }
