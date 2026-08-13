@@ -16,10 +16,10 @@
 "id": 656941,
 "name": "Kyle Schwarber",
 "team": "Philadelphia Phillies",
-"prob": 21.4,
+"prob": 25.1,
 "mkt": 29.4,
 "fair": 21.9,
-"spot": null
+"spot": 1
 },
 "2026-08-13|823669|605137": {
 "d": "2026-08-13",
@@ -27,9 +27,9 @@
 "id": 605137,
 "name": "Josh Bell",
 "team": "Minnesota Twins",
-"prob": 22.7,
-"mkt": null,
-"fair": null,
+"prob": 23.1,
+"mkt": 18.9,
+"fair": 14.1,
 "spot": 4
 },
 "2026-08-13|823669|547180": {
@@ -38,10 +38,10 @@
 "id": 547180,
 "name": "Bryce Harper",
 "team": "Philadelphia Phillies",
-"prob": 20.3,
-"mkt": 19.2,
-"fair": 14.3,
-"spot": null
+"prob": 22.8,
+"mkt": 20.4,
+"fair": 15.2,
+"spot": 3
 },
 "2026-08-13|822696|691718": {
 "d": "2026-08-13",
@@ -60,9 +60,9 @@
 "id": 668904,
 "name": "Royce Lewis",
 "team": "Minnesota Twins",
-"prob": 21.2,
-"mkt": null,
-"fair": null,
+"prob": 21.5,
+"mkt": 18.5,
+"fair": 13.8,
 "spot": 5
 },
 "2026-08-13|823669|680777": {
@@ -71,9 +71,9 @@
 "id": 680777,
 "name": "Ryan Jeffers",
 "team": "Minnesota Twins",
-"prob": 21.2,
-"mkt": null,
-"fair": null,
+"prob": 21.5,
+"mkt": 15.4,
+"fair": 11.5,
 "spot": 3
 },
 "2026-08-13|823669|665019": {
@@ -82,9 +82,9 @@
 "id": 665019,
 "name": "Kody Clemens",
 "team": "Minnesota Twins",
-"prob": 19.1,
-"mkt": null,
-"fair": null,
+"prob": 19.4,
+"mkt": 20.0,
+"fair": 14.9,
 "spot": 6
 },
 "2026-08-13|823995|592626": {
@@ -126,9 +126,9 @@
 "id": 663616,
 "name": "Trevor Larnach",
 "team": "Minnesota Twins",
-"prob": 18.3,
-"mkt": null,
-"fair": null,
+"prob": 18.6,
+"mkt": 15.4,
+"fair": 11.5,
 "spot": 1
 },
 "2026-08-13|822696|682928": {
@@ -214,9 +214,9 @@
 "id": 686797,
 "name": "Brooks Lee",
 "team": "Minnesota Twins",
-"prob": 12.6,
-"mkt": null,
-"fair": null,
+"prob": 12.8,
+"mkt": 11.8,
+"fair": 8.8,
 "spot": 8
 },
 "2026-08-13|822696|621020": {
@@ -258,10 +258,10 @@
 "id": 669016,
 "name": "Brandon Marsh",
 "team": "Philadelphia Phillies",
-"prob": 11.8,
+"prob": 12.1,
 "mkt": 14.3,
 "fair": 10.6,
-"spot": null
+"spot": 7
 },
 "2026-08-13|822696|696285": {
 "d": "2026-08-13",
@@ -357,10 +357,10 @@
 "id": 607208,
 "name": "Trea Turner",
 "team": "Philadelphia Phillies",
-"prob": 9.7,
+"prob": 11.3,
 "mkt": 16.0,
 "fair": 11.9,
-"spot": null
+"spot": 2
 },
 "2026-08-13|823995|685133": {
 "d": "2026-08-13",
@@ -379,9 +379,9 @@
 "id": 807712,
 "name": "Luke Keaschall",
 "team": "Minnesota Twins",
-"prob": 8.8,
-"mkt": null,
-"fair": null,
+"prob": 8.9,
+"mkt": 10.0,
+"fair": 7.4,
 "spot": 7
 },
 "2026-08-13|823995|677649": {
@@ -402,9 +402,9 @@
 "name": "J.T. Realmuto",
 "team": "Philadelphia Phillies",
 "prob": 8.2,
-"mkt": 11.8,
-"fair": 8.8,
-"spot": null
+"mkt": 12.9,
+"fair": 9.6,
+"spot": 8
 },
 "2026-08-13|823995|694384": {
 "d": "2026-08-13",
@@ -423,10 +423,10 @@
 "id": 681082,
 "name": "Bryson Stott",
 "team": "Philadelphia Phillies",
-"prob": 7.8,
+"prob": 8.5,
 "mkt": 12.9,
 "fair": 9.6,
-"spot": null
+"spot": 5
 },
 "2026-08-13|823995|553869": {
 "d": "2026-08-13",
@@ -467,10 +467,10 @@
 "id": 664761,
 "name": "Alec Bohm",
 "team": "Philadelphia Phillies",
-"prob": 7.0,
-"mkt": 10.8,
-"fair": 8.0,
-"spot": null
+"prob": 7.3,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": 6
 },
 "2026-08-13|823995|694497": {
 "d": "2026-08-13",
@@ -489,10 +489,10 @@
 "id": 650333,
 "name": "Luis Arraez",
 "team": "Philadelphia Phillies",
-"prob": 4.7,
+"prob": 5.3,
 "mkt": 7.7,
 "fair": 5.7,
-"spot": null
+"spot": 4
 },
 "2026-08-13|822696|663538": {
 "d": "2026-08-13",
@@ -522,10 +522,10 @@
 "id": 702222,
 "name": "Justin Crawford",
 "team": "Philadelphia Phillies",
-"prob": 3.0,
-"mkt": 6.7,
-"fair": 5.0,
-"spot": null
+"prob": 2.9,
+"mkt": 7.1,
+"fair": 5.3,
+"spot": 9
 },
 "2026-08-13|823995|670032": {
 "d": "2026-08-13",
@@ -632,10 +632,10 @@
 "id": 660271,
 "name": "Shohei Ohtani",
 "team": "Los Angeles Dodgers",
-"prob": 28.3,
-"mkt": 26.0,
-"fair": 19.3,
-"spot": null
+"prob": 31.7,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-08-13|823508|663757": {
 "d": "2026-08-13",
@@ -764,10 +764,10 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 17.2,
-"mkt": 19.2,
-"fair": 14.3,
-"spot": null
+"prob": 17.9,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-08-13|824561|545341": {
 "d": "2026-08-13",
@@ -918,10 +918,10 @@
 "id": 681624,
 "name": "Andy Pages",
 "team": "Los Angeles Dodgers",
-"prob": 14.9,
-"mkt": 22.7,
-"fair": 16.9,
-"spot": null
+"prob": 16.5,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-08-13|824238|682657": {
 "d": "2026-08-13",
@@ -1083,10 +1083,10 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 11.2,
-"mkt": 16.0,
-"fair": 11.9,
-"spot": null
+"prob": 11.8,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-08-13|823829|665923": {
 "d": "2026-08-13",
@@ -1116,10 +1116,10 @@
 "id": 500743,
 "name": "Miguel Rojas",
 "team": "Los Angeles Dodgers",
-"prob": 11.1,
-"mkt": 11.8,
-"fair": 8.8,
-"spot": null
+"prob": 11.2,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-08-13|824238|650402": {
 "d": "2026-08-13",
@@ -1149,10 +1149,10 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 10.9,
-"mkt": 15.4,
-"fair": 11.5,
-"spot": null
+"prob": 10.8,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-08-13|824238|679529": {
 "d": "2026-08-13",
@@ -1743,10 +1743,10 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 13.4,
-"mkt": 16.7,
-"fair": 12.4,
-"spot": null
+"prob": 14.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-08-13|822776|807727": {
 "d": "2026-08-13",
@@ -1875,9 +1875,9 @@
 "id": 621439,
 "name": "Byron Buxton",
 "team": "Minnesota Twins",
-"prob": 30.8,
-"mkt": null,
-"fair": null,
+"prob": 31.3,
+"mkt": 25.6,
+"fair": 19.0,
 "spot": 2
 },
 "2026-08-13|822696|694673": {
@@ -1919,9 +1919,9 @@
 "id": 701785,
 "name": "Kaelen Culpepper",
 "team": "Minnesota Twins",
-"prob": 15.2,
-"mkt": null,
-"fair": null,
+"prob": 15.5,
+"mkt": 10.0,
+"fair": 7.4,
 "spot": 9
 },
 "2026-08-13|822696|687605": {
@@ -1956,5 +1956,27 @@
 "mkt": null,
 "fair": null,
 "spot": 6
+},
+"2026-08-13|823915|571771": {
+"d": "2026-08-13",
+"g": 823915,
+"id": 571771,
+"name": "Enrique Hern\u00e1ndez",
+"team": "Los Angeles Dodgers",
+"prob": 15.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-08-13|823915|666163": {
+"d": "2026-08-13",
+"g": 823915,
+"id": 666163,
+"name": "Ben Rortvedt",
+"team": "Los Angeles Dodgers",
+"prob": 11.3,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
