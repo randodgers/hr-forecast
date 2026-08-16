@@ -2018,10 +2018,10 @@
 "id": 670541,
 "name": "Yordan Alvarez",
 "team": "Houston Astros",
-"prob": 27.0,
-"mkt": 27.4,
-"fair": 20.4,
-"spot": null
+"prob": 29.3,
+"mkt": 26.3,
+"fair": 19.6,
+"spot": 2
 },
 "2026-08-16|823991|642350": {
 "d": "2026-08-16",
@@ -2117,10 +2117,10 @@
 "id": 686527,
 "name": "Dominic Canzone",
 "team": "Seattle Mariners",
-"prob": 19.7,
-"mkt": 16.0,
-"fair": 11.9,
-"spot": null
+"prob": 21.0,
+"mkt": 16.7,
+"fair": 12.4,
+"spot": 3
 },
 "2026-08-16|824965|680869": {
 "d": "2026-08-16",
@@ -2161,10 +2161,10 @@
 "id": 677594,
 "name": "Julio Rodr\u00edguez",
 "team": "Seattle Mariners",
-"prob": 16.5,
-"mkt": 16.0,
-"fair": 11.9,
-"spot": null
+"prob": 17.3,
+"mkt": 16.7,
+"fair": 12.4,
+"spot": 4
 },
 "2026-08-16|823991|687263": {
 "d": "2026-08-16",
@@ -2271,10 +2271,10 @@
 "id": 668227,
 "name": "Randy Arozarena",
 "team": "Seattle Mariners",
-"prob": 14.3,
-"mkt": 12.9,
-"fair": 9.6,
-"spot": null
+"prob": 15.6,
+"mkt": 13.8,
+"fair": 10.3,
+"spot": 2
 },
 "2026-08-16|824156|572233": {
 "d": "2026-08-16",
@@ -2282,10 +2282,10 @@
 "id": 572233,
 "name": "Christian Walker",
 "team": "Houston Astros",
-"prob": 14.3,
+"prob": 14.2,
 "mkt": 16.0,
 "fair": 11.9,
-"spot": null
+"spot": 6
 },
 "2026-08-16|823182|805811": {
 "d": "2026-08-16",
@@ -2315,10 +2315,10 @@
 "id": 663728,
 "name": "Cal Raleigh",
 "team": "Seattle Mariners",
-"prob": 13.0,
-"mkt": 19.6,
-"fair": 14.6,
-"spot": null
+"prob": 12.6,
+"mkt": 20.0,
+"fair": 14.9,
+"spot": 7
 },
 "2026-08-16|824965|671732": {
 "d": "2026-08-16",
@@ -2348,10 +2348,10 @@
 "id": 702284,
 "name": "Cole Young",
 "team": "Seattle Mariners",
-"prob": 12.7,
-"mkt": 10.3,
-"fair": 7.7,
-"spot": null
+"prob": 12.6,
+"mkt": 10.8,
+"fair": 8.0,
+"spot": 6
 },
 "2026-08-16|823182|678545": {
 "d": "2026-08-16",
@@ -2381,10 +2381,10 @@
 "id": 665161,
 "name": "Jeremy Pe\u00f1a",
 "team": "Houston Astros",
-"prob": 12.0,
+"prob": 13.5,
 "mkt": 12.9,
 "fair": 9.6,
-"spot": null
+"spot": 1
 },
 "2026-08-16|823182|691728": {
 "d": "2026-08-16",
@@ -2403,10 +2403,10 @@
 "id": 647304,
 "name": "Josh Naylor",
 "team": "Seattle Mariners",
-"prob": 11.8,
-"mkt": 10.3,
-"fair": 7.7,
-"spot": null
+"prob": 12.1,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": 5
 },
 "2026-08-16|824965|683227": {
 "d": "2026-08-16",
@@ -2425,10 +2425,10 @@
 "id": 670623,
 "name": "Isaac Paredes",
 "team": "Houston Astros",
-"prob": 11.7,
-"mkt": 13.8,
-"fair": 10.3,
-"spot": null
+"prob": 12.6,
+"mkt": 14.3,
+"fair": 10.7,
+"spot": 3
 },
 "2026-08-16|823991|664728": {
 "d": "2026-08-16",
@@ -2447,10 +2447,10 @@
 "id": 673237,
 "name": "Yainer Diaz",
 "team": "Houston Astros",
-"prob": 11.6,
-"mkt": 9.1,
-"fair": 6.8,
-"spot": null
+"prob": 10.9,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": 8
 },
 "2026-08-16|823991|672724": {
 "d": "2026-08-16",
@@ -2502,10 +2502,10 @@
 "id": 662139,
 "name": "Daulton Varsho",
 "team": "Houston Astros",
-"prob": 10.4,
-"mkt": 16.0,
-"fair": 11.9,
-"spot": null
+"prob": 10.7,
+"mkt": 15.4,
+"fair": 11.5,
+"spot": 5
 },
 "2026-08-16|823912|800325": {
 "d": "2026-08-16",
@@ -2524,10 +2524,10 @@
 "id": 514888,
 "name": "Jose Altuve",
 "team": "Houston Astros",
-"prob": 10.3,
-"mkt": 10.3,
-"fair": 7.7,
-"spot": null
+"prob": 10.8,
+"mkt": 10.8,
+"fair": 8.0,
+"spot": 4
 },
 "2026-08-16|823182|664954": {
 "d": "2026-08-16",
@@ -2792,5 +2792,60 @@
 "mkt": null,
 "fair": null,
 "spot": 5
+},
+"2026-08-16|824156|801126": {
+"d": "2026-08-16",
+"g": 824156,
+"id": 801126,
+"name": "Brock Rodden",
+"team": "Seattle Mariners",
+"prob": 12.5,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": 9
+},
+"2026-08-16|824156|642215": {
+"d": "2026-08-16",
+"g": 824156,
+"id": 642215,
+"name": "Weston Wilson",
+"team": "Seattle Mariners",
+"prob": 10.1,
+"mkt": 10.5,
+"fair": 7.8,
+"spot": 8
+},
+"2026-08-16|824156|680977": {
+"d": "2026-08-16",
+"g": 824156,
+"id": 680977,
+"name": "Brendan Donovan",
+"team": "Seattle Mariners",
+"prob": 9.8,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": 1
+},
+"2026-08-16|824156|664774": {
+"d": "2026-08-16",
+"g": 824156,
+"id": 664774,
+"name": "LaMonte Wade Jr.",
+"team": "Houston Astros",
+"prob": 9.1,
+"mkt": 11.8,
+"fair": 8.8,
+"spot": 7
+},
+"2026-08-16|824156|669397": {
+"d": "2026-08-16",
+"g": 824156,
+"id": 669397,
+"name": "Nick Allen",
+"team": "Houston Astros",
+"prob": 3.6,
+"mkt": 7.7,
+"fair": 5.7,
+"spot": 9
 }
 }
