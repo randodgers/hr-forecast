@@ -1,50 +1,45 @@
 {
- "gradedPicks": 8439,
- "totalHits": 922,
+ "gradedPicks": 8554,
+ "totalHits": 932,
  "overallHitRatePct": 10.9,
- "topPicksHitRatePct": 15.1,
- "topPicksRecord": "56/370",
- "modelBrier": 0.099,
- "marketBrier": 0.0979,
- "marketPricedPicks": 4699,
+ "topPicksHitRatePct": 15.3,
+ "topPicksRecord": "58/380",
+ "modelBrier": 0.0987,
+ "marketBrier": 0.0973,
+ "marketPricedPicks": 4805,
  "buckets": [
   {
    "range": "0\u201310%",
-   "n": 2763,
+   "n": 2816,
    "predictedPct": 7.0,
-   "actualPct": 7.3
+   "actualPct": 7.2
   },
   {
    "range": "10\u201315%",
-   "n": 2653,
+   "n": 2691,
    "predictedPct": 12.3,
    "actualPct": 11.0
   },
   {
    "range": "15\u201320%",
-   "n": 1570,
+   "n": 1584,
    "predictedPct": 17.2,
-   "actualPct": 12.7
+   "actualPct": 12.6
   },
   {
    "range": "20\u201325%",
-   "n": 807,
+   "n": 813,
    "predictedPct": 22.2,
-   "actualPct": 15.2
+   "actualPct": 15.3
   },
   {
    "range": "25\u2013+%",
-   "n": 646,
+   "n": 650,
    "predictedPct": 30.4,
    "actualPct": 16.6
   }
  ],
  "recentDays": [
-  {
-   "date": "2026-08-07",
-   "topHits": 1,
-   "topN": 10
-  },
   {
    "date": "2026-08-08",
    "topHits": 3,
@@ -109,7 +104,12 @@
    "date": "2026-08-20",
    "topHits": 0,
    "topN": 10
+  },
+  {
+   "date": "2026-08-21",
+   "topHits": 2,
+   "topN": 10
   }
  ],
- "updatedAtUtc": "2026-08-21T04:31:50+00:00"
+ "updatedAtUtc": "2026-08-22T02:12:53+00:00"
 }
