@@ -5,9 +5,9 @@
 "id": 694212,
 "name": "Samuel Basallo",
 "team": "Baltimore Orioles",
-"prob": 28.9,
+"prob": 29.0,
 "mkt": 22.7,
-"fair": 16.8,
+"fair": 17.1,
 "spot": null
 },
 "2026-08-23|824799|624413": {
@@ -16,9 +16,9 @@
 "id": 624413,
 "name": "Pete Alonso",
 "team": "Baltimore Orioles",
-"prob": 27.5,
+"prob": 26.9,
 "mkt": 26.0,
-"fair": 19.2,
+"fair": 19.6,
 "spot": null
 },
 "2026-08-23|824315|663993": {
@@ -27,9 +27,9 @@
 "id": 663993,
 "name": "Nathaniel Lowe",
 "team": "Cleveland Guardians",
-"prob": 26.7,
+"prob": 26.6,
 "mkt": 22.7,
-"fair": 16.8,
+"fair": 17.1,
 "spot": null
 },
 "2026-08-23|823507|671277": {
@@ -38,9 +38,9 @@
 "id": 671277,
 "name": "Luis Garc\u00eda Jr.",
 "team": "New York Yankees",
-"prob": 25.6,
-"mkt": 16.7,
-"fair": 12.4,
+"prob": 28.2,
+"mkt": 16.0,
+"fair": 12.0,
 "spot": null
 },
 "2026-08-23|823507|700250": {
@@ -49,9 +49,9 @@
 "id": 700250,
 "name": "Ben Rice",
 "team": "New York Yankees",
-"prob": 25.4,
+"prob": 27.5,
 "mkt": 19.2,
-"fair": 14.2,
+"fair": 14.4,
 "spot": null
 },
 "2026-08-23|823258|621439": {
@@ -60,9 +60,9 @@
 "id": 621439,
 "name": "Byron Buxton",
 "team": "Minnesota Twins",
-"prob": 24.3,
+"prob": 24.1,
 "mkt": 26.3,
-"fair": 19.5,
+"fair": 19.8,
 "spot": null
 },
 "2026-08-23|824315|666160": {
@@ -72,8 +72,8 @@
 "name": "Mickey Moniak",
 "team": "Colorado Rockies",
 "prob": 23.7,
-"mkt": 18.2,
-"fair": 13.5,
+"mkt": 18.5,
+"fair": 13.9,
 "spot": null
 },
 "2026-08-23|823258|657757": {
@@ -82,8 +82,8 @@
 "id": 657757,
 "name": "Gavin Sheets",
 "team": "San Diego Padres",
-"prob": 23.0,
-"mkt": 18.2,
+"prob": 22.8,
+"mkt": 17.9,
 "fair": 13.5,
 "spot": null
 },
@@ -95,7 +95,7 @@
 "team": "Cleveland Guardians",
 "prob": 22.9,
 "mkt": 22.7,
-"fair": 16.8,
+"fair": 17.1,
 "spot": null
 },
 "2026-08-23|824315|666176": {
@@ -104,9 +104,9 @@
 "id": 666176,
 "name": "Jo Adell",
 "team": "Cleveland Guardians",
-"prob": 22.9,
+"prob": 23.2,
 "mkt": 26.0,
-"fair": 19.2,
+"fair": 19.6,
 "spot": null
 },
 "2026-08-23|824799|681297": {
@@ -115,9 +115,9 @@
 "id": 681297,
 "name": "Colton Cowser",
 "team": "Baltimore Orioles",
-"prob": 21.4,
+"prob": 21.0,
 "mkt": 16.7,
-"fair": 12.4,
+"fair": 12.6,
 "spot": null
 },
 "2026-08-23|823507|663757": {
@@ -126,9 +126,9 @@
 "id": 663757,
 "name": "Trent Grisham",
 "team": "New York Yankees",
-"prob": 20.9,
-"mkt": 18.9,
-"fair": 14.0,
+"prob": 22.7,
+"mkt": 18.2,
+"fair": 13.7,
 "spot": null
 },
 "2026-08-23|824720|575929": {
@@ -148,9 +148,9 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 19.8,
+"prob": 19.3,
 "mkt": 25.0,
-"fair": 18.5,
+"fair": 18.8,
 "spot": null
 },
 "2026-08-23|823258|701538": {
@@ -159,9 +159,9 @@
 "id": 701538,
 "name": "Jackson Merrill",
 "team": "San Diego Padres",
-"prob": 19.8,
+"prob": 19.9,
 "mkt": 22.2,
-"fair": 16.4,
+"fair": 16.7,
 "spot": null
 },
 "2026-08-23|823258|665019": {
@@ -170,9 +170,9 @@
 "id": 665019,
 "name": "Kody Clemens",
 "team": "Minnesota Twins",
-"prob": 18.3,
-"mkt": 17.9,
-"fair": 13.2,
+"prob": 18.0,
+"mkt": 17.4,
+"fair": 13.1,
 "spot": null
 },
 "2026-08-23|823258|665487": {
@@ -181,9 +181,9 @@
 "id": 665487,
 "name": "Fernando Tatis Jr.",
 "team": "San Diego Padres",
-"prob": 18.3,
+"prob": 18.1,
 "mkt": 26.3,
-"fair": 19.5,
+"fair": 19.8,
 "spot": null
 },
 "2026-08-23|823258|664034": {
@@ -192,8 +192,8 @@
 "id": 664034,
 "name": "Ty France",
 "team": "San Diego Padres",
-"prob": 18.0,
-"mkt": 19.2,
+"prob": 17.9,
+"mkt": 18.9,
 "fair": 14.2,
 "spot": null
 },
@@ -203,9 +203,9 @@
 "id": 668723,
 "name": "Ryan Vilade",
 "team": "Tampa Bay Rays",
-"prob": 17.2,
+"prob": 16.8,
 "mkt": 11.8,
-"fair": 8.7,
+"fair": 8.9,
 "spot": null
 },
 "2026-08-23|824799|691723": {
@@ -214,9 +214,9 @@
 "id": 691723,
 "name": "Coby Mayo",
 "team": "Baltimore Orioles",
-"prob": 17.2,
-"mkt": 22.7,
-"fair": 16.8,
+"prob": 17.0,
+"mkt": 23.3,
+"fair": 17.5,
 "spot": null
 },
 "2026-08-23|823507|672960": {
@@ -225,9 +225,9 @@
 "id": 672960,
 "name": "Kazuma Okamoto",
 "team": "Toronto Blue Jays",
-"prob": 17.1,
-"mkt": 22.2,
-"fair": 16.4,
+"prob": 19.1,
+"mkt": 21.7,
+"fair": 16.3,
 "spot": null
 },
 "2026-08-23|823258|592518": {
@@ -236,9 +236,9 @@
 "id": 592518,
 "name": "Manny Machado",
 "team": "San Diego Padres",
-"prob": 16.6,
+"prob": 16.5,
 "mkt": 22.7,
-"fair": 16.8,
+"fair": 17.1,
 "spot": null
 },
 "2026-08-23|824315|683953": {
@@ -247,9 +247,9 @@
 "id": 683953,
 "name": "Travis Bazzana",
 "team": "Cleveland Guardians",
-"prob": 16.1,
-"mkt": 14.3,
-"fair": 10.6,
+"prob": 16.0,
+"mkt": 15.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|823258|680777": {
@@ -258,9 +258,9 @@
 "id": 680777,
 "name": "Ryan Jeffers",
 "team": "Minnesota Twins",
-"prob": 16.1,
+"prob": 16.0,
 "mkt": 16.7,
-"fair": 12.4,
+"fair": 12.6,
 "spot": null
 },
 "2026-08-23|824315|677587": {
@@ -271,7 +271,7 @@
 "team": "Cleveland Guardians",
 "prob": 16.0,
 "mkt": 11.1,
-"fair": 8.2,
+"fair": 8.3,
 "spot": null
 },
 "2026-08-23|824799|687637": {
@@ -280,9 +280,9 @@
 "id": 687637,
 "name": "Dylan Beavers",
 "team": "Baltimore Orioles",
-"prob": 15.4,
+"prob": 15.6,
 "mkt": 14.3,
-"fair": 10.6,
+"fair": 10.8,
 "spot": null
 },
 "2026-08-23|824315|608070": {
@@ -292,8 +292,8 @@
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
 "prob": 14.9,
-"mkt": 22.7,
-"fair": 16.8,
+"mkt": 23.3,
+"fair": 17.5,
 "spot": null
 },
 "2026-08-23|824799|689414": {
@@ -302,9 +302,9 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 14.7,
+"prob": 14.6,
 "mkt": 12.9,
-"fair": 9.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-08-23|824720|805811": {
@@ -324,8 +324,8 @@
 "id": 650489,
 "name": "Willi Castro",
 "team": "Colorado Rockies",
-"prob": 14.2,
-"mkt": 18.2,
+"prob": 14.1,
+"mkt": 17.9,
 "fair": 13.5,
 "spot": null
 },
@@ -335,9 +335,9 @@
 "id": 650859,
 "name": "Luis Rengifo",
 "team": "San Diego Padres",
-"prob": 14.2,
+"prob": 14.1,
 "mkt": 10.8,
-"fair": 8.0,
+"fair": 8.1,
 "spot": null
 },
 "2026-08-23|824799|683002": {
@@ -346,9 +346,9 @@
 "id": 683002,
 "name": "Gunnar Henderson",
 "team": "Baltimore Orioles",
-"prob": 13.9,
+"prob": 13.6,
 "mkt": 19.2,
-"fair": 14.2,
+"fair": 14.4,
 "spot": null
 },
 "2026-08-23|823258|668904": {
@@ -357,9 +357,9 @@
 "id": 668904,
 "name": "Royce Lewis",
 "team": "Minnesota Twins",
-"prob": 13.9,
-"mkt": 21.7,
-"fair": 16.1,
+"prob": 13.7,
+"mkt": 22.2,
+"fair": 16.7,
 "spot": null
 },
 "2026-08-23|823258|593428": {
@@ -370,7 +370,7 @@
 "team": "San Diego Padres",
 "prob": 13.9,
 "mkt": 15.4,
-"fair": 11.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|823258|686797": {
@@ -379,9 +379,9 @@
 "id": 686797,
 "name": "Brooks Lee",
 "team": "Minnesota Twins",
-"prob": 13.6,
-"mkt": 11.1,
-"fair": 8.2,
+"prob": 14.0,
+"mkt": 11.8,
+"fair": 8.9,
 "spot": null
 },
 "2026-08-23|824799|650490": {
@@ -390,9 +390,9 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 13.2,
+"prob": 12.9,
 "mkt": 15.4,
-"fair": 11.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|824315|664983": {
@@ -401,9 +401,9 @@
 "id": 664983,
 "name": "Jake McCarthy",
 "team": "Colorado Rockies",
-"prob": 12.6,
-"mkt": 10.5,
-"fair": 7.8,
+"prob": 12.8,
+"mkt": 10.0,
+"fair": 7.5,
 "spot": null
 },
 "2026-08-23|824315|595978": {
@@ -412,9 +412,9 @@
 "id": 595978,
 "name": "Austin Hedges",
 "team": "Cleveland Guardians",
-"prob": 12.5,
+"prob": 12.6,
 "mkt": 13.8,
-"fair": 10.2,
+"fair": 10.4,
 "spot": null
 },
 "2026-08-23|823258|605137": {
@@ -423,9 +423,9 @@
 "id": 605137,
 "name": "Josh Bell",
 "team": "Minnesota Twins",
-"prob": 12.4,
+"prob": 12.0,
 "mkt": 16.7,
-"fair": 12.4,
+"fair": 12.6,
 "spot": null
 },
 "2026-08-23|824315|691720": {
@@ -436,7 +436,7 @@
 "team": "Colorado Rockies",
 "prob": 12.1,
 "mkt": 15.4,
-"fair": 11.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|824720|642715": {
@@ -467,9 +467,9 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 11.6,
-"mkt": 20.0,
-"fair": 14.8,
+"prob": 11.4,
+"mkt": 19.2,
+"fair": 14.4,
 "spot": null
 },
 "2026-08-23|823507|671218": {
@@ -478,9 +478,9 @@
 "id": 671218,
 "name": "Heliot Ramos",
 "team": "New York Yankees",
-"prob": 11.4,
+"prob": 12.4,
 "mkt": 16.7,
-"fair": 12.4,
+"fair": 12.6,
 "spot": null
 },
 "2026-08-23|824720|646240": {
@@ -500,9 +500,9 @@
 "id": 665750,
 "name": "Leody Taveras",
 "team": "Baltimore Orioles",
-"prob": 10.4,
-"mkt": 11.1,
-"fair": 8.2,
+"prob": 10.2,
+"mkt": 11.8,
+"fair": 8.9,
 "spot": null
 },
 "2026-08-23|824799|641933": {
@@ -511,9 +511,9 @@
 "id": 641933,
 "name": "Tyler O'Neill",
 "team": "Baltimore Orioles",
-"prob": 10.4,
+"prob": 10.1,
 "mkt": 20.0,
-"fair": 14.8,
+"fair": 15.0,
 "spot": null
 },
 "2026-08-23|824799|702616": {
@@ -522,9 +522,9 @@
 "id": 702616,
 "name": "Jackson Holliday",
 "team": "Baltimore Orioles",
-"prob": 10.1,
-"mkt": 13.8,
-"fair": 10.2,
+"prob": 9.8,
+"mkt": 12.9,
+"fair": 9.7,
 "spot": null
 },
 "2026-08-23|823507|669224": {
@@ -533,9 +533,9 @@
 "id": 669224,
 "name": "Austin Wells",
 "team": "New York Yankees",
-"prob": 10.0,
+"prob": 10.9,
 "mkt": 15.4,
-"fair": 11.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|824315|678662": {
@@ -546,7 +546,7 @@
 "team": "Colorado Rockies",
 "prob": 9.8,
 "mkt": 15.4,
-"fair": 11.4,
+"fair": 11.6,
 "spot": null
 },
 "2026-08-23|824315|694249": {
@@ -555,9 +555,9 @@
 "id": 694249,
 "name": "Cole Carrigg",
 "team": "Colorado Rockies",
-"prob": 9.7,
+"prob": 9.6,
 "mkt": 13.8,
-"fair": 10.2,
+"fair": 10.4,
 "spot": null
 },
 "2026-08-23|824720|668939": {
@@ -577,9 +577,9 @@
 "id": 678218,
 "name": "Brandon Valenzuela",
 "team": "Toronto Blue Jays",
-"prob": 9.6,
+"prob": 10.5,
 "mkt": 13.8,
-"fair": 10.2,
+"fair": 10.4,
 "spot": null
 },
 "2026-08-23|824315|681198": {
@@ -590,7 +590,7 @@
 "team": "Colorado Rockies",
 "prob": 9.6,
 "mkt": 10.5,
-"fair": 7.8,
+"fair": 7.9,
 "spot": null
 },
 "2026-08-23|824720|655316": {
@@ -610,9 +610,9 @@
 "id": 656775,
 "name": "Cedric Mullins",
 "team": "Tampa Bay Rays",
-"prob": 9.1,
+"prob": 9.0,
 "mkt": 17.4,
-"fair": 12.9,
+"fair": 13.1,
 "spot": null
 },
 "2026-08-23|824720|678882": {
@@ -632,9 +632,9 @@
 "id": 807712,
 "name": "Luke Keaschall",
 "team": "Minnesota Twins",
-"prob": 8.9,
-"mkt": 10.0,
-"fair": 7.4,
+"prob": 9.8,
+"mkt": 10.5,
+"fair": 7.9,
 "spot": null
 },
 "2026-08-23|824720|642201": {
@@ -654,9 +654,9 @@
 "id": 676609,
 "name": "Jos\u00e9 Caballero",
 "team": "New York Yankees",
-"prob": 8.7,
+"prob": 9.5,
 "mkt": 10.0,
-"fair": 7.4,
+"fair": 7.5,
 "spot": null
 },
 "2026-08-23|823507|665489": {
@@ -665,8 +665,8 @@
 "id": 665489,
 "name": "Vladimir Guerrero Jr.",
 "team": "Toronto Blue Jays",
-"prob": 8.5,
-"mkt": 18.5,
+"prob": 9.3,
+"mkt": 18.2,
 "fair": 13.7,
 "spot": null
 },
@@ -676,9 +676,9 @@
 "id": 663616,
 "name": "Trevor Larnach",
 "team": "Minnesota Twins",
-"prob": 8.5,
+"prob": 8.4,
 "mkt": 11.1,
-"fair": 8.2,
+"fair": 8.3,
 "spot": null
 },
 "2026-08-23|823258|630105": {
@@ -687,9 +687,9 @@
 "id": 630105,
 "name": "Jake Cronenworth",
 "team": "San Diego Padres",
-"prob": 8.5,
-"mkt": 13.8,
-"fair": 10.2,
+"prob": 8.1,
+"mkt": 12.9,
+"fair": 9.7,
 "spot": null
 },
 "2026-08-23|823507|543807": {
@@ -698,9 +698,9 @@
 "id": 543807,
 "name": "George Springer",
 "team": "Toronto Blue Jays",
-"prob": 7.6,
+"prob": 8.3,
 "mkt": 17.9,
-"fair": 13.2,
+"fair": 13.5,
 "spot": null
 },
 "2026-08-23|824720|702332": {
@@ -720,9 +720,9 @@
 "id": 666023,
 "name": "Freddy Fermin",
 "team": "San Diego Padres",
-"prob": 6.7,
+"prob": 6.6,
 "mkt": 11.1,
-"fair": 8.2,
+"fair": 8.3,
 "spot": null
 },
 "2026-08-23|824799|680700": {
@@ -731,9 +731,9 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 5.9,
+"prob": 5.7,
 "mkt": 11.8,
-"fair": 8.7,
+"fair": 8.9,
 "spot": null
 },
 "2026-08-23|823507|676391": {
@@ -742,9 +742,9 @@
 "id": 676391,
 "name": "Ernie Clement",
 "team": "Toronto Blue Jays",
-"prob": 5.6,
-"mkt": 10.8,
-"fair": 8.0,
+"prob": 6.1,
+"mkt": 10.5,
+"fair": 7.9,
 "spot": null
 },
 "2026-08-23|823507|664702": {
@@ -753,9 +753,9 @@
 "id": 664702,
 "name": "Myles Straw",
 "team": "Toronto Blue Jays",
-"prob": 4.8,
-"mkt": 8.3,
-"fair": 6.1,
+"prob": 5.5,
+"mkt": 7.7,
+"fair": 5.8,
 "spot": null
 },
 "2026-08-23|824720|808982": {
@@ -777,7 +777,7 @@
 "team": "Cleveland Guardians",
 "prob": 4.0,
 "mkt": 9.1,
-"fair": 6.7,
+"fair": 6.8,
 "spot": null
 },
 "2026-08-23|824799|670764": {
@@ -786,9 +786,9 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 3.9,
-"mkt": 9.1,
-"fair": 6.7,
+"prob": 3.8,
+"mkt": 10.0,
+"fair": 7.5,
 "spot": null
 },
 "2026-08-23|824799|802415": {
@@ -798,8 +798,910 @@
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
 "prob": 0.8,
+"mkt": 7.1,
+"fair": 5.3,
+"spot": null
+},
+"2026-08-23|823909|660271": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 660271,
+"name": "Shohei Ohtani",
+"team": "Los Angeles Dodgers",
+"prob": 36.4,
+"mkt": 32.3,
+"fair": 24.3,
+"spot": null
+},
+"2026-08-23|823909|571970": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 571970,
+"name": "Max Muncy",
+"team": "Los Angeles Dodgers",
+"prob": 35.5,
+"mkt": 27.4,
+"fair": 20.6,
+"spot": null
+},
+"2026-08-23|824558|808959": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 808959,
+"name": "Munetaka Murakami",
+"team": "Chicago White Sox",
+"prob": 26.0,
+"mkt": 23.3,
+"fair": 17.5,
+"spot": null
+},
+"2026-08-23|823909|605141": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 605141,
+"name": "Mookie Betts",
+"team": "Los Angeles Dodgers",
+"prob": 25.6,
+"mkt": 17.4,
+"fair": 13.1,
+"spot": null
+},
+"2026-08-23|823099|691718": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 691718,
+"name": "Pete Crow-Armstrong",
+"team": "Chicago Cubs",
+"prob": 23.3,
+"mkt": 23.8,
+"fair": 17.9,
+"spot": null
+},
+"2026-08-23|823827|681715": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 681715,
+"name": "Heriberto Hern\u00e1ndez",
+"team": "Miami Marlins",
+"prob": 22.9,
+"mkt": 17.9,
+"fair": 13.5,
+"spot": null
+},
+"2026-08-23|824558|678246": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 678246,
+"name": "Miguel Vargas",
+"team": "Chicago White Sox",
+"prob": 19.5,
+"mkt": 17.9,
+"fair": 13.5,
+"spot": null
+},
+"2026-08-23|823099|686527": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 686527,
+"name": "Dominic Canzone",
+"team": "Seattle Mariners",
+"prob": 19.2,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": null
+},
+"2026-08-23|823099|663728": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 663728,
+"name": "Cal Raleigh",
+"team": "Seattle Mariners",
+"prob": 19.1,
+"mkt": 26.3,
+"fair": 19.8,
+"spot": null
+},
+"2026-08-23|823909|676439": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 676439,
+"name": "Hunter Feduccia",
+"team": "Los Angeles Dodgers",
+"prob": 18.8,
+"mkt": 11.8,
+"fair": 8.9,
+"spot": null
+},
+"2026-08-23|823827|665052": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 665052,
+"name": "Griffin Conine",
+"team": "Miami Marlins",
+"prob": 18.0,
+"mkt": 19.2,
+"fair": 14.4,
+"spot": null
+},
+"2026-08-23|824150|691777": {
+"d": "2026-08-23",
+"g": 824150,
+"id": 691777,
+"name": "Max Muncy",
+"team": "Athletics",
+"prob": 17.6,
+"mkt": 27.4,
+"fair": 20.6,
+"spot": null
+},
+"2026-08-23|823099|668227": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 668227,
+"name": "Randy Arozarena",
+"team": "Seattle Mariners",
+"prob": 17.5,
+"mkt": 19.2,
+"fair": 14.4,
+"spot": null
+},
+"2026-08-23|823909|518692": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 518692,
+"name": "Freddie Freeman",
+"team": "Los Angeles Dodgers",
+"prob": 17.2,
+"mkt": 19.2,
+"fair": 14.4,
+"spot": null
+},
+"2026-08-23|823909|699013": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 699013,
+"name": "Esmerlyn Valdez",
+"team": "Pittsburgh Pirates",
+"prob": 16.8,
+"mkt": 18.9,
+"fair": 14.2,
+"spot": null
+},
+"2026-08-23|823099|673548": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 673548,
+"name": "Seiya Suzuki",
+"team": "Chicago Cubs",
+"prob": 16.7,
+"mkt": 18.2,
+"fair": 13.7,
+"spot": null
+},
+"2026-08-23|823909|664040": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 664040,
+"name": "Brandon Lowe",
+"team": "Pittsburgh Pirates",
+"prob": 16.6,
+"mkt": 17.4,
+"fair": 13.1,
+"spot": null
+},
+"2026-08-23|825043|571448": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 571448,
+"name": "Nolan Arenado",
+"team": "Arizona Diamondbacks",
+"prob": 15.3,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": null
+},
+"2026-08-23|823909|606192": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 606192,
+"name": "Teoscar Hern\u00e1ndez",
+"team": "Los Angeles Dodgers",
+"prob": 15.2,
+"mkt": 17.9,
+"fair": 13.5,
+"spot": null
+},
+"2026-08-23|823827|682928": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 682928,
+"name": "CJ Abrams",
+"team": "Washington Nationals",
+"prob": 15.0,
+"mkt": 18.9,
+"fair": 14.2,
+"spot": null
+},
+"2026-08-23|823099|677594": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 677594,
+"name": "Julio Rodr\u00edguez",
+"team": "Seattle Mariners",
+"prob": 14.6,
+"mkt": 20.4,
+"fair": 15.3,
+"spot": null
+},
+"2026-08-23|825043|682829": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 682829,
+"name": "Elly De La Cruz",
+"team": "Cincinnati Reds",
+"prob": 14.3,
+"mkt": 19.2,
+"fair": 14.4,
+"spot": null
+},
+"2026-08-23|824558|695657": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 695657,
+"name": "Colson Montgomery",
+"team": "Chicago White Sox",
+"prob": 14.2,
+"mkt": 19.2,
+"fair": 14.4,
+"spot": null
+},
+"2026-08-23|823099|608324": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 608324,
+"name": "Alex Bregman",
+"team": "Chicago Cubs",
+"prob": 14.1,
+"mkt": 11.8,
+"fair": 8.9,
+"spot": null
+},
+"2026-08-23|823099|621438": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 621438,
+"name": "Tyrone Taylor",
+"team": "Chicago Cubs",
+"prob": 14.1,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": null
+},
+"2026-08-23|824558|673357": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 673357,
+"name": "Luis Robert Jr.",
+"team": "New York Mets",
+"prob": 14.0,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": null
+},
+"2026-08-23|825043|680574": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 680574,
+"name": "Matt McLain",
+"team": "Cincinnati Reds",
+"prob": 13.9,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": null
+},
+"2026-08-23|825043|701398": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 701398,
+"name": "Sal Stewart",
+"team": "Cincinnati Reds",
+"prob": 13.8,
+"mkt": 18.2,
+"fair": 13.7,
+"spot": null
+},
+"2026-08-23|824558|691011": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 691011,
+"name": "Drew Romo",
+"team": "Chicago White Sox",
+"prob": 13.6,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": null
+},
+"2026-08-23|825043|682998": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 682998,
+"name": "Corbin Carroll",
+"team": "Arizona Diamondbacks",
+"prob": 13.6,
+"mkt": 16.0,
+"fair": 12.0,
+"spot": null
+},
+"2026-08-23|825043|672515": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 672515,
+"name": "Gabriel Moreno",
+"team": "Arizona Diamondbacks",
+"prob": 13.5,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": null
+},
+"2026-08-23|825043|668709": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 668709,
+"name": "JJ Bleday",
+"team": "Cincinnati Reds",
+"prob": 13.3,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": null
+},
+"2026-08-23|825043|663886": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 663886,
+"name": "Tyler Stephenson",
+"team": "Cincinnati Reds",
+"prob": 13.1,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|823099|664023": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 664023,
+"name": "Ian Happ",
+"team": "Chicago Cubs",
+"prob": 12.8,
+"mkt": 17.4,
+"fair": 13.1,
+"spot": null
+},
+"2026-08-23|823827|691781": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 691781,
+"name": "Brady House",
+"team": "Washington Nationals",
+"prob": 12.7,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": null
+},
+"2026-08-23|823909|663656": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 663656,
+"name": "Kyle Tucker",
+"team": "Los Angeles Dodgers",
+"prob": 12.5,
+"mkt": 17.4,
+"fair": 13.1,
+"spot": null
+},
+"2026-08-23|823909|669242": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 669242,
+"name": "Tommy Edman",
+"team": "Los Angeles Dodgers",
+"prob": 12.4,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": null
+},
+"2026-08-23|823099|683737": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 683737,
+"name": "Michael Busch",
+"team": "Chicago Cubs",
+"prob": 12.4,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": null
+},
+"2026-08-23|824558|643217": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 643217,
+"name": "Andrew Benintendi",
+"team": "Chicago White Sox",
+"prob": 12.1,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|825043|694374": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 694374,
+"name": "Tim Tawa",
+"team": "Arizona Diamondbacks",
+"prob": 12.1,
+"mkt": 11.8,
+"fair": 8.9,
+"spot": null
+},
+"2026-08-23|823827|665923": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 665923,
+"name": "Esteury Ruiz",
+"team": "Miami Marlins",
+"prob": 11.8,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": null
+},
+"2026-08-23|825043|663647": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 663647,
+"name": "Ke'Bryan Hayes",
+"team": "Cincinnati Reds",
+"prob": 11.6,
+"mkt": 10.8,
+"fair": 8.1,
+"spot": null
+},
+"2026-08-23|825043|545121": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 545121,
+"name": "Ildemaro Vargas",
+"team": "Arizona Diamondbacks",
+"prob": 11.3,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": null
+},
+"2026-08-23|823909|668804": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 668804,
+"name": "Bryan Reynolds",
+"team": "Pittsburgh Pirates",
+"prob": 11.1,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": null
+},
+"2026-08-23|825043|553993": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 553993,
+"name": "Eugenio Su\u00e1rez",
+"team": "Cincinnati Reds",
+"prob": 11.0,
+"mkt": 18.9,
+"fair": 14.2,
+"spot": null
+},
+"2026-08-23|823827|686611": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 686611,
+"name": "Dylan Crews",
+"team": "Washington Nationals",
+"prob": 10.7,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|823827|696285": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 696285,
+"name": "Jacob Young",
+"team": "Washington Nationals",
+"prob": 10.7,
+"mkt": 7.1,
+"fair": 5.3,
+"spot": null
+},
+"2026-08-23|824558|701807": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 701807,
+"name": "Carson Benge",
+"team": "New York Mets",
+"prob": 10.7,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|823827|695734": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 695734,
+"name": "Daylen Lile",
+"team": "Washington Nationals",
+"prob": 10.0,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|824558|671976": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 671976,
+"name": "Tristan Peters",
+"team": "Chicago White Sox",
+"prob": 10.0,
+"mkt": 10.8,
+"fair": 8.1,
+"spot": null
+},
+"2026-08-23|824558|666182": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 666182,
+"name": "Bo Bichette",
+"team": "New York Mets",
+"prob": 9.9,
+"mkt": 11.8,
+"fair": 8.9,
+"spot": null
+},
+"2026-08-23|823099|702284": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 702284,
+"name": "Cole Young",
+"team": "Seattle Mariners",
+"prob": 9.9,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": null
+},
+"2026-08-23|824558|682626": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 682626,
+"name": "Francisco Alvarez",
+"team": "New York Mets",
+"prob": 9.8,
+"mkt": 18.9,
+"fair": 14.2,
+"spot": null
+},
+"2026-08-23|824558|596019": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 596019,
+"name": "Francisco Lindor",
+"team": "New York Mets",
+"prob": 9.6,
+"mkt": 17.9,
+"fair": 13.5,
+"spot": null
+},
+"2026-08-23|825043|667472": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 667472,
+"name": "Dane Myers",
+"team": "Cincinnati Reds",
+"prob": 9.4,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": null
+},
+"2026-08-23|823909|680779": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 680779,
+"name": "Henry Davis",
+"team": "Pittsburgh Pirates",
+"prob": 9.1,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": null
+},
+"2026-08-23|823099|647304": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 647304,
+"name": "Josh Naylor",
+"team": "Seattle Mariners",
+"prob": 8.8,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": null
+},
+"2026-08-23|823827|660688": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 660688,
+"name": "Keibert Ruiz",
+"team": "Washington Nationals",
+"prob": 8.4,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": null
+},
+"2026-08-23|823827|691594": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 691594,
+"name": "Javier Sanoja",
+"team": "Miami Marlins",
+"prob": 8.2,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|823099|621493": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 621493,
+"name": "Taylor Ward",
+"team": "Seattle Mariners",
+"prob": 8.1,
+"mkt": 11.8,
+"fair": 8.9,
+"spot": null
+},
+"2026-08-23|824558|543760": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 543760,
+"name": "Marcus Semien",
+"team": "New York Mets",
+"prob": 7.6,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": null
+},
+"2026-08-23|824558|695731": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 695731,
+"name": "Braden Montgomery",
+"team": "Chicago White Sox",
+"prob": 7.4,
+"mkt": 10.8,
+"fair": 8.1,
+"spot": null
+},
+"2026-08-23|823827|672640": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 672640,
+"name": "Otto Lopez",
+"team": "Miami Marlins",
+"prob": 7.2,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": null
+},
+"2026-08-23|824558|676724": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 676724,
+"name": "Jared Young",
+"team": "New York Mets",
+"prob": 7.2,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": null
+},
+"2026-08-23|824558|683146": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 683146,
+"name": "Brett Baty",
+"team": "New York Mets",
+"prob": 7.0,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|824558|803011": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 803011,
+"name": "Sam Antonacci",
+"team": "Chicago White Sox",
+"prob": 7.0,
+"mkt": 10.8,
+"fair": 8.1,
+"spot": null
+},
+"2026-08-23|823099|608348": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 608348,
+"name": "Carson Kelly",
+"team": "Chicago Cubs",
+"prob": 6.6,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": null
+},
+"2026-08-23|823827|677870": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 677870,
+"name": "Leo Jim\u00e9nez",
+"team": "Miami Marlins",
+"prob": 6.3,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|823827|669364": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 669364,
+"name": "Xavier Edwards",
+"team": "Miami Marlins",
+"prob": 6.1,
 "mkt": 6.7,
 "fair": 5.0,
+"spot": null
+},
+"2026-08-23|824558|805999": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 805999,
+"name": "A.J. Ewing",
+"team": "New York Mets",
+"prob": 5.9,
+"mkt": 11.1,
+"fair": 8.3,
+"spot": null
+},
+"2026-08-23|825043|699912": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 699912,
+"name": "Jose Fernandez",
+"team": "Arizona Diamondbacks",
+"prob": 5.6,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|824558|805367": {
+"d": "2026-08-23",
+"g": 824558,
+"id": 805367,
+"name": "Chase Meidroth",
+"team": "Chicago White Sox",
+"prob": 5.5,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|823827|682663": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 682663,
+"name": "Agust\u00edn Ram\u00edrez",
+"team": "Miami Marlins",
+"prob": 5.4,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": null
+},
+"2026-08-23|825043|814439": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 814439,
+"name": "Ryan Waldschmidt",
+"team": "Arizona Diamondbacks",
+"prob": 5.3,
+"mkt": 9.1,
+"fair": 6.8,
+"spot": null
+},
+"2026-08-23|823099|699393": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 699393,
+"name": "Pedro Ram\u00edrez",
+"team": "Chicago Cubs",
+"prob": 4.8,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": null
+},
+"2026-08-23|823909|669707": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 669707,
+"name": "Jared Triolo",
+"team": "Pittsburgh Pirates",
+"prob": 4.7,
+"mkt": 7.7,
+"fair": 5.8,
+"spot": null
+},
+"2026-08-23|823827|678391": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 678391,
+"name": "Jorbit Vivas",
+"team": "Washington Nationals",
+"prob": 4.2,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|823909|693304": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 693304,
+"name": "Nick Gonzales",
+"team": "Pittsburgh Pirates",
+"prob": 4.1,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": null
+},
+"2026-08-23|825043|672695": {
+"d": "2026-08-23",
+"g": 825043,
+"id": 672695,
+"name": "Geraldo Perdomo",
+"team": "Arizona Diamondbacks",
+"prob": 4.1,
+"mkt": 7.1,
+"fair": 5.3,
+"spot": null
+},
+"2026-08-23|823909|663968": {
+"d": "2026-08-23",
+"g": 823909,
+"id": 663968,
+"name": "Jake Mangum",
+"team": "Pittsburgh Pirates",
+"prob": 3.9,
+"mkt": 6.2,
+"fair": 4.7,
+"spot": null
+},
+"2026-08-23|823099|663538": {
+"d": "2026-08-23",
+"g": 823099,
+"id": 663538,
+"name": "Nico Hoerner",
+"team": "Chicago Cubs",
+"prob": 3.9,
+"mkt": 7.1,
+"fair": 5.3,
+"spot": null
+},
+"2026-08-23|823827|683083": {
+"d": "2026-08-23",
+"g": 823827,
+"id": 683083,
+"name": "Nasim Nu\u00f1ez",
+"team": "Washington Nationals",
+"prob": 1.1,
+"mkt": 3.2,
+"fair": 2.4,
 "spot": null
 }
 }
