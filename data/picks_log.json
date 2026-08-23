@@ -3056,5 +3056,203 @@
 "mkt": null,
 "fair": null,
 "spot": 9
+},
+"2026-08-23|823745|641343": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 641343,
+"name": "Jake Bauers",
+"team": "Milwaukee Brewers",
+"prob": 19.9,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": 4
+},
+"2026-08-23|823745|621566": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 621566,
+"name": "Matt Olson",
+"team": "Atlanta Braves",
+"prob": 16.8,
+"mkt": 18.2,
+"fair": 13.7,
+"spot": 3
+},
+"2026-08-23|823745|694192": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 694192,
+"name": "Jackson Chourio",
+"team": "Milwaukee Brewers",
+"prob": 16.5,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": 1
+},
+"2026-08-23|823745|592885": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 592885,
+"name": "Christian Yelich",
+"team": "Milwaukee Brewers",
+"prob": 14.5,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": 6
+},
+"2026-08-23|823745|660670": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 660670,
+"name": "Ronald Acu\u00f1a Jr.",
+"team": "Atlanta Braves",
+"prob": 14.4,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": 2
+},
+"2026-08-23|823745|657041": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 657041,
+"name": "Lane Thomas",
+"team": "Atlanta Braves",
+"prob": 12.6,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": 6
+},
+"2026-08-23|823745|671739": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 671739,
+"name": "Michael Harris II",
+"team": "Atlanta Braves",
+"prob": 12.4,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": 1
+},
+"2026-08-23|823745|686948": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 686948,
+"name": "Drake Baldwin",
+"team": "Atlanta Braves",
+"prob": 12.3,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": 5
+},
+"2026-08-23|823745|668930": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 668930,
+"name": "Brice Turang",
+"team": "Milwaukee Brewers",
+"prob": 12.1,
+"mkt": 10.5,
+"fair": 7.9,
+"spot": 2
+},
+"2026-08-23|823745|669003": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 669003,
+"name": "Garrett Mitchell",
+"team": "Milwaukee Brewers",
+"prob": 12.1,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": 8
+},
+"2026-08-23|823745|661388": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 661388,
+"name": "William Contreras",
+"team": "Milwaukee Brewers",
+"prob": 11.5,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": 3
+},
+"2026-08-23|823745|663586": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 663586,
+"name": "Austin Riley",
+"team": "Atlanta Braves",
+"prob": 10.2,
+"mkt": 15.4,
+"fair": 11.6,
+"spot": 8
+},
+"2026-08-23|823745|687401": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 687401,
+"name": "Joey Ortiz",
+"team": "Milwaukee Brewers",
+"prob": 10.0,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": 7
+},
+"2026-08-23|823745|645277": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 645277,
+"name": "Ozzie Albies",
+"team": "Atlanta Braves",
+"prob": 9.9,
+"mkt": 14.3,
+"fair": 10.8,
+"spot": 4
+},
+"2026-08-23|823745|669221": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 669221,
+"name": "Sean Murphy",
+"team": "Atlanta Braves",
+"prob": 8.8,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": 9
+},
+"2026-08-23|823745|683734": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 683734,
+"name": "Andrew Vaughn",
+"team": "Milwaukee Brewers",
+"prob": 7.9,
+"mkt": 13.8,
+"fair": 10.4,
+"spot": 5
+},
+"2026-08-23|823745|643289": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 643289,
+"name": "Mauricio Dub\u00f3n",
+"team": "Atlanta Braves",
+"prob": 6.8,
+"mkt": 9.1,
+"fair": 6.8,
+"spot": 7
+},
+"2026-08-23|823745|666152": {
+"d": "2026-08-23",
+"g": 823745,
+"id": 666152,
+"name": "David Hamilton",
+"team": "Milwaukee Brewers",
+"prob": 6.0,
+"mkt": 8.3,
+"fair": 6.2,
+"spot": 9
 }
 }
