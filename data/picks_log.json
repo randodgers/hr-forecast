@@ -104,10 +104,10 @@
 "id": 682985,
 "name": "Riley Greene",
 "team": "Detroit Tigers",
-"prob": 25.4,
-"mkt": 22.7,
-"fair": 17.1,
-"spot": null
+"prob": 27.1,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-09|823900|682829": {
 "d": "2026-09-09",
@@ -225,10 +225,10 @@
 "id": 665019,
 "name": "Kody Clemens",
 "team": "Minnesota Twins",
-"prob": 22.0,
-"mkt": 18.5,
-"fair": 13.9,
-"spot": null
+"prob": 24.1,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-09|823900|605141": {
 "d": "2026-09-09",
@@ -335,10 +335,10 @@
 "id": 693307,
 "name": "Dillon Dingler",
 "team": "Detroit Tigers",
-"prob": 19.8,
-"mkt": 16.7,
-"fair": 12.6,
-"spot": null
+"prob": 20.7,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-09|823090|679822": {
 "d": "2026-09-09",
@@ -522,10 +522,10 @@
 "id": 805808,
 "name": "Kevin McGonigle",
 "team": "Detroit Tigers",
-"prob": 16.4,
-"mkt": 16.7,
-"fair": 12.6,
-"spot": null
+"prob": 18.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-09|823251|669134": {
 "d": "2026-09-09",
@@ -830,10 +830,10 @@
 "id": 605137,
 "name": "Josh Bell",
 "team": "Minnesota Twins",
-"prob": 12.2,
-"mkt": 17.4,
-"fair": 13.1,
-"spot": null
+"prob": 13.2,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-09|824791|683953": {
 "d": "2026-09-09",
@@ -885,10 +885,10 @@
 "id": 686797,
 "name": "Brooks Lee",
 "team": "Minnesota Twins",
-"prob": 11.5,
-"mkt": 14.3,
-"fair": 10.8,
-"spot": null
+"prob": 12.9,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-09|823416|673237": {
 "d": "2026-09-09",
@@ -929,10 +929,10 @@
 "id": 663616,
 "name": "Trevor Larnach",
 "team": "Minnesota Twins",
-"prob": 11.1,
-"mkt": 11.1,
-"fair": 8.3,
-"spot": null
+"prob": 11.3,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-09|824226|690993": {
 "d": "2026-09-09",
@@ -940,10 +940,10 @@
 "id": 690993,
 "name": "Colt Keith",
 "team": "Detroit Tigers",
-"prob": 11.1,
-"mkt": 15.4,
-"fair": 11.6,
-"spot": null
+"prob": 12.1,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-09|824226|668904": {
 "d": "2026-09-09",
@@ -951,10 +951,10 @@
 "id": 668904,
 "name": "Royce Lewis",
 "team": "Minnesota Twins",
-"prob": 10.9,
-"mkt": 20.0,
-"fair": 15.0,
-"spot": null
+"prob": 11.0,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-09|823416|665161": {
 "d": "2026-09-09",
@@ -1347,10 +1347,10 @@
 "id": 807712,
 "name": "Luke Keaschall",
 "team": "Minnesota Twins",
-"prob": 6.7,
-"mkt": 10.8,
-"fair": 8.1,
-"spot": null
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-09|823251|593428": {
 "d": "2026-09-09",
@@ -1461,5 +1461,93 @@
 "mkt": 6.2,
 "fair": 4.7,
 "spot": null
+},
+"2026-09-09|824226|701678": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 701678,
+"name": "Hao-Yu Lee",
+"team": "Detroit Tigers",
+"prob": 16.5,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-09|824226|814430": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 814430,
+"name": "Brett Callahan",
+"team": "Detroit Tigers",
+"prob": 15.4,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-09|824226|807726": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 807726,
+"name": "John Peck",
+"team": "Detroit Tigers",
+"prob": 12.8,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-09|824226|701162": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 701162,
+"name": "Ben Malgeri",
+"team": "Detroit Tigers",
+"prob": 11.2,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-09|824226|805805": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 805805,
+"name": "Walker Jenkins",
+"team": "Minnesota Twins",
+"prob": 11.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-09|824226|701785": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 701785,
+"name": "Kaelen Culpepper",
+"team": "Minnesota Twins",
+"prob": 7.9,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-09|824226|605170": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 605170,
+"name": "Victor Caratini",
+"team": "Minnesota Twins",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-09|824226|703601": {
+"d": "2026-09-09",
+"g": 824226,
+"id": 703601,
+"name": "Max Clark",
+"team": "Detroit Tigers",
+"prob": 6.1,
+"mkt": null,
+"fair": null,
+"spot": 7
 }
 }
