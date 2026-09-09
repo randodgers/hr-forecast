@@ -93,10 +93,10 @@
 "id": 701398,
 "name": "Sal Stewart",
 "team": "Cincinnati Reds",
-"prob": 26.4,
-"mkt": 17.9,
-"fair": 13.5,
-"spot": null
+"prob": 27.6,
+"mkt": 18.5,
+"fair": 13.9,
+"spot": 3
 },
 "2026-09-09|824226|682985": {
 "d": "2026-09-09",
@@ -115,10 +115,10 @@
 "id": 682829,
 "name": "Elly De La Cruz",
 "team": "Cincinnati Reds",
-"prob": 25.7,
+"prob": 27.4,
 "mkt": 16.7,
 "fair": 12.6,
-"spot": null
+"spot": 2
 },
 "2026-09-09|823900|553993": {
 "d": "2026-09-09",
@@ -236,10 +236,10 @@
 "id": 605141,
 "name": "Mookie Betts",
 "team": "Los Angeles Dodgers",
-"prob": 22.1,
-"mkt": 16.7,
-"fair": 12.6,
-"spot": null
+"prob": 23.1,
+"mkt": 17.4,
+"fair": 13.1,
+"spot": 3
 },
 "2026-09-09|823416|670541": {
 "d": "2026-09-09",
@@ -259,9 +259,9 @@
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
 "prob": 21.3,
-"mkt": 20.4,
-"fair": 15.3,
-"spot": null
+"mkt": 19.6,
+"fair": 14.7,
+"spot": 5
 },
 "2026-09-09|824713|680776": {
 "d": "2026-09-09",
@@ -445,10 +445,10 @@
 "id": 668709,
 "name": "JJ Bleday",
 "team": "Cincinnati Reds",
-"prob": 18.0,
-"mkt": 17.4,
-"fair": 13.1,
-"spot": null
+"prob": 18.5,
+"mkt": 18.5,
+"fair": 13.9,
+"spot": 4
 },
 "2026-09-09|823251|682928": {
 "d": "2026-09-09",
@@ -621,10 +621,10 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 15.3,
-"mkt": 16.0,
-"fair": 12.0,
-"spot": null
+"prob": 15.0,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": 6
 },
 "2026-09-09|823251|691781": {
 "d": "2026-09-09",
@@ -731,10 +731,10 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 13.3,
-"mkt": 14.8,
-"fair": 11.1,
-"spot": null
+"prob": 14.6,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": 1
 },
 "2026-09-09|824713|545361": {
 "d": "2026-09-09",
@@ -753,10 +753,10 @@
 "id": 676439,
 "name": "Hunter Feduccia",
 "team": "Los Angeles Dodgers",
-"prob": 13.4,
-"mkt": 12.5,
-"fair": 9.4,
-"spot": null
+"prob": 12.8,
+"mkt": 12.1,
+"fair": 9.1,
+"spot": 7
 },
 "2026-09-09|823416|669016": {
 "d": "2026-09-09",
@@ -874,10 +874,10 @@
 "id": 663647,
 "name": "Ke'Bryan Hayes",
 "team": "Cincinnati Reds",
-"prob": 12.1,
-"mkt": 10.0,
-"fair": 7.5,
-"spot": null
+"prob": 11.0,
+"mkt": 10.3,
+"fair": 7.7,
+"spot": 9
 },
 "2026-09-09|824226|686797": {
 "d": "2026-09-09",
@@ -1050,10 +1050,10 @@
 "id": 690976,
 "name": "Alex Freeland",
 "team": "Los Angeles Dodgers",
-"prob": 10.4,
-"mkt": 13.3,
-"fair": 10.0,
-"spot": null
+"prob": 9.7,
+"mkt": 14.8,
+"fair": 11.1,
+"spot": 8
 },
 "2026-09-09|824791|677587": {
 "d": "2026-09-09",
@@ -1578,10 +1578,10 @@
 "id": 571970,
 "name": "Max Muncy",
 "team": "Los Angeles Dodgers",
-"prob": 26.7,
-"mkt": 19.6,
-"fair": 14.7,
-"spot": null
+"prob": 27.3,
+"mkt": 21.7,
+"fair": 16.3,
+"spot": 4
 },
 "2026-09-09|824871|691406": {
 "d": "2026-09-09",
@@ -3221,5 +3221,82 @@
 "mkt": 7.1,
 "fair": 5.3,
 "spot": 9
+},
+"2026-09-09|823900|669257": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 669257,
+"name": "Will Smith",
+"team": "Los Angeles Dodgers",
+"prob": 24.0,
+"mkt": 20.4,
+"fair": 15.3,
+"spot": 2
+},
+"2026-09-09|823900|699302": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 699302,
+"name": "H\u00e9ctor Rodr\u00edguez",
+"team": "Cincinnati Reds",
+"prob": 18.7,
+"mkt": 12.9,
+"fair": 9.7,
+"spot": 5
+},
+"2026-09-09|823900|699115": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 699115,
+"name": "Carlos Jorge",
+"team": "Cincinnati Reds",
+"prob": 16.4,
+"mkt": 10.3,
+"fair": 7.7,
+"spot": 1
+},
+"2026-09-09|823900|677943": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 677943,
+"name": "Will Banfield",
+"team": "Cincinnati Reds",
+"prob": 15.1,
+"mkt": 10.0,
+"fair": 7.5,
+"spot": 7
+},
+"2026-09-09|823900|571771": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 571771,
+"name": "Enrique Hern\u00e1ndez",
+"team": "Los Angeles Dodgers",
+"prob": 14.0,
+"mkt": 16.7,
+"fair": 12.6,
+"spot": 9
+},
+"2026-09-09|823900|682877": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 682877,
+"name": "Juan Brito",
+"team": "Cincinnati Reds",
+"prob": 11.7,
+"mkt": 9.1,
+"fair": 6.8,
+"spot": 6
+},
+"2026-09-09|823900|670770": {
+"d": "2026-09-09",
+"g": 823900,
+"id": 670770,
+"name": "TJ Friedl",
+"team": "Cincinnati Reds",
+"prob": 7.7,
+"mkt": 9.1,
+"fair": 6.8,
+"spot": 8
 }
 }
