@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-10|824872|660670": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 660670,
+"name": "Ronald Acu\u00f1a Jr.",
+"team": "Atlanta Braves",
+"prob": 24.0,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-10|824872|621566": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 621566,
+"name": "Matt Olson",
+"team": "Atlanta Braves",
+"prob": 23.4,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-10|824872|671739": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 671739,
+"name": "Michael Harris II",
+"team": "Atlanta Braves",
+"prob": 22.7,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-10|824872|691406": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 691406,
+"name": "Junior Caminero",
+"team": "Tampa Bay Rays",
+"prob": 21.2,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-10|824872|686948": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 686948,
+"name": "Drake Baldwin",
+"team": "Atlanta Braves",
+"prob": 19.5,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-10|824872|650490": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 650490,
+"name": "Yandy D\u00edaz",
+"team": "Tampa Bay Rays",
+"prob": 15.9,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-10|824872|663586": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 663586,
+"name": "Austin Riley",
+"team": "Atlanta Braves",
+"prob": 14.0,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-10|824872|668723": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 668723,
+"name": "Ryan Vilade",
+"team": "Tampa Bay Rays",
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-10|824872|657041": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 657041,
+"name": "Lane Thomas",
+"team": "Atlanta Braves",
+"prob": 10.2,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-10|824872|676551": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 676551,
+"name": "Brewer Hicklen",
+"team": "Atlanta Braves",
+"prob": 10.1,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-10|824872|622761": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 622761,
+"name": "Jorge Mateo",
+"team": "Tampa Bay Rays",
+"prob": 9.1,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-10|824872|643289": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 643289,
+"name": "Mauricio Dub\u00f3n",
+"team": "Atlanta Braves",
+"prob": 8.9,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-10|824872|656775": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 656775,
+"name": "Cedric Mullins",
+"team": "Tampa Bay Rays",
+"prob": 8.3,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-10|824872|676356": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 676356,
+"name": "Jonny DeLuca",
+"team": "Tampa Bay Rays",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-10|824872|663611": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 663611,
+"name": "Nick Madrigal",
+"team": "Tampa Bay Rays",
+"prob": 5.8,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-10|824872|673490": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 673490,
+"name": "Ha-Seong Kim",
+"team": "Atlanta Braves",
+"prob": 4.3,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-10|824872|663743": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 663743,
+"name": "Nick Fortes",
+"team": "Tampa Bay Rays",
+"prob": 3.8,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-10|824872|802415": {
+"d": "2026-09-10",
+"g": 824872,
+"id": 802415,
+"name": "Chandler Simpson",
+"team": "Tampa Bay Rays",
+"prob": 1.1,
+"mkt": null,
+"fair": null,
+"spot": 5
+}
+}
