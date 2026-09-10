@@ -269,9 +269,9 @@
 "id": 808959,
 "name": "Munetaka Murakami",
 "team": "Chicago White Sox",
-"prob": 22.8,
-"mkt": 23.8,
-"fair": 18.1,
+"prob": 23.1,
+"mkt": 24.4,
+"fair": 18.6,
 "spot": 3
 },
 "2026-09-10|823088|663728": {
@@ -291,9 +291,9 @@
 "id": 695657,
 "name": "Colson Montgomery",
 "team": "Chicago White Sox",
-"prob": 19.9,
-"mkt": 20.4,
-"fair": 15.5,
+"prob": 20.2,
+"mkt": 21.3,
+"fair": 16.2,
 "spot": 5
 },
 "2026-09-10|823088|669394": {
@@ -368,9 +368,9 @@
 "id": 678246,
 "name": "Miguel Vargas",
 "team": "Chicago White Sox",
-"prob": 16.1,
-"mkt": 17.9,
-"fair": 13.6,
+"prob": 16.3,
+"mkt": 16.7,
+"fair": 12.7,
 "spot": 2
 },
 "2026-09-10|823499|696100": {
@@ -434,7 +434,7 @@
 "id": 664040,
 "name": "Brandon Lowe",
 "team": "Pittsburgh Pirates",
-"prob": 12.5,
+"prob": 12.7,
 "mkt": 19.2,
 "fair": 14.6,
 "spot": 5
@@ -445,9 +445,9 @@
 "id": 665833,
 "name": "Oneil Cruz",
 "team": "Pittsburgh Pirates",
-"prob": 12.4,
-"mkt": 20.0,
-"fair": 15.2,
+"prob": 12.6,
+"mkt": 19.2,
+"fair": 14.6,
 "spot": 2
 },
 "2026-09-10|824550|643217": {
@@ -456,7 +456,7 @@
 "id": 643217,
 "name": "Andrew Benintendi",
 "team": "Chicago White Sox",
-"prob": 11.6,
+"prob": 11.7,
 "mkt": 14.3,
 "fair": 10.9,
 "spot": 4
@@ -467,9 +467,9 @@
 "id": 668670,
 "name": "Jake Rogers",
 "team": "Chicago White Sox",
-"prob": 9.8,
-"mkt": 10.8,
-"fair": 8.2,
+"prob": 9.9,
+"mkt": 10.5,
+"fair": 8.0,
 "spot": 9
 },
 "2026-09-10|823088|677594": {
@@ -544,9 +544,9 @@
 "id": 671976,
 "name": "Tristan Peters",
 "team": "Chicago White Sox",
-"prob": 8.2,
-"mkt": 11.1,
-"fair": 8.5,
+"prob": 8.3,
+"mkt": 11.8,
+"fair": 9.0,
 "spot": 8
 },
 "2026-09-10|823088|702284": {
@@ -566,7 +566,7 @@
 "id": 695731,
 "name": "Braden Montgomery",
 "team": "Chicago White Sox",
-"prob": 8.2,
+"prob": 8.3,
 "mkt": 10.0,
 "fair": 7.6,
 "spot": 6
@@ -577,9 +577,9 @@
 "id": 668804,
 "name": "Bryan Reynolds",
 "team": "Pittsburgh Pirates",
-"prob": 8.4,
-"mkt": 16.0,
-"fair": 12.2,
+"prob": 8.5,
+"mkt": 16.7,
+"fair": 12.7,
 "spot": 3
 },
 "2026-09-10|824550|680779": {
@@ -643,9 +643,9 @@
 "id": 803011,
 "name": "Sam Antonacci",
 "team": "Chicago White Sox",
-"prob": 7.3,
-"mkt": 10.5,
-"fair": 8.0,
+"prob": 7.4,
+"mkt": 11.1,
+"fair": 8.5,
 "spot": 1
 },
 "2026-09-10|823088|647304": {
@@ -665,7 +665,7 @@
 "id": 805367,
 "name": "Chase Meidroth",
 "team": "Chicago White Sox",
-"prob": 5.7,
+"prob": 5.8,
 "mkt": 7.1,
 "fair": 5.4,
 "spot": 7
@@ -676,9 +676,9 @@
 "id": 687462,
 "name": "Spencer Horwitz",
 "team": "Pittsburgh Pirates",
-"prob": 5.4,
-"mkt": 11.8,
-"fair": 9.0,
+"prob": 5.5,
+"mkt": 10.8,
+"fair": 8.2,
 "spot": 8
 },
 "2026-09-10|823499|678662": {
@@ -698,7 +698,7 @@
 "id": 804606,
 "name": "Konnor Griffin",
 "team": "Pittsburgh Pirates",
-"prob": 6.1,
+"prob": 6.2,
 "mkt": 14.3,
 "fair": 10.9,
 "spot": 1
@@ -721,8 +721,8 @@
 "name": "Jared Triolo",
 "team": "Pittsburgh Pirates",
 "prob": 3.4,
-"mkt": 8.3,
-"fair": 6.3,
+"mkt": 9.1,
+"fair": 6.9,
 "spot": 9
 },
 "2026-09-10|823088|670032": {
@@ -743,8 +743,8 @@
 "name": "Nick Gonzales",
 "team": "Pittsburgh Pirates",
 "prob": 2.8,
-"mkt": 10.0,
-"fair": 7.6,
+"mkt": 10.5,
+"fair": 8.0,
 "spot": 4
 },
 "2026-09-10|824550|663968": {
@@ -786,7 +786,7 @@
 "id": 804668,
 "name": "Rafael Flores Jr.",
 "team": "Pittsburgh Pirates",
-"prob": 14.4,
+"prob": 14.6,
 "mkt": null,
 "fair": null,
 "spot": 6
