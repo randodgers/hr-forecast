@@ -214,10 +214,10 @@
 "id": 700250,
 "name": "Ben Rice",
 "team": "New York Yankees",
-"prob": 29.1,
-"mkt": 26.3,
-"fair": 20.0,
-"spot": null
+"prob": 32.5,
+"mkt": 26.0,
+"fair": 19.8,
+"spot": 1
 },
 "2026-09-10|823499|671277": {
 "d": "2026-09-10",
@@ -225,10 +225,10 @@
 "id": 671277,
 "name": "Luis Garc\u00eda Jr.",
 "team": "New York Yankees",
-"prob": 27.9,
-"mkt": 23.3,
-"fair": 17.8,
-"spot": null
+"prob": 29.4,
+"mkt": 22.2,
+"fair": 16.9,
+"spot": 4
 },
 "2026-09-10|823499|682987": {
 "d": "2026-09-10",
@@ -236,10 +236,10 @@
 "id": 682987,
 "name": "Spencer Jones",
 "team": "New York Yankees",
-"prob": 26.6,
-"mkt": 24.4,
-"fair": 18.6,
-"spot": null
+"prob": 27.5,
+"mkt": 23.8,
+"fair": 18.1,
+"spot": 5
 },
 "2026-09-10|823088|592626": {
 "d": "2026-09-10",
@@ -269,10 +269,10 @@
 "id": 808959,
 "name": "Munetaka Murakami",
 "team": "Chicago White Sox",
-"prob": 21.5,
-"mkt": 24.4,
-"fair": 18.6,
-"spot": null
+"prob": 22.8,
+"mkt": 23.8,
+"fair": 18.1,
+"spot": 3
 },
 "2026-09-10|823088|663728": {
 "d": "2026-09-10",
@@ -291,10 +291,10 @@
 "id": 695657,
 "name": "Colson Montgomery",
 "team": "Chicago White Sox",
-"prob": 19.6,
-"mkt": 21.3,
-"fair": 16.2,
-"spot": null
+"prob": 19.9,
+"mkt": 20.4,
+"fair": 15.5,
+"spot": 5
 },
 "2026-09-10|823088|669394": {
 "d": "2026-09-10",
@@ -313,10 +313,10 @@
 "id": 669224,
 "name": "Austin Wells",
 "team": "New York Yankees",
-"prob": 17.5,
-"mkt": 16.7,
-"fair": 12.7,
-"spot": null
+"prob": 16.8,
+"mkt": 15.4,
+"fair": 11.7,
+"spot": 8
 },
 "2026-09-10|823499|641857": {
 "d": "2026-09-10",
@@ -324,10 +324,10 @@
 "id": 641857,
 "name": "Ryan McMahon",
 "team": "New York Yankees",
-"prob": 16.1,
-"mkt": 16.7,
-"fair": 12.7,
-"spot": null
+"prob": 15.9,
+"mkt": 17.4,
+"fair": 13.3,
+"spot": 7
 },
 "2026-09-10|823088|686527": {
 "d": "2026-09-10",
@@ -357,10 +357,10 @@
 "id": 641355,
 "name": "Cody Bellinger",
 "team": "New York Yankees",
-"prob": 15.0,
+"prob": 16.6,
 "mkt": 17.9,
 "fair": 13.6,
-"spot": null
+"spot": 2
 },
 "2026-09-10|824550|678246": {
 "d": "2026-09-10",
@@ -368,10 +368,10 @@
 "id": 678246,
 "name": "Miguel Vargas",
 "team": "Chicago White Sox",
-"prob": 14.7,
-"mkt": 16.7,
-"fair": 12.7,
-"spot": null
+"prob": 16.1,
+"mkt": 17.9,
+"fair": 13.6,
+"spot": 2
 },
 "2026-09-10|823499|696100": {
 "d": "2026-09-10",
@@ -379,10 +379,10 @@
 "id": 696100,
 "name": "Hunter Goodman",
 "team": "Colorado Rockies",
-"prob": 14.6,
-"mkt": 21.7,
-"fair": 16.5,
-"spot": null
+"prob": 15.8,
+"mkt": 22.2,
+"fair": 16.9,
+"spot": 3
 },
 "2026-09-10|823088|668227": {
 "d": "2026-09-10",
@@ -434,10 +434,10 @@
 "id": 664040,
 "name": "Brandon Lowe",
 "team": "Pittsburgh Pirates",
-"prob": 12.3,
+"prob": 12.5,
 "mkt": 19.2,
 "fair": 14.6,
-"spot": null
+"spot": 5
 },
 "2026-09-10|824550|665833": {
 "d": "2026-09-10",
@@ -445,10 +445,10 @@
 "id": 665833,
 "name": "Oneil Cruz",
 "team": "Pittsburgh Pirates",
-"prob": 11.4,
-"mkt": 19.2,
-"fair": 14.6,
-"spot": null
+"prob": 12.4,
+"mkt": 20.0,
+"fair": 15.2,
+"spot": 2
 },
 "2026-09-10|824550|643217": {
 "d": "2026-09-10",
@@ -456,10 +456,10 @@
 "id": 643217,
 "name": "Andrew Benintendi",
 "team": "Chicago White Sox",
-"prob": 11.1,
+"prob": 11.6,
 "mkt": 14.3,
 "fair": 10.9,
-"spot": null
+"spot": 4
 },
 "2026-09-10|824550|668670": {
 "d": "2026-09-10",
@@ -467,10 +467,10 @@
 "id": 668670,
 "name": "Jake Rogers",
 "team": "Chicago White Sox",
-"prob": 10.7,
-"mkt": 10.5,
-"fair": 8.0,
-"spot": null
+"prob": 9.8,
+"mkt": 10.8,
+"fair": 8.2,
+"spot": 9
 },
 "2026-09-10|823088|677594": {
 "d": "2026-09-10",
@@ -500,10 +500,10 @@
 "id": 664983,
 "name": "Jake McCarthy",
 "team": "Colorado Rockies",
-"prob": 9.9,
-"mkt": 8.3,
-"fair": 6.3,
-"spot": null
+"prob": 11.3,
+"mkt": 9.1,
+"fair": 6.9,
+"spot": 1
 },
 "2026-09-10|823088|694497": {
 "d": "2026-09-10",
@@ -533,10 +533,10 @@
 "id": 681198,
 "name": "TJ Rumfield",
 "team": "Colorado Rockies",
-"prob": 8.8,
-"mkt": 9.1,
-"fair": 6.9,
-"spot": null
+"prob": 9.4,
+"mkt": 10.5,
+"fair": 8.0,
+"spot": 4
 },
 "2026-09-10|824550|671976": {
 "d": "2026-09-10",
@@ -544,10 +544,10 @@
 "id": 671976,
 "name": "Tristan Peters",
 "team": "Chicago White Sox",
-"prob": 8.7,
-"mkt": 11.8,
-"fair": 9.0,
-"spot": null
+"prob": 8.2,
+"mkt": 11.1,
+"fair": 8.5,
+"spot": 8
 },
 "2026-09-10|823088|702284": {
 "d": "2026-09-10",
@@ -566,10 +566,10 @@
 "id": 695731,
 "name": "Braden Montgomery",
 "team": "Chicago White Sox",
-"prob": 8.3,
+"prob": 8.2,
 "mkt": 10.0,
 "fair": 7.6,
-"spot": null
+"spot": 6
 },
 "2026-09-10|824550|668804": {
 "d": "2026-09-10",
@@ -577,10 +577,10 @@
 "id": 668804,
 "name": "Bryan Reynolds",
 "team": "Pittsburgh Pirates",
-"prob": 7.8,
-"mkt": 16.7,
-"fair": 12.7,
-"spot": null
+"prob": 8.4,
+"mkt": 16.0,
+"fair": 12.2,
+"spot": 3
 },
 "2026-09-10|824550|680779": {
 "d": "2026-09-10",
@@ -599,10 +599,10 @@
 "id": 691720,
 "name": "Kyle Karros",
 "team": "Colorado Rockies",
-"prob": 7.4,
-"mkt": 9.1,
-"fair": 6.9,
-"spot": null
+"prob": 7.5,
+"mkt": 10.5,
+"fair": 8.0,
+"spot": 6
 },
 "2026-09-10|823499|694249": {
 "d": "2026-09-10",
@@ -610,10 +610,10 @@
 "id": 694249,
 "name": "Cole Carrigg",
 "team": "Colorado Rockies",
-"prob": 7.2,
+"prob": 7.4,
 "mkt": 10.0,
 "fair": 7.6,
-"spot": null
+"spot": 5
 },
 "2026-09-10|823499|683011": {
 "d": "2026-09-10",
@@ -621,10 +621,10 @@
 "id": 683011,
 "name": "Anthony Volpe",
 "team": "New York Yankees",
-"prob": 7.1,
+"prob": 6.6,
 "mkt": 12.9,
 "fair": 9.8,
-"spot": null
+"spot": 9
 },
 "2026-09-10|823499|681393": {
 "d": "2026-09-10",
@@ -632,10 +632,10 @@
 "id": 681393,
 "name": "Connor Norby",
 "team": "Colorado Rockies",
-"prob": 6.9,
+"prob": 7.7,
 "mkt": 11.8,
 "fair": 9.0,
-"spot": null
+"spot": 2
 },
 "2026-09-10|824550|803011": {
 "d": "2026-09-10",
@@ -643,10 +643,10 @@
 "id": 803011,
 "name": "Sam Antonacci",
 "team": "Chicago White Sox",
-"prob": 6.5,
-"mkt": 11.1,
-"fair": 8.5,
-"spot": null
+"prob": 7.3,
+"mkt": 10.5,
+"fair": 8.0,
+"spot": 1
 },
 "2026-09-10|823088|647304": {
 "d": "2026-09-10",
@@ -665,10 +665,10 @@
 "id": 805367,
 "name": "Chase Meidroth",
 "team": "Chicago White Sox",
-"prob": 5.9,
+"prob": 5.7,
 "mkt": 7.1,
 "fair": 5.4,
-"spot": null
+"spot": 7
 },
 "2026-09-10|824550|687462": {
 "d": "2026-09-10",
@@ -676,10 +676,10 @@
 "id": 687462,
 "name": "Spencer Horwitz",
 "team": "Pittsburgh Pirates",
-"prob": 5.8,
-"mkt": 10.8,
-"fair": 8.2,
-"spot": null
+"prob": 5.4,
+"mkt": 11.8,
+"fair": 9.0,
+"spot": 8
 },
 "2026-09-10|823499|678662": {
 "d": "2026-09-10",
@@ -687,10 +687,10 @@
 "id": 678662,
 "name": "Ezequiel Tovar",
 "team": "Colorado Rockies",
-"prob": 5.5,
-"mkt": 9.1,
-"fair": 6.9,
-"spot": null
+"prob": 5.2,
+"mkt": 8.3,
+"fair": 6.3,
+"spot": 9
 },
 "2026-09-10|824550|804606": {
 "d": "2026-09-10",
@@ -698,10 +698,10 @@
 "id": 804606,
 "name": "Konnor Griffin",
 "team": "Pittsburgh Pirates",
-"prob": 5.4,
+"prob": 6.1,
 "mkt": 14.3,
 "fair": 10.9,
-"spot": null
+"spot": 1
 },
 "2026-09-10|823088|801126": {
 "d": "2026-09-10",
@@ -720,10 +720,10 @@
 "id": 669707,
 "name": "Jared Triolo",
 "team": "Pittsburgh Pirates",
-"prob": 3.7,
-"mkt": 9.1,
-"fair": 6.9,
-"spot": null
+"prob": 3.4,
+"mkt": 8.3,
+"fair": 6.3,
+"spot": 9
 },
 "2026-09-10|823088|670032": {
 "d": "2026-09-10",
@@ -742,10 +742,10 @@
 "id": 693304,
 "name": "Nick Gonzales",
 "team": "Pittsburgh Pirates",
-"prob": 2.7,
-"mkt": 10.5,
-"fair": 8.0,
-"spot": null
+"prob": 2.8,
+"mkt": 10.0,
+"fair": 7.6,
+"spot": 4
 },
 "2026-09-10|824550|663968": {
 "d": "2026-09-10",
@@ -753,9 +753,64 @@
 "id": 663968,
 "name": "Jake Mangum",
 "team": "Pittsburgh Pirates",
-"prob": 2.5,
+"prob": 2.4,
 "mkt": 7.7,
 "fair": 5.9,
-"spot": null
+"spot": 7
+},
+"2026-09-10|823499|806146": {
+"d": "2026-09-10",
+"g": 823499,
+"id": 806146,
+"name": "George Lombard Jr.",
+"team": "New York Yankees",
+"prob": 16.0,
+"mkt": 12.5,
+"fair": 9.5,
+"spot": 6
+},
+"2026-09-10|823499|691176": {
+"d": "2026-09-10",
+"g": 823499,
+"id": 691176,
+"name": "Jasson Dom\u00ednguez",
+"team": "New York Yankees",
+"prob": 14.7,
+"mkt": 19.2,
+"fair": 14.6,
+"spot": 3
+},
+"2026-09-10|824550|804668": {
+"d": "2026-09-10",
+"g": 824550,
+"id": 804668,
+"name": "Rafael Flores Jr.",
+"team": "Pittsburgh Pirates",
+"prob": 14.4,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-10|823499|691182": {
+"d": "2026-09-10",
+"g": 823499,
+"id": 691182,
+"name": "Adael Amador",
+"team": "Colorado Rockies",
+"prob": 11.8,
+"mkt": 10.5,
+"fair": 8.0,
+"spot": 7
+},
+"2026-09-10|823499|687597": {
+"d": "2026-09-10",
+"g": 823499,
+"id": 687597,
+"name": "Jordan Beck",
+"team": "Colorado Rockies",
+"prob": 4.1,
+"mkt": 10.8,
+"fair": 8.2,
+"spot": 8
 }
 }
