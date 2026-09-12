@@ -71,10 +71,10 @@
 "id": 592626,
 "name": "Joc Pederson",
 "team": "Texas Rangers",
-"prob": 24.8,
-"mkt": 20.0,
-"fair": 15.3,
-"spot": null
+"prob": 27.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-12|823496|700250": {
 "d": "2026-09-12",
@@ -148,10 +148,10 @@
 "id": 608369,
 "name": "Corey Seager",
 "team": "Texas Rangers",
-"prob": 22.6,
-"mkt": 21.3,
-"fair": 16.3,
-"spot": null
+"prob": 24.8,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-12|822927|701358": {
 "d": "2026-09-12",
@@ -193,9 +193,9 @@
 "name": "Zack Gelof",
 "team": "Athletics",
 "prob": 18.7,
-"mkt": 17.9,
-"fair": 13.7,
-"spot": null
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-12|824630|624424": {
 "d": "2026-09-12",
@@ -258,10 +258,10 @@
 "id": 663728,
 "name": "Cal Raleigh",
 "team": "Seattle Mariners",
-"prob": 17.4,
-"mkt": 30.3,
-"fair": 23.2,
-"spot": null
+"prob": 18.3,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-12|824224|696100": {
 "d": "2026-09-12",
@@ -401,10 +401,10 @@
 "id": 671732,
 "name": "Lawrence Butler",
 "team": "Athletics",
-"prob": 14.5,
-"mkt": 18.9,
-"fair": 14.5,
-"spot": null
+"prob": 15.9,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-12|823819|665052": {
 "d": "2026-09-12",
@@ -434,10 +434,10 @@
 "id": 686527,
 "name": "Dominic Canzone",
 "team": "Seattle Mariners",
-"prob": 14.3,
-"mkt": 19.2,
-"fair": 14.7,
-"spot": null
+"prob": 15.5,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-12|824630|608324": {
 "d": "2026-09-12",
@@ -511,10 +511,10 @@
 "id": 669394,
 "name": "Jake Burger",
 "team": "Texas Rangers",
-"prob": 13.7,
-"mkt": 17.9,
-"fair": 13.7,
-"spot": null
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-12|822768|672386": {
 "d": "2026-09-12",
@@ -544,10 +544,10 @@
 "id": 682998,
 "name": "Corbin Carroll",
 "team": "Arizona Diamondbacks",
-"prob": 13.3,
-"mkt": 16.7,
-"fair": 12.8,
-"spot": null
+"prob": 13.8,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-12|824955|622268": {
 "d": "2026-09-12",
@@ -555,10 +555,10 @@
 "id": 622268,
 "name": "Donovan Walton",
 "team": "Athletics",
-"prob": 13.3,
-"mkt": 11.8,
-"fair": 9.0,
-"spot": null
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-12|825035|571448": {
 "d": "2026-09-12",
@@ -566,10 +566,10 @@
 "id": 571448,
 "name": "Nolan Arenado",
 "team": "Arizona Diamondbacks",
-"prob": 13.2,
-"mkt": 13.8,
-"fair": 10.6,
-"spot": null
+"prob": 13.3,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-12|822927|666018": {
 "d": "2026-09-12",
@@ -588,10 +588,10 @@
 "id": 677594,
 "name": "Julio Rodr\u00edguez",
 "team": "Seattle Mariners",
-"prob": 13.1,
-"mkt": 20.0,
-"fair": 15.3,
-"spot": null
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-12|824630|673548": {
 "d": "2026-09-12",
@@ -632,10 +632,10 @@
 "id": 606466,
 "name": "Ketel Marte",
 "team": "Arizona Diamondbacks",
-"prob": 12.5,
-"mkt": 20.4,
-"fair": 15.6,
-"spot": null
+"prob": 13.9,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-12|824955|666126": {
 "d": "2026-09-12",
@@ -643,10 +643,10 @@
 "id": 666126,
 "name": "Carlos Cortes",
 "team": "Athletics",
-"prob": 12.4,
-"mkt": 16.0,
-"fair": 12.2,
-"spot": null
+"prob": 12.1,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-12|824955|641680": {
 "d": "2026-09-12",
@@ -654,10 +654,10 @@
 "id": 641680,
 "name": "Jonah Heim",
 "team": "Athletics",
-"prob": 12.4,
-"mkt": 16.7,
-"fair": 12.8,
-"spot": null
+"prob": 11.9,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-09-12|824630|664023": {
 "d": "2026-09-12",
@@ -676,10 +676,10 @@
 "id": 694374,
 "name": "Tim Tawa",
 "team": "Arizona Diamondbacks",
-"prob": 12.2,
-"mkt": 11.8,
-"fair": 9.0,
-"spot": null
+"prob": 12.0,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-12|823496|701807": {
 "d": "2026-09-12",
@@ -742,10 +742,10 @@
 "id": 668227,
 "name": "Randy Arozarena",
 "team": "Seattle Mariners",
-"prob": 11.7,
-"mkt": 21.3,
-"fair": 16.3,
-"spot": null
+"prob": 12.8,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-12|823819|691788": {
 "d": "2026-09-12",
@@ -907,10 +907,10 @@
 "id": 703607,
 "name": "Henry Bolte",
 "team": "Athletics",
-"prob": 10.2,
-"mkt": 13.8,
-"fair": 10.6,
-"spot": null
+"prob": 11.5,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-12|825035|607043": {
 "d": "2026-09-12",
@@ -918,10 +918,10 @@
 "id": 607043,
 "name": "Brandon Nimmo",
 "team": "Texas Rangers",
-"prob": 10.0,
-"mkt": 15.4,
-"fair": 11.8,
-"spot": null
+"prob": 10.6,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-12|825035|677649": {
 "d": "2026-09-12",
@@ -929,10 +929,10 @@
 "id": 677649,
 "name": "Ezequiel Duran",
 "team": "Texas Rangers",
-"prob": 9.9,
-"mkt": 10.5,
-"fair": 8.0,
-"spot": null
+"prob": 10.2,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-12|822768|665489": {
 "d": "2026-09-12",
@@ -1006,10 +1006,10 @@
 "id": 643446,
 "name": "Jeff McNeil",
 "team": "Athletics",
-"prob": 9.0,
-"mkt": 14.3,
-"fair": 10.9,
-"spot": null
+"prob": 10.0,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-12|822768|687637": {
 "d": "2026-09-12",
@@ -1072,10 +1072,10 @@
 "id": 663457,
 "name": "Lars Nootbaar",
 "team": "Arizona Diamondbacks",
-"prob": 8.7,
-"mkt": 13.8,
-"fair": 10.6,
-"spot": null
+"prob": 9.9,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-12|822927|678489": {
 "d": "2026-09-12",
@@ -1094,10 +1094,10 @@
 "id": 672515,
 "name": "Gabriel Moreno",
 "team": "Arizona Diamondbacks",
-"prob": 8.6,
-"mkt": 10.0,
-"fair": 7.7,
-"spot": null
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-12|824224|650402": {
 "d": "2026-09-12",
@@ -1116,10 +1116,10 @@
 "id": 694671,
 "name": "Wyatt Langford",
 "team": "Texas Rangers",
-"prob": 8.3,
-"mkt": 16.7,
-"fair": 12.8,
-"spot": null
+"prob": 8.4,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-12|824224|694249": {
 "d": "2026-09-12",
@@ -1182,10 +1182,10 @@
 "id": 642215,
 "name": "Weston Wilson",
 "team": "Seattle Mariners",
-"prob": 7.8,
-"mkt": 12.9,
-"fair": 9.9,
-"spot": null
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-09-12|824630|687462": {
 "d": "2026-09-12",
@@ -1227,9 +1227,9 @@
 "name": "Cole Young",
 "team": "Seattle Mariners",
 "prob": 7.4,
-"mkt": 11.1,
-"fair": 8.5,
-"spot": null
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-12|824630|804606": {
 "d": "2026-09-12",
@@ -1292,10 +1292,10 @@
 "id": 641487,
 "name": "J.P. Crawford",
 "team": "Seattle Mariners",
-"prob": 6.5,
-"mkt": 12.9,
-"fair": 9.9,
-"spot": null
+"prob": 7.4,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-12|824224|678662": {
 "d": "2026-09-12",
@@ -1314,10 +1314,10 @@
 "id": 647304,
 "name": "Josh Naylor",
 "team": "Seattle Mariners",
-"prob": 6.2,
-"mkt": 13.8,
-"fair": 10.6,
-"spot": null
+"prob": 6.4,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-12|822768|665750": {
 "d": "2026-09-12",
@@ -1347,10 +1347,10 @@
 "id": 814439,
 "name": "Ryan Waldschmidt",
 "team": "Arizona Diamondbacks",
-"prob": 5.6,
-"mkt": 9.1,
-"fair": 7.0,
-"spot": null
+"prob": 5.2,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-09-12|824224|595879": {
 "d": "2026-09-12",
@@ -1391,10 +1391,10 @@
 "id": 672695,
 "name": "Geraldo Perdomo",
 "team": "Arizona Diamondbacks",
-"prob": 5.1,
-"mkt": 8.3,
-"fair": 6.3,
-"spot": null
+"prob": 5.4,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-12|824224|687597": {
 "d": "2026-09-12",
@@ -1446,10 +1446,10 @@
 "id": 670032,
 "name": "Nicky Lopez",
 "team": "Texas Rangers",
-"prob": 2.5,
-"mkt": 4.8,
-"fair": 3.7,
-"spot": null
+"prob": 2.4,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-09-12|822927|802415": {
 "d": "2026-09-12",
@@ -2979,5 +2979,71 @@
 "mkt": null,
 "fair": null,
 "spot": 9
+},
+"2026-09-12|824955|669127": {
+"d": "2026-09-12",
+"g": 824955,
+"id": 669127,
+"name": "Shea Langeliers",
+"team": "Athletics",
+"prob": 25.9,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-12|824955|703197": {
+"d": "2026-09-12",
+"g": 824955,
+"id": 703197,
+"name": "Michael Arroyo",
+"team": "Seattle Mariners",
+"prob": 11.7,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-12|825035|553869": {
+"d": "2026-09-12",
+"g": 825035,
+"id": 553869,
+"name": "Elias D\u00edaz",
+"team": "Texas Rangers",
+"prob": 7.7,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-12|824955|675961": {
+"d": "2026-09-12",
+"g": 824955,
+"id": 675961,
+"name": "Alika Williams",
+"team": "Athletics",
+"prob": 7.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-12|825035|673962": {
+"d": "2026-09-12",
+"g": 825035,
+"id": 673962,
+"name": "Josh Jung",
+"team": "Texas Rangers",
+"prob": 6.7,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-12|825035|656976": {
+"d": "2026-09-12",
+"g": 825035,
+"id": 656976,
+"name": "Pavin Smith",
+"team": "Arizona Diamondbacks",
+"prob": 6.6,
+"mkt": null,
+"fair": null,
+"spot": 8
 }
 }
