@@ -790,5 +790,192 @@
 "mkt": null,
 "fair": null,
 "spot": 7
+},
+"2026-09-13|823171|701538": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 701538,
+"name": "Jackson Merrill",
+"team": "San Diego Padres",
+"prob": 17.4,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-13|823171|665487": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 665487,
+"name": "Fernando Tatis Jr.",
+"team": "San Diego Padres",
+"prob": 14.4,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-13|823171|592518": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 592518,
+"name": "Manny Machado",
+"team": "San Diego Padres",
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-13|823171|694376": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 694376,
+"name": "Shay Whitcomb",
+"team": "San Francisco Giants",
+"prob": 13.2,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-13|823171|669134": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 669134,
+"name": "Luis Campusano",
+"team": "San Diego Padres",
+"prob": 12.0,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-13|823171|805811": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 805811,
+"name": "Bryce Eldridge",
+"team": "San Francisco Giants",
+"prob": 10.3,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-13|823171|687551": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 687551,
+"name": "Drew Gilbert",
+"team": "San Francisco Giants",
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-13|823171|695391": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 695391,
+"name": "Brett Harris",
+"team": "San Francisco Giants",
+"prob": 8.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-13|823171|806956": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 806956,
+"name": "Ethan Salas",
+"team": "San Diego Padres",
+"prob": 8.1,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-13|823171|668800": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 668800,
+"name": "Andrew Knizner",
+"team": "San Francisco Giants",
+"prob": 7.9,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-13|823171|813841": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 813841,
+"name": "Jonah Cox",
+"team": "San Francisco Giants",
+"prob": 7.2,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-13|823171|683766": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 683766,
+"name": "Christian Koss",
+"team": "San Francisco Giants",
+"prob": 5.8,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-13|823171|593428": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 593428,
+"name": "Xander Bogaerts",
+"team": "San Diego Padres",
+"prob": 5.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-13|823171|687957": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 687957,
+"name": "Dustin Harris",
+"team": "San Diego Padres",
+"prob": 4.9,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-13|823171|630105": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 630105,
+"name": "Jake Cronenworth",
+"team": "San Diego Padres",
+"prob": 4.5,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-13|823171|808982": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 808982,
+"name": "Jung Hoo Lee",
+"team": "San Francisco Giants",
+"prob": 4.5,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-13|823171|669392": {
+"d": "2026-09-13",
+"g": 823171,
+"id": 669392,
+"name": "Samad Taylor",
+"team": "San Diego Padres",
+"prob": 3.5,
+"mkt": null,
+"fair": null,
+"spot": 8
 }
 }
