@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-13|824225|691182": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 691182,
+"name": "Adael Amador",
+"team": "Colorado Rockies",
+"prob": 20.7,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-13|824225|666160": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 666160,
+"name": "Mickey Moniak",
+"team": "Colorado Rockies",
+"prob": 20.2,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-13|824225|682985": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 682985,
+"name": "Riley Greene",
+"team": "Detroit Tigers",
+"prob": 18.9,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-13|824225|679529": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 679529,
+"name": "Spencer Torkelson",
+"team": "Detroit Tigers",
+"prob": 17.3,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-13|824225|693307": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 693307,
+"name": "Dillon Dingler",
+"team": "Detroit Tigers",
+"prob": 15.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-13|824225|681198": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 681198,
+"name": "TJ Rumfield",
+"team": "Colorado Rockies",
+"prob": 14.8,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-13|824225|605353": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 605353,
+"name": "Vimael Mach\u00edn",
+"team": "Colorado Rockies",
+"prob": 14.3,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-13|824225|805808": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 805808,
+"name": "Kevin McGonigle",
+"team": "Detroit Tigers",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-13|824225|691728": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 691728,
+"name": "Zac Veen",
+"team": "Colorado Rockies",
+"prob": 13.6,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-13|824225|664983": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 664983,
+"name": "Jake McCarthy",
+"team": "Colorado Rockies",
+"prob": 12.8,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-13|824225|690993": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 690993,
+"name": "Colt Keith",
+"team": "Detroit Tigers",
+"prob": 12.2,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-13|824225|701678": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 701678,
+"name": "Hao-Yu Lee",
+"team": "Detroit Tigers",
+"prob": 11.8,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-13|824225|664954": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 664954,
+"name": "Brett Sullivan",
+"team": "Colorado Rockies",
+"prob": 11.5,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-13|824225|694249": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 694249,
+"name": "Cole Carrigg",
+"team": "Colorado Rockies",
+"prob": 11.3,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-13|824225|807726": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 807726,
+"name": "John Peck",
+"team": "Detroit Tigers",
+"prob": 8.1,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-13|824225|703601": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 703601,
+"name": "Max Clark",
+"team": "Detroit Tigers",
+"prob": 5.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-13|824225|687859": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 687859,
+"name": "Troy Johnston",
+"team": "Colorado Rockies",
+"prob": 4.3,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-13|824225|656716": {
+"d": "2026-09-13",
+"g": 824225,
+"id": 656716,
+"name": "Zach McKinstry",
+"team": "Detroit Tigers",
+"prob": 3.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+}
+}
