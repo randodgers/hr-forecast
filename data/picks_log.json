@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-16|823004|805811": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 805811,
+"name": "Bryce Eldridge",
+"team": "San Francisco Giants",
+"prob": 22.0,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-16|824382|666176": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 666176,
+"name": "Jo Adell",
+"team": "Cleveland Guardians",
+"prob": 18.5,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-16|823004|694376": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 694376,
+"name": "Shay Whitcomb",
+"team": "San Francisco Giants",
+"prob": 17.7,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-16|823004|695391": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 695391,
+"name": "Brett Harris",
+"team": "San Francisco Giants",
+"prob": 14.3,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-16|823004|668800": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 668800,
+"name": "Andrew Knizner",
+"team": "San Francisco Giants",
+"prob": 14.3,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-16|823004|683766": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 683766,
+"name": "Christian Koss",
+"team": "San Francisco Giants",
+"prob": 14.1,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-16|823004|814154": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 814154,
+"name": "Scott Bandura",
+"team": "San Francisco Giants",
+"prob": 13.0,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-16|824382|681807": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 681807,
+"name": "David Fry",
+"team": "Cleveland Guardians",
+"prob": 12.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-16|823004|813841": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 813841,
+"name": "Jonah Cox",
+"team": "San Francisco Giants",
+"prob": 12.6,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-16|823004|806367": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 806367,
+"name": "Turner Hill",
+"team": "San Francisco Giants",
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-16|824382|608070": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 608070,
+"name": "Jos\u00e9 Ram\u00edrez",
+"team": "Cleveland Guardians",
+"prob": 9.0,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-16|824382|683953": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 683953,
+"name": "Travis Bazzana",
+"team": "Cleveland Guardians",
+"prob": 8.5,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-16|824382|595978": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 595978,
+"name": "Austin Hedges",
+"team": "Cleveland Guardians",
+"prob": 8.2,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-16|824382|694197": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 694197,
+"name": "Angel Genao",
+"team": "Cleveland Guardians",
+"prob": 7.5,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-16|824382|677587": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 677587,
+"name": "Brayan Rocchio",
+"team": "Cleveland Guardians",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-16|823004|808982": {
+"d": "2026-09-16",
+"g": 823004,
+"id": 808982,
+"name": "Jung Hoo Lee",
+"team": "San Francisco Giants",
+"prob": 6.2,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-16|824382|690984": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 690984,
+"name": "Petey Halpin",
+"team": "Cleveland Guardians",
+"prob": 5.2,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-16|824382|680757": {
+"d": "2026-09-16",
+"g": 824382,
+"id": 680757,
+"name": "Steven Kwan",
+"team": "Cleveland Guardians",
+"prob": 2.1,
+"mkt": null,
+"fair": null,
+"spot": 1
+}
+}
