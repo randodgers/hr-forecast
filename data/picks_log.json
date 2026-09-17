@@ -588,10 +588,10 @@
 "id": 682829,
 "name": "Elly De La Cruz",
 "team": "Cincinnati Reds",
-"prob": 37.7,
-"mkt": 26.0,
-"fair": 20.1,
-"spot": null
+"prob": 41.2,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-17|824464|571970": {
 "d": "2026-09-17",
@@ -599,10 +599,10 @@
 "id": 571970,
 "name": "Max Muncy",
 "team": "Los Angeles Dodgers",
-"prob": 33.6,
-"mkt": 28.6,
-"fair": 22.1,
-"spot": null
+"prob": 34.6,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-17|822924|691406": {
 "d": "2026-09-17",
@@ -610,10 +610,10 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 31.9,
-"mkt": 25.0,
-"fair": 19.4,
-"spot": null
+"prob": 34.3,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-17|823573|656941": {
 "d": "2026-09-17",
@@ -698,10 +698,10 @@
 "id": 680574,
 "name": "Matt McLain",
 "team": "Cincinnati Reds",
-"prob": 24.4,
-"mkt": 14.3,
-"fair": 11.1,
-"spot": null
+"prob": 25.0,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-09-17|824548|679529": {
 "d": "2026-09-17",
@@ -720,10 +720,10 @@
 "id": 701398,
 "name": "Sal Stewart",
 "team": "Cincinnati Reds",
-"prob": 23.4,
-"mkt": 21.3,
-"fair": 16.5,
-"spot": null
+"prob": 25.2,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-17|824464|606192": {
 "d": "2026-09-17",
@@ -731,10 +731,10 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 23.2,
-"mkt": 20.0,
-"fair": 15.5,
-"spot": null
+"prob": 24.3,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-17|824464|669257": {
 "d": "2026-09-17",
@@ -753,10 +753,10 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 21.0,
-"mkt": 21.3,
-"fair": 16.5,
-"spot": null
+"prob": 22.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-17|824548|693307": {
 "d": "2026-09-17",
@@ -819,10 +819,10 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 19.0,
-"mkt": 20.4,
-"fair": 15.8,
-"spot": null
+"prob": 21.0,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-17|824548|682985": {
 "d": "2026-09-17",
@@ -852,10 +852,10 @@
 "id": 663886,
 "name": "Tyler Stephenson",
 "team": "Cincinnati Reds",
-"prob": 17.9,
-"mkt": 17.9,
-"fair": 13.9,
-"spot": null
+"prob": 18.8,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-17|823573|701807": {
 "d": "2026-09-17",
@@ -874,10 +874,10 @@
 "id": 668723,
 "name": "Ryan Vilade",
 "team": "Tampa Bay Rays",
-"prob": 17.7,
-"mkt": 15.4,
-"fair": 11.9,
-"spot": null
+"prob": 17.3,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-17|823573|547180": {
 "d": "2026-09-17",
@@ -896,10 +896,10 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 16.6,
-"mkt": 17.9,
-"fair": 13.9,
-"spot": null
+"prob": 18.9,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-17|823978|665019": {
 "d": "2026-09-17",
@@ -918,10 +918,10 @@
 "id": 690976,
 "name": "Alex Freeland",
 "team": "Los Angeles Dodgers",
-"prob": 16.0,
-"mkt": 13.8,
-"fair": 10.7,
-"spot": null
+"prob": 15.2,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-09-17|823573|676724": {
 "d": "2026-09-17",
@@ -1017,10 +1017,10 @@
 "id": 671732,
 "name": "Lawrence Butler",
 "team": "Athletics",
-"prob": 12.7,
-"mkt": 12.9,
-"fair": 10.0,
-"spot": null
+"prob": 13.6,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-09-17|823573|607208": {
 "d": "2026-09-17",
@@ -1072,10 +1072,10 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 12.4,
-"mkt": 15.4,
-"fair": 11.9,
-"spot": null
+"prob": 14.0,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-17|822924|622761": {
 "d": "2026-09-17",
@@ -1149,10 +1149,10 @@
 "id": 680869,
 "name": "Zack Gelof",
 "team": "Athletics",
-"prob": 10.7,
-"mkt": 15.4,
-"fair": 11.9,
-"spot": null
+"prob": 11.4,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-09-17|823978|668904": {
 "d": "2026-09-17",
@@ -1171,10 +1171,10 @@
 "id": 622268,
 "name": "Donovan Walton",
 "team": "Athletics",
-"prob": 10.3,
-"mkt": 10.0,
-"fair": 7.7,
-"spot": null
+"prob": 10.6,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-17|823978|686797": {
 "d": "2026-09-17",
@@ -1226,10 +1226,10 @@
 "id": 641680,
 "name": "Jonah Heim",
 "team": "Athletics",
-"prob": 9.1,
-"mkt": 10.0,
-"fair": 7.7,
-"spot": null
+"prob": 8.7,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-09-17|822924|676356": {
 "d": "2026-09-17",
@@ -1237,10 +1237,10 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 8.7,
-"mkt": 11.8,
-"fair": 9.1,
-"spot": null
+"prob": 8.9,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-09-17|823573|592663": {
 "d": "2026-09-17",
@@ -1270,10 +1270,10 @@
 "id": 703607,
 "name": "Henry Bolte",
 "team": "Athletics",
-"prob": 8.0,
-"mkt": 10.8,
-"fair": 8.4,
-"spot": null
+"prob": 9.3,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-09-17|824305|666023": {
 "d": "2026-09-17",
@@ -1336,10 +1336,10 @@
 "id": 643446,
 "name": "Jeff McNeil",
 "team": "Athletics",
-"prob": 5.9,
-"mkt": 8.3,
-"fair": 6.4,
-"spot": null
+"prob": 6.5,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-09-17|824548|703601": {
 "d": "2026-09-17",
@@ -1380,10 +1380,10 @@
 "id": 675961,
 "name": "Alika Williams",
 "team": "Athletics",
-"prob": 4.2,
-"mkt": 8.3,
-"fair": 6.4,
-"spot": null
+"prob": 4.1,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-09-17|823978|623168": {
 "d": "2026-09-17",
@@ -1446,9 +1446,262 @@
 "id": 802415,
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
-"prob": 1.2,
-"mkt": 3.2,
-"fair": 2.5,
-"spot": null
+"prob": 1.3,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-17|823334|804668": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 804668,
+"name": "Rafael Flores Jr.",
+"team": "Pittsburgh Pirates",
+"prob": 23.0,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-17|824464|800543": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 800543,
+"name": "Josue De Paula",
+"team": "Los Angeles Dodgers",
+"prob": 22.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-17|822924|666018": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 666018,
+"name": "Jonathan Aranda",
+"team": "Tampa Bay Rays",
+"prob": 19.9,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-17|823334|668804": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 668804,
+"name": "Bryan Reynolds",
+"team": "Pittsburgh Pirates",
+"prob": 18.8,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-17|824464|682877": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 682877,
+"name": "Juan Brito",
+"team": "Cincinnati Reds",
+"prob": 17.2,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-17|824464|667472": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 667472,
+"name": "Dane Myers",
+"team": "Cincinnati Reds",
+"prob": 16.1,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-17|823334|665833": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 665833,
+"name": "Oneil Cruz",
+"team": "Pittsburgh Pirates",
+"prob": 15.1,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-17|824464|699302": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 699302,
+"name": "H\u00e9ctor Rodr\u00edguez",
+"team": "Cincinnati Reds",
+"prob": 14.5,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-17|823334|664040": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 664040,
+"name": "Brandon Lowe",
+"team": "Pittsburgh Pirates",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-17|824464|663647": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 663647,
+"name": "Ke'Bryan Hayes",
+"team": "Cincinnati Reds",
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-17|824464|676439": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 676439,
+"name": "Hunter Feduccia",
+"team": "Los Angeles Dodgers",
+"prob": 12.7,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-17|822924|689414": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 689414,
+"name": "Liam Hicks",
+"team": "Tampa Bay Rays",
+"prob": 12.7,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-17|822924|680700": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 680700,
+"name": "Richie Palacios",
+"team": "Tampa Bay Rays",
+"prob": 12.0,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-17|823334|680779": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 680779,
+"name": "Henry Davis",
+"team": "Pittsburgh Pirates",
+"prob": 11.8,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-17|822924|695720": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 695720,
+"name": "Tommy White",
+"team": "Athletics",
+"prob": 9.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-17|823334|682927": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 682927,
+"name": "Ronny Simon",
+"team": "Pittsburgh Pirates",
+"prob": 9.6,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-17|823334|804606": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 804606,
+"name": "Konnor Griffin",
+"team": "Pittsburgh Pirates",
+"prob": 9.4,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-17|824464|670770": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 670770,
+"name": "TJ Friedl",
+"team": "Cincinnati Reds",
+"prob": 9.1,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-17|824464|500743": {
+"d": "2026-09-17",
+"g": 824464,
+"id": 500743,
+"name": "Miguel Rojas",
+"team": "Los Angeles Dodgers",
+"prob": 9.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-17|823334|693304": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 693304,
+"name": "Nick Gonzales",
+"team": "Pittsburgh Pirates",
+"prob": 4.5,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-17|823334|669707": {
+"d": "2026-09-17",
+"g": 823334,
+"id": 669707,
+"name": "Jared Triolo",
+"team": "Pittsburgh Pirates",
+"prob": 4.2,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-17|822924|672016": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 672016,
+"name": "Denzel Clarke",
+"team": "Athletics",
+"prob": 4.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-17|822924|670764": {
+"d": "2026-09-17",
+"g": 822924,
+"id": 670764,
+"name": "Taylor Walls",
+"team": "Tampa Bay Rays",
+"prob": 3.7,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
