@@ -1193,10 +1193,10 @@
 "id": 641343,
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
-"prob": 22.2,
+"prob": 23.7,
 "mkt": 23.3,
 "fair": 18.2,
-"spot": null
+"spot": 4
 },
 "2026-09-20|824789|624413": {
 "d": "2026-09-20",
@@ -1204,10 +1204,10 @@
 "id": 624413,
 "name": "Pete Alonso",
 "team": "Baltimore Orioles",
-"prob": 22.1,
+"prob": 24.7,
 "mkt": 21.7,
 "fair": 16.9,
-"spot": null
+"spot": 2
 },
 "2026-09-20|824789|694192": {
 "d": "2026-09-20",
@@ -1215,10 +1215,10 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 21.4,
+"prob": 24.4,
 "mkt": 21.7,
 "fair": 16.9,
-"spot": null
+"spot": 1
 },
 "2026-09-20|823975|694208": {
 "d": "2026-09-20",
@@ -1369,10 +1369,10 @@
 "id": 668930,
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
-"prob": 15.7,
+"prob": 17.6,
 "mkt": 15.4,
 "fair": 12.0,
-"spot": null
+"spot": 2
 },
 "2026-09-20|824789|691723": {
 "d": "2026-09-20",
@@ -1380,10 +1380,10 @@
 "id": 691723,
 "name": "Coby Mayo",
 "team": "Baltimore Orioles",
-"prob": 15.7,
+"prob": 16.8,
 "mkt": 19.0,
 "fair": 14.8,
-"spot": null
+"spot": 4
 },
 "2026-09-20|825028|669224": {
 "d": "2026-09-20",
@@ -1424,10 +1424,10 @@
 "id": 661388,
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
-"prob": 15.3,
+"prob": 16.8,
 "mkt": 16.0,
 "fair": 12.5,
-"spot": null
+"spot": 3
 },
 "2026-09-20|823975|805346": {
 "d": "2026-09-20",
@@ -1490,10 +1490,10 @@
 "id": 669003,
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
-"prob": 14.8,
+"prob": 14.4,
 "mkt": 14.3,
 "fair": 11.1,
-"spot": null
+"spot": 8
 },
 "2026-09-20|823896|668800": {
 "d": "2026-09-20",
@@ -1611,10 +1611,10 @@
 "id": 669236,
 "name": "Jeremiah Jackson",
 "team": "Baltimore Orioles",
-"prob": 12.9,
+"prob": 13.2,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 6
 },
 "2026-09-20|822844|815873": {
 "d": "2026-09-20",
@@ -1688,10 +1688,10 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 11.8,
+"prob": 12.1,
 "mkt": 16.7,
 "fair": 13.0,
-"spot": null
+"spot": 6
 },
 "2026-09-20|824789|694212": {
 "d": "2026-09-20",
@@ -1699,10 +1699,10 @@
 "id": 694212,
 "name": "Samuel Basallo",
 "team": "Baltimore Orioles",
-"prob": 11.5,
+"prob": 12.1,
 "mkt": 16.0,
 "fair": 12.5,
-"spot": null
+"spot": 5
 },
 "2026-09-20|823975|702176": {
 "d": "2026-09-20",
@@ -1831,10 +1831,10 @@
 "id": 687401,
 "name": "Joey Ortiz",
 "team": "Milwaukee Brewers",
-"prob": 9.5,
+"prob": 10.0,
 "mkt": 11.1,
 "fair": 8.6,
-"spot": null
+"spot": 5
 },
 "2026-09-20|823896|676439": {
 "d": "2026-09-20",
@@ -1853,10 +1853,10 @@
 "id": 681297,
 "name": "Colton Cowser",
 "team": "Baltimore Orioles",
-"prob": 8.4,
+"prob": 8.3,
 "mkt": 11.8,
 "fair": 9.2,
-"spot": null
+"spot": 7
 },
 "2026-09-20|823247|593428": {
 "d": "2026-09-20",
@@ -1897,10 +1897,10 @@
 "id": 683002,
 "name": "Gunnar Henderson",
 "team": "Baltimore Orioles",
-"prob": 7.2,
+"prob": 8.0,
 "mkt": 17.9,
 "fair": 13.9,
-"spot": null
+"spot": 3
 },
 "2026-09-20|823247|669392": {
 "d": "2026-09-20",
@@ -1930,10 +1930,10 @@
 "id": 687637,
 "name": "Dylan Beavers",
 "team": "Baltimore Orioles",
-"prob": 6.5,
+"prob": 7.6,
 "mkt": 12.9,
 "fair": 10.0,
-"spot": null
+"spot": 1
 },
 "2026-09-20|825028|683011": {
 "d": "2026-09-20",
@@ -1955,7 +1955,7 @@
 "prob": 5.6,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 7
 },
 "2026-09-20|824789|800325": {
 "d": "2026-09-20",
@@ -2007,10 +2007,10 @@
 "id": 665750,
 "name": "Leody Taveras",
 "team": "Baltimore Orioles",
-"prob": 4.3,
+"prob": 4.1,
 "mkt": 10.0,
 "fair": 7.8,
-"spot": null
+"spot": 8
 },
 "2026-09-20|822844|696030": {
 "d": "2026-09-20",
@@ -2022,5 +2022,27 @@
 "mkt": 9.1,
 "fair": 7.1,
 "spot": 5
+},
+"2026-09-20|824789|665966": {
+"d": "2026-09-20",
+"g": 824789,
+"id": 665966,
+"name": "Carlos Narv\u00e1ez",
+"team": "Baltimore Orioles",
+"prob": 4.7,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-20|824789|686217": {
+"d": "2026-09-20",
+"g": 824789,
+"id": 686217,
+"name": "Sal Frelick",
+"team": "Milwaukee Brewers",
+"prob": 4.3,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
