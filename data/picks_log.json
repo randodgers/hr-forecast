@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-25|824703|691718": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 691718,
+"name": "Pete Crow-Armstrong",
+"team": "Chicago Cubs",
+"prob": 16.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-25|824703|681508": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 681508,
+"name": "Mickey Gasper",
+"team": "Boston Red Sox",
+"prob": 11.9,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-25|824703|673548": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 673548,
+"name": "Seiya Suzuki",
+"team": "Chicago Cubs",
+"prob": 9.8,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-25|824703|677800": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 677800,
+"name": "Wilyer Abreu",
+"team": "Boston Red Sox",
+"prob": 9.5,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-25|824703|608324": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 608324,
+"name": "Alex Bregman",
+"team": "Chicago Cubs",
+"prob": 8.2,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-25|824703|621020": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 621020,
+"name": "Dansby Swanson",
+"team": "Chicago Cubs",
+"prob": 8.0,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-25|824703|701350": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 701350,
+"name": "Roman Anthony",
+"team": "Boston Red Sox",
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-25|824703|680776": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 680776,
+"name": "Jarren Duran",
+"team": "Boston Red Sox",
+"prob": 7.6,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-25|824703|621438": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 621438,
+"name": "Tyrone Taylor",
+"team": "Chicago Cubs",
+"prob": 6.8,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-25|824703|683737": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 683737,
+"name": "Michael Busch",
+"team": "Chicago Cubs",
+"prob": 6.7,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-25|824703|668939": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 668939,
+"name": "Adley Rutschman",
+"team": "Boston Red Sox",
+"prob": 6.6,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-25|824703|686765": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 686765,
+"name": "Nick Sogard",
+"team": "Boston Red Sox",
+"prob": 4.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-25|824703|665804": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 665804,
+"name": "Miguel Amaya",
+"team": "Chicago Cubs",
+"prob": 4.5,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-25|824703|702332": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 702332,
+"name": "Caleb Durbin",
+"team": "Boston Red Sox",
+"prob": 4.5,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-25|824703|807713": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 807713,
+"name": "Matt Shaw",
+"team": "Chicago Cubs",
+"prob": 4.1,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-25|824703|655316": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 655316,
+"name": "Andruw Monasterio",
+"team": "Boston Red Sox",
+"prob": 3.6,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-25|824703|643396": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 643396,
+"name": "Isiah Kiner-Falefa",
+"team": "Boston Red Sox",
+"prob": 2.7,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-25|824703|663538": {
+"d": "2026-09-25",
+"g": 824703,
+"id": 663538,
+"name": "Nico Hoerner",
+"team": "Chicago Cubs",
+"prob": 2.3,
+"mkt": null,
+"fair": null,
+"spot": 5
+}
+}
