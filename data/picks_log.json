@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-27|823490|624413": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 624413,
+"name": "Pete Alonso",
+"team": "Baltimore Orioles",
+"prob": 28.5,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-27|822679|682928": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 682928,
+"name": "CJ Abrams",
+"team": "Washington Nationals",
+"prob": 18.7,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-27|823490|687952": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 687952,
+"name": "Christian Encarnacion-Strand",
+"team": "Baltimore Orioles",
+"prob": 18.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-27|822679|695578": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 695578,
+"name": "James Wood",
+"team": "Washington Nationals",
+"prob": 18.1,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-27|822679|665953": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 665953,
+"name": "Andr\u00e9s Chaparro",
+"team": "Washington Nationals",
+"prob": 18.0,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-27|822679|686611": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 686611,
+"name": "Dylan Crews",
+"team": "Washington Nationals",
+"prob": 18.0,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-27|823490|683002": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 683002,
+"name": "Gunnar Henderson",
+"team": "Baltimore Orioles",
+"prob": 14.4,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-27|823490|687637": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 687637,
+"name": "Dylan Beavers",
+"team": "Baltimore Orioles",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-27|823490|669236": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 669236,
+"name": "Jeremiah Jackson",
+"team": "Baltimore Orioles",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-27|822679|691781": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 691781,
+"name": "Brady House",
+"team": "Washington Nationals",
+"prob": 13.2,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-27|823490|691723": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 691723,
+"name": "Coby Mayo",
+"team": "Baltimore Orioles",
+"prob": 12.9,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-27|822679|695734": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 695734,
+"name": "Daylen Lile",
+"team": "Washington Nationals",
+"prob": 12.4,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-27|823490|681297": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 681297,
+"name": "Colton Cowser",
+"team": "Baltimore Orioles",
+"prob": 10.3,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-27|823490|677008": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 677008,
+"name": "Heston Kjerstad",
+"team": "Baltimore Orioles",
+"prob": 9.8,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-27|822679|695670": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 695670,
+"name": "Harry Ford",
+"team": "Washington Nationals",
+"prob": 9.6,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-27|822679|696285": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 696285,
+"name": "Jacob Young",
+"team": "Washington Nationals",
+"prob": 8.0,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-27|823490|665966": {
+"d": "2026-09-27",
+"g": 823490,
+"id": 665966,
+"name": "Carlos Narv\u00e1ez",
+"team": "Baltimore Orioles",
+"prob": 5.6,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-27|822679|683083": {
+"d": "2026-09-27",
+"g": 822679,
+"id": 683083,
+"name": "Nasim Nu\u00f1ez",
+"team": "Washington Nationals",
+"prob": 2.2,
+"mkt": null,
+"fair": null,
+"spot": 9
+}
+}
