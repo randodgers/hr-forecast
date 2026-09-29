@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-09-29T06:31:00+00:00",
+ "generatedAtUtc": "2026-09-29T16:17:30+00:00",
  "date": "2026-09-29",
  "gameCount": 4,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "day",
    "roof": "Retractable",
    "roofClosed": false,
-   "hrfi": 8.9,
-   "tempF": 88.9,
-   "windMph": 11.6,
-   "windFromDeg": 128,
-   "windOutMph": 5.7,
-   "humidityPct": 56,
+   "hrfi": 8.7,
+   "tempF": 89.7,
+   "windMph": 9.5,
+   "windFromDeg": 124,
+   "windOutMph": 4.4,
+   "humidityPct": 55,
    "cloudPct": 100,
    "parkFactorHR": 105,
    "elevationFt": 45
@@ -31,12 +31,12 @@
    "dayNight": "day",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 6.3,
-   "tempF": 79.8,
-   "windMph": 1.6,
-   "windFromDeg": 82,
-   "windOutMph": -0.4,
-   "humidityPct": 40,
+   "hrfi": 6.4,
+   "tempF": 81.3,
+   "windMph": 1.4,
+   "windFromDeg": 171,
+   "windOutMph": -0.8,
+   "humidityPct": 33,
    "cloudPct": 0,
    "parkFactorHR": 105,
    "elevationFt": 1001
@@ -51,11 +51,11 @@
    "roof": "Open",
    "roofClosed": false,
    "hrfi": 5.7,
-   "tempF": 74.7,
+   "tempF": 73.6,
    "windMph": 2.9,
-   "windFromDeg": 231,
-   "windOutMph": 1.1,
-   "humidityPct": 64,
+   "windFromDeg": 184,
+   "windOutMph": 1.7,
+   "humidityPct": 66,
    "cloudPct": 0,
    "parkFactorHR": 102,
    "elevationFt": 23
@@ -70,12 +70,12 @@
    "roof": "Open",
    "roofClosed": false,
    "hrfi": 3.8,
-   "tempF": 64.5,
-   "windMph": 1.6,
-   "windFromDeg": 16,
-   "windOutMph": -0.5,
-   "humidityPct": 92,
-   "cloudPct": 100,
+   "tempF": 63.0,
+   "windMph": 1.1,
+   "windFromDeg": 217,
+   "windOutMph": 0.5,
+   "humidityPct": 89,
+   "cloudPct": 14,
    "parkFactorHR": 119,
    "elevationFt": 55
   }
@@ -97,7 +97,7 @@
    "l10Hr": 4,
    "l10Pa": 45,
    "brlPa": 9.6,
-   "probPct": 35.3,
+   "probPct": 35.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -110,7 +110,7 @@
     "pitcherMult": 1.057,
     "arsenalMult": 1.041,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -129,7 +129,7 @@
    "l10Hr": 2,
    "l10Pa": 35,
    "brlPa": 8.2,
-   "probPct": 27.2,
+   "probPct": 27.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -142,7 +142,7 @@
     "pitcherMult": 1.051,
     "arsenalMult": 1.157,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -174,7 +174,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.085,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -193,7 +193,7 @@
    "l10Hr": 2,
    "l10Pa": 46,
    "brlPa": 8.7,
-   "probPct": 24.2,
+   "probPct": 23.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -204,9 +204,9 @@
     "batterRatePct": 4.45,
     "formMult": 1.001,
     "pitcherMult": 1.051,
-    "arsenalMult": 1.117,
+    "arsenalMult": 1.113,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -225,7 +225,7 @@
    "l10Hr": 3,
    "l10Pa": 45,
    "brlPa": 10.4,
-   "probPct": 24.0,
+   "probPct": 23.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -238,7 +238,7 @@
     "pitcherMult": 0.794,
     "arsenalMult": 1.074,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -270,7 +270,7 @@
     "pitcherMult": 1.05,
     "arsenalMult": 1.117,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -306,6 +306,38 @@
    }
   },
   {
+   "name": "Ronald Acu\u00f1a Jr.",
+   "bats": "R",
+   "team": "Atlanta Braves",
+   "opponent": "Philadelphia Phillies",
+   "pitcher": "Jes\u00fas Luzardo",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.75",
+   "platoonEdge": true,
+   "venue": "Truist Park",
+   "lineupSpot": 2,
+   "seasonHr": 20,
+   "seasonPa": 469,
+   "l10Hr": 3,
+   "l10Pa": 43,
+   "brlPa": 8.5,
+   "probPct": 20.6,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849845,
+   "playerId": 660670,
+   "factors": {
+    "batterRatePct": 4.07,
+    "formMult": 1.2,
+    "pitcherMult": 0.857,
+    "arsenalMult": 1.053,
+    "parkMult": 1.042,
+    "weatherMult": 1.069
+   }
+  },
+  {
    "name": "Spencer Jones",
    "bats": "L",
    "team": "New York Yankees",
@@ -338,35 +370,35 @@
    }
   },
   {
-   "name": "Ronald Acu\u00f1a Jr.",
-   "bats": "R",
+   "name": "Matt Olson",
+   "bats": "L",
    "team": "Atlanta Braves",
    "opponent": "Philadelphia Phillies",
    "pitcher": "Jes\u00fas Luzardo",
    "pitcherHand": "L",
    "pitcherHr9": "0.75",
-   "platoonEdge": true,
+   "platoonEdge": false,
    "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 20,
-   "seasonPa": 469,
-   "l10Hr": 3,
-   "l10Pa": 43,
-   "brlPa": 8.5,
-   "probPct": 18.6,
+   "lineupSpot": 3,
+   "seasonHr": 41,
+   "seasonPa": 698,
+   "l10Hr": 2,
+   "l10Pa": 40,
+   "brlPa": 9.3,
+   "probPct": 18.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849845,
-   "playerId": 660670,
+   "playerId": 621566,
    "factors": {
-    "batterRatePct": 4.07,
-    "formMult": 1.2,
-    "pitcherMult": 0.857,
-    "arsenalMult": 1.053,
+    "batterRatePct": 5.36,
+    "formMult": 0.981,
+    "pitcherMult": 0.73,
+    "arsenalMult": 1.013,
     "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.069
    }
   },
   {
@@ -385,7 +417,7 @@
    "l10Hr": 1,
    "l10Pa": 31,
    "brlPa": 5.8,
-   "probPct": 17.5,
+   "probPct": 17.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -398,39 +430,7 @@
     "pitcherMult": 1.057,
     "arsenalMult": 1.032,
     "parkMult": 1.042,
-    "weatherMult": 1.197
-   }
-  },
-  {
-   "name": "Colson Montgomery",
-   "bats": "L",
-   "team": "Chicago White Sox",
-   "opponent": "Houston Astros",
-   "pitcher": "AJ Blubaugh",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.22",
-   "platoonEdge": true,
-   "venue": "Daikin Park",
-   "lineupSpot": null,
-   "seasonHr": 31,
-   "seasonPa": 638,
-   "l10Hr": 0,
-   "l10Pa": 36,
-   "brlPa": 6.4,
-   "probPct": 17.2,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849849,
-   "playerId": 695657,
-   "factors": {
-    "batterRatePct": 4.25,
-    "formMult": 0.85,
-    "pitcherMult": 1.057,
-    "arsenalMult": 0.942,
-    "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -462,39 +462,71 @@
     "pitcherMult": 1.05,
     "arsenalMult": 1.034,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
-   "name": "Matt Olson",
+   "name": "Colson Montgomery",
    "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "Jes\u00fas Luzardo",
+   "team": "Chicago White Sox",
+   "opponent": "Houston Astros",
+   "pitcher": "AJ Blubaugh",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.22",
+   "platoonEdge": true,
+   "venue": "Daikin Park",
+   "lineupSpot": null,
+   "seasonHr": 31,
+   "seasonPa": 638,
+   "l10Hr": 0,
+   "l10Pa": 36,
+   "brlPa": 6.4,
+   "probPct": 17.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849849,
+   "playerId": 695657,
+   "factors": {
+    "batterRatePct": 4.25,
+    "formMult": 0.85,
+    "pitcherMult": 1.057,
+    "arsenalMult": 0.942,
+    "parkMult": 1.042,
+    "weatherMult": 1.186
+   }
+  },
+  {
+   "name": "Kyle Schwarber",
+   "bats": "L",
+   "team": "Philadelphia Phillies",
+   "opponent": "Atlanta Braves",
+   "pitcher": "Chris Sale",
    "pitcherHand": "L",
-   "pitcherHr9": "0.75",
+   "pitcherHr9": "0.55",
    "platoonEdge": false,
    "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 41,
-   "seasonPa": 698,
-   "l10Hr": 2,
-   "l10Pa": 40,
-   "brlPa": 9.3,
-   "probPct": 16.5,
+   "lineupSpot": 2,
+   "seasonHr": 45,
+   "seasonPa": 701,
+   "l10Hr": 0,
+   "l10Pa": 46,
+   "brlPa": 8.1,
+   "probPct": 16.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849845,
-   "playerId": 621566,
+   "playerId": 656941,
    "factors": {
-    "batterRatePct": 5.36,
-    "formMult": 0.981,
-    "pitcherMult": 0.73,
-    "arsenalMult": 1.013,
+    "batterRatePct": 5.3,
+    "formMult": 0.85,
+    "pitcherMult": 0.754,
+    "arsenalMult": 1.011,
     "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.069
    }
   },
   {
@@ -526,7 +558,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 1.029,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -558,7 +590,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 1.044,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -594,6 +626,38 @@
    }
   },
   {
+   "name": "Drake Baldwin",
+   "bats": "L",
+   "team": "Atlanta Braves",
+   "opponent": "Philadelphia Phillies",
+   "pitcher": "Jes\u00fas Luzardo",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.75",
+   "platoonEdge": false,
+   "venue": "Truist Park",
+   "lineupSpot": 1,
+   "seasonHr": 25,
+   "seasonPa": 615,
+   "l10Hr": 2,
+   "l10Pa": 47,
+   "brlPa": 8.8,
+   "probPct": 15.6,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849845,
+   "playerId": 686948,
+   "factors": {
+    "batterRatePct": 3.97,
+    "formMult": 1.049,
+    "pitcherMult": 0.73,
+    "arsenalMult": 1.049,
+    "parkMult": 1.042,
+    "weatherMult": 1.069
+   }
+  },
+  {
    "name": "Heliot Ramos",
    "bats": "R",
    "team": "New York Yankees",
@@ -626,38 +690,6 @@
    }
   },
   {
-   "name": "Kyle Schwarber",
-   "bats": "L",
-   "team": "Philadelphia Phillies",
-   "opponent": "Atlanta Braves",
-   "pitcher": "Chris Sale",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.55",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 45,
-   "seasonPa": 701,
-   "l10Hr": 0,
-   "l10Pa": 46,
-   "brlPa": 8.1,
-   "probPct": 14.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 656941,
-   "factors": {
-    "batterRatePct": 5.3,
-    "formMult": 0.85,
-    "pitcherMult": 0.754,
-    "arsenalMult": 1.011,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
-   }
-  },
-  {
    "name": "Michael Conforto",
    "bats": "L",
    "team": "Chicago Cubs",
@@ -686,11 +718,11 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.045,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
-   "name": "Edmundo Sosa",
+   "name": "Derek Hill",
    "bats": "R",
    "team": "Philadelphia Phillies",
    "opponent": "Atlanta Braves",
@@ -699,26 +731,26 @@
    "pitcherHr9": "0.55",
    "platoonEdge": true,
    "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 9,
-   "seasonPa": 250,
-   "l10Hr": 2,
-   "l10Pa": 21,
-   "brlPa": 5.2,
-   "probPct": 14.4,
+   "lineupSpot": 5,
+   "seasonHr": 11,
+   "seasonPa": 216,
+   "l10Hr": 1,
+   "l10Pa": 13,
+   "brlPa": 6.5,
+   "probPct": 14.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849845,
-   "playerId": 624641,
+   "playerId": 656537,
    "factors": {
-    "batterRatePct": 3.42,
-    "formMult": 1.2,
+    "batterRatePct": 4.08,
+    "formMult": 1.0,
     "pitcherMult": 0.8,
-    "arsenalMult": 1.026,
+    "arsenalMult": 0.979,
     "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.069
    }
   },
   {
@@ -754,6 +786,38 @@
    }
   },
   {
+   "name": "Edmundo Sosa",
+   "bats": "R",
+   "team": "Philadelphia Phillies",
+   "opponent": "Atlanta Braves",
+   "pitcher": "Chris Sale",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.55",
+   "platoonEdge": true,
+   "venue": "Truist Park",
+   "lineupSpot": 8,
+   "seasonHr": 9,
+   "seasonPa": 250,
+   "l10Hr": 2,
+   "l10Pa": 21,
+   "brlPa": 5.2,
+   "probPct": 14.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849845,
+   "playerId": 624641,
+   "factors": {
+    "batterRatePct": 3.42,
+    "formMult": 1.2,
+    "pitcherMult": 0.8,
+    "arsenalMult": 1.026,
+    "parkMult": 1.042,
+    "weatherMult": 1.069
+   }
+  },
+  {
    "name": "Willson Contreras",
    "bats": "R",
    "team": "Boston Red Sox",
@@ -783,102 +847,6 @@
     "arsenalMult": 0.956,
     "parkMult": 1.161,
     "weatherMult": 0.941
-   }
-  },
-  {
-   "name": "Derek Hill",
-   "bats": "R",
-   "team": "Philadelphia Phillies",
-   "opponent": "Atlanta Braves",
-   "pitcher": "Chris Sale",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.55",
-   "platoonEdge": true,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 11,
-   "seasonPa": 216,
-   "l10Hr": 1,
-   "l10Pa": 13,
-   "brlPa": 6.5,
-   "probPct": 13.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 656537,
-   "factors": {
-    "batterRatePct": 4.08,
-    "formMult": 1.0,
-    "pitcherMult": 0.8,
-    "arsenalMult": 0.978,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
-   }
-  },
-  {
-   "name": "Drake Baldwin",
-   "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "Jes\u00fas Luzardo",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.75",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 25,
-   "seasonPa": 615,
-   "l10Hr": 2,
-   "l10Pa": 47,
-   "brlPa": 8.8,
-   "probPct": 13.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 686948,
-   "factors": {
-    "batterRatePct": 3.97,
-    "formMult": 1.049,
-    "pitcherMult": 0.73,
-    "arsenalMult": 1.049,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
-   }
-  },
-  {
-   "name": "Christian Walker",
-   "bats": "R",
-   "team": "Houston Astros",
-   "opponent": "Chicago White Sox",
-   "pitcher": "Hagen Smith",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.32",
-   "platoonEdge": true,
-   "venue": "Daikin Park",
-   "lineupSpot": null,
-   "seasonHr": 29,
-   "seasonPa": 635,
-   "l10Hr": 4,
-   "l10Pa": 43,
-   "brlPa": 6.5,
-   "probPct": 13.7,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849849,
-   "playerId": 572233,
-   "factors": {
-    "batterRatePct": 3.97,
-    "formMult": 1.2,
-    "pitcherMult": 0.673,
-    "arsenalMult": 0.882,
-    "parkMult": 1.042,
-    "weatherMult": 1.197
    }
   },
   {
@@ -940,9 +908,9 @@
     "batterRatePct": 3.76,
     "formMult": 0.913,
     "pitcherMult": 0.956,
-    "arsenalMult": 1.02,
+    "arsenalMult": 1.022,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -974,7 +942,39 @@
     "pitcherMult": 1.05,
     "arsenalMult": 1.025,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
+   }
+  },
+  {
+   "name": "Christian Walker",
+   "bats": "R",
+   "team": "Houston Astros",
+   "opponent": "Chicago White Sox",
+   "pitcher": "Hagen Smith",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.32",
+   "platoonEdge": true,
+   "venue": "Daikin Park",
+   "lineupSpot": null,
+   "seasonHr": 29,
+   "seasonPa": 635,
+   "l10Hr": 4,
+   "l10Pa": 43,
+   "brlPa": 6.5,
+   "probPct": 13.6,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849849,
+   "playerId": 572233,
+   "factors": {
+    "batterRatePct": 3.97,
+    "formMult": 1.2,
+    "pitcherMult": 0.673,
+    "arsenalMult": 0.883,
+    "parkMult": 1.042,
+    "weatherMult": 1.186
    }
   },
   {
@@ -993,7 +993,7 @@
    "l10Hr": 3,
    "l10Pa": 32,
    "brlPa": 4.0,
-   "probPct": 13.2,
+   "probPct": 13.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1006,7 +1006,7 @@
     "pitcherMult": 1.051,
     "arsenalMult": 0.912,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1102,39 +1102,7 @@
     "pitcherMult": 0.847,
     "arsenalMult": 1.071,
     "parkMult": 1.017,
-    "weatherMult": 1.035
-   }
-  },
-  {
-   "name": "Austin Riley",
-   "bats": "R",
-   "team": "Atlanta Braves",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "Jes\u00fas Luzardo",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.75",
-   "platoonEdge": true,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 19,
-   "seasonPa": 630,
-   "l10Hr": 2,
-   "l10Pa": 40,
-   "brlPa": 7.3,
-   "probPct": 12.5,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 663586,
-   "factors": {
-    "batterRatePct": 2.99,
-    "formMult": 1.2,
-    "pitcherMult": 0.857,
-    "arsenalMult": 0.938,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.036
    }
   },
   {
@@ -1170,35 +1138,35 @@
    }
   },
   {
-   "name": "Drew Romo",
-   "bats": "S",
-   "team": "Chicago White Sox",
-   "opponent": "Houston Astros",
-   "pitcher": "AJ Blubaugh",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.22",
+   "name": "Austin Riley",
+   "bats": "R",
+   "team": "Atlanta Braves",
+   "opponent": "Philadelphia Phillies",
+   "pitcher": "Jes\u00fas Luzardo",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.75",
    "platoonEdge": true,
-   "venue": "Daikin Park",
-   "lineupSpot": null,
-   "seasonHr": 7,
-   "seasonPa": 206,
-   "l10Hr": 0,
-   "l10Pa": 33,
-   "brlPa": 3.9,
-   "probPct": 12.3,
+   "venue": "Truist Park",
+   "lineupSpot": 7,
+   "seasonHr": 19,
+   "seasonPa": 630,
+   "l10Hr": 2,
+   "l10Pa": 40,
+   "brlPa": 7.3,
+   "probPct": 12.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
-   "gamePk": 849849,
-   "playerId": 691011,
+   "gamePk": 849845,
+   "playerId": 663586,
    "factors": {
-    "batterRatePct": 2.96,
-    "formMult": 0.85,
-    "pitcherMult": 1.057,
-    "arsenalMult": 0.952,
+    "batterRatePct": 2.99,
+    "formMult": 1.2,
+    "pitcherMult": 0.857,
+    "arsenalMult": 0.938,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.069
    }
   },
   {
@@ -1228,9 +1196,9 @@
     "batterRatePct": 3.32,
     "formMult": 0.928,
     "pitcherMult": 0.94,
-    "arsenalMult": 1.026,
+    "arsenalMult": 1.028,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1249,7 +1217,7 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 3.1,
-   "probPct": 12.1,
+   "probPct": 12.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1262,7 +1230,7 @@
     "pitcherMult": 1.051,
     "arsenalMult": 0.969,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1294,7 +1262,7 @@
     "pitcherMult": 1.05,
     "arsenalMult": 0.995,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1358,7 +1326,7 @@
     "pitcherMult": 0.847,
     "arsenalMult": 1.01,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1377,7 +1345,7 @@
    "l10Hr": 3,
    "l10Pa": 45,
    "brlPa": 5.0,
-   "probPct": 11.8,
+   "probPct": 11.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1390,7 +1358,7 @@
     "pitcherMult": 0.673,
     "arsenalMult": 0.945,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1422,7 +1390,71 @@
     "pitcherMult": 0.94,
     "arsenalMult": 1.034,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
+   }
+  },
+  {
+   "name": "Jake Rogers",
+   "bats": "R",
+   "team": "Chicago White Sox",
+   "opponent": "Houston Astros",
+   "pitcher": "AJ Blubaugh",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.22",
+   "platoonEdge": false,
+   "venue": "Daikin Park",
+   "lineupSpot": null,
+   "seasonHr": 4,
+   "seasonPa": 171,
+   "l10Hr": 0,
+   "l10Pa": 27,
+   "brlPa": 5.3,
+   "probPct": 11.4,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849849,
+   "playerId": 668670,
+   "factors": {
+    "batterRatePct": 2.81,
+    "formMult": 0.85,
+    "pitcherMult": 1.051,
+    "arsenalMult": 0.942,
+    "parkMult": 1.042,
+    "weatherMult": 1.186
+   }
+  },
+  {
+   "name": "Michael Harris II",
+   "bats": "L",
+   "team": "Atlanta Braves",
+   "opponent": "Philadelphia Phillies",
+   "pitcher": "Jes\u00fas Luzardo",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.75",
+   "platoonEdge": false,
+   "venue": "Truist Park",
+   "lineupSpot": 5,
+   "seasonHr": 26,
+   "seasonPa": 621,
+   "l10Hr": 1,
+   "l10Pa": 42,
+   "brlPa": 7.9,
+   "probPct": 11.2,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849845,
+   "playerId": 671739,
+   "factors": {
+    "batterRatePct": 3.96,
+    "formMult": 0.85,
+    "pitcherMult": 0.73,
+    "arsenalMult": 1.008,
+    "parkMult": 1.042,
+    "weatherMult": 1.069
    }
   },
   {
@@ -1441,7 +1473,7 @@
    "l10Hr": 0,
    "l10Pa": 25,
    "brlPa": 3.9,
-   "probPct": 11.1,
+   "probPct": 11.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1454,39 +1486,7 @@
     "pitcherMult": 1.057,
     "arsenalMult": 1.033,
     "parkMult": 1.042,
-    "weatherMult": 1.197
-   }
-  },
-  {
-   "name": "Cam Smith",
-   "bats": "R",
-   "team": "Houston Astros",
-   "opponent": "Chicago White Sox",
-   "pitcher": "Hagen Smith",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.32",
-   "platoonEdge": true,
-   "venue": "Daikin Park",
-   "lineupSpot": null,
-   "seasonHr": 21,
-   "seasonPa": 568,
-   "l10Hr": 1,
-   "l10Pa": 40,
-   "brlPa": 7.2,
-   "probPct": 10.9,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849849,
-   "playerId": 701358,
-   "factors": {
-    "batterRatePct": 3.98,
-    "formMult": 0.882,
-    "pitcherMult": 0.673,
-    "arsenalMult": 0.94,
-    "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1522,39 +1522,7 @@
    }
   },
   {
-   "name": "Michael Harris II",
-   "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "Jes\u00fas Luzardo",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.75",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 26,
-   "seasonPa": 621,
-   "l10Hr": 1,
-   "l10Pa": 42,
-   "brlPa": 7.9,
-   "probPct": 10.8,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 671739,
-   "factors": {
-    "batterRatePct": 3.96,
-    "formMult": 0.85,
-    "pitcherMult": 0.73,
-    "arsenalMult": 1.008,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
-   }
-  },
-  {
-   "name": "Yainer Diaz",
+   "name": "Cam Smith",
    "bats": "R",
    "team": "Houston Astros",
    "opponent": "Chicago White Sox",
@@ -1564,25 +1532,25 @@
    "platoonEdge": true,
    "venue": "Daikin Park",
    "lineupSpot": null,
-   "seasonHr": 14,
-   "seasonPa": 361,
-   "l10Hr": 2,
-   "l10Pa": 41,
-   "brlPa": 5.5,
-   "probPct": 10.7,
+   "seasonHr": 21,
+   "seasonPa": 568,
+   "l10Hr": 1,
+   "l10Pa": 40,
+   "brlPa": 7.2,
+   "probPct": 10.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849849,
-   "playerId": 673237,
+   "playerId": 701358,
    "factors": {
-    "batterRatePct": 3.13,
-    "formMult": 1.144,
+    "batterRatePct": 3.98,
+    "formMult": 0.882,
     "pitcherMult": 0.673,
-    "arsenalMult": 0.907,
+    "arsenalMult": 0.94,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1618,6 +1586,70 @@
    }
   },
   {
+   "name": "Trent Grisham",
+   "bats": "L",
+   "team": "New York Yankees",
+   "opponent": "Boston Red Sox",
+   "pitcher": "Payton Tolle",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.91",
+   "platoonEdge": false,
+   "venue": "Yankee Stadium",
+   "lineupSpot": null,
+   "seasonHr": 18,
+   "seasonPa": 484,
+   "l10Hr": 0,
+   "l10Pa": 36,
+   "brlPa": 6.6,
+   "probPct": 10.7,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849851,
+   "playerId": 663757,
+   "factors": {
+    "batterRatePct": 3.27,
+    "formMult": 0.85,
+    "pitcherMult": 0.953,
+    "arsenalMult": 0.943,
+    "parkMult": 1.161,
+    "weatherMult": 0.941
+   }
+  },
+  {
+   "name": "Yainer Diaz",
+   "bats": "R",
+   "team": "Houston Astros",
+   "opponent": "Chicago White Sox",
+   "pitcher": "Hagen Smith",
+   "pitcherHand": "L",
+   "pitcherHr9": "0.32",
+   "platoonEdge": true,
+   "venue": "Daikin Park",
+   "lineupSpot": null,
+   "seasonHr": 14,
+   "seasonPa": 361,
+   "l10Hr": 2,
+   "l10Pa": 41,
+   "brlPa": 5.5,
+   "probPct": 10.6,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849849,
+   "playerId": 673237,
+   "factors": {
+    "batterRatePct": 3.13,
+    "formMult": 1.144,
+    "pitcherMult": 0.673,
+    "arsenalMult": 0.907,
+    "parkMult": 1.042,
+    "weatherMult": 1.186
+   }
+  },
+  {
    "name": "Taylor Trammell",
    "bats": "L",
    "team": "Houston Astros",
@@ -1633,7 +1665,7 @@
    "l10Hr": 1,
    "l10Pa": 32,
    "brlPa": 6.9,
-   "probPct": 10.6,
+   "probPct": 10.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1646,7 +1678,7 @@
     "pitcherMult": 0.794,
     "arsenalMult": 0.9,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   },
   {
@@ -1678,7 +1710,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 0.989,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1742,7 +1774,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.017,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1810,7 +1842,7 @@
    }
   },
   {
-   "name": "Brandon Marsh",
+   "name": "Bryce Harper",
    "bats": "L",
    "team": "Philadelphia Phillies",
    "opponent": "Atlanta Braves",
@@ -1819,26 +1851,26 @@
    "pitcherHr9": "0.55",
    "platoonEdge": false,
    "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 18,
-   "seasonPa": 568,
+   "lineupSpot": 3,
+   "seasonHr": 29,
+   "seasonPa": 693,
    "l10Hr": 1,
-   "l10Pa": 28,
-   "brlPa": 5.5,
-   "probPct": 9.9,
+   "l10Pa": 45,
+   "brlPa": 6.5,
+   "probPct": 9.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849845,
-   "playerId": 669016,
+   "playerId": 547180,
    "factors": {
-    "batterRatePct": 2.92,
-    "formMult": 1.042,
+    "batterRatePct": 2.99,
+    "formMult": 0.85,
     "pitcherMult": 0.754,
-    "arsenalMult": 0.989,
+    "arsenalMult": 1.058,
     "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.069
    }
   },
   {
@@ -1902,7 +1934,7 @@
     "pitcherMult": 1.05,
     "arsenalMult": 0.994,
     "parkMult": 1.017,
-    "weatherMult": 1.035
+    "weatherMult": 1.036
    }
   },
   {
@@ -1934,39 +1966,7 @@
     "pitcherMult": 0.673,
     "arsenalMult": 0.871,
     "parkMult": 1.042,
-    "weatherMult": 1.197
-   }
-  },
-  {
-   "name": "Mike Yastrzemski",
-   "bats": "L",
-   "team": "Atlanta Braves",
-   "opponent": "Philadelphia Phillies",
-   "pitcher": "Jes\u00fas Luzardo",
-   "pitcherHand": "L",
-   "pitcherHr9": "0.75",
-   "platoonEdge": false,
-   "venue": "Truist Park",
-   "lineupSpot": null,
-   "seasonHr": 12,
-   "seasonPa": 408,
-   "l10Hr": 2,
-   "l10Pa": 31,
-   "brlPa": 4.4,
-   "probPct": 9.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849845,
-   "playerId": 573262,
-   "factors": {
-    "batterRatePct": 2.75,
-    "formMult": 1.2,
-    "pitcherMult": 0.73,
-    "arsenalMult": 0.892,
-    "parkMult": 1.042,
-    "weatherMult": 1.063
+    "weatherMult": 1.186
    }
   },
   {
@@ -1998,7 +1998,7 @@
     "pitcherMult": 1.051,
     "arsenalMult": 0.962,
     "parkMult": 1.042,
-    "weatherMult": 1.197
+    "weatherMult": 1.186
    }
   }
  ],
