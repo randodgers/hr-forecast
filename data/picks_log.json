@@ -1,1 +1,200 @@
-{}
+{
+"2026-09-30|849841|660670": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 660670,
+"name": "Ronald Acu\u00f1a Jr.",
+"team": "Atlanta Braves",
+"prob": 22.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-30|849841|656941": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 656941,
+"name": "Kyle Schwarber",
+"team": "Philadelphia Phillies",
+"prob": 22.3,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-30|849841|621566": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 621566,
+"name": "Matt Olson",
+"team": "Atlanta Braves",
+"prob": 19.3,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-30|849841|547180": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 547180,
+"name": "Bryce Harper",
+"team": "Philadelphia Phillies",
+"prob": 18.2,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-30|849841|624641": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 624641,
+"name": "Edmundo Sosa",
+"team": "Philadelphia Phillies",
+"prob": 15.9,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-30|849841|686948": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 686948,
+"name": "Drake Baldwin",
+"team": "Atlanta Braves",
+"prob": 15.8,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-09-30|849841|669016": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 669016,
+"name": "Brandon Marsh",
+"team": "Philadelphia Phillies",
+"prob": 13.9,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-30|849841|663586": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 663586,
+"name": "Austin Riley",
+"team": "Atlanta Braves",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-09-30|849841|607208": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 607208,
+"name": "Trea Turner",
+"team": "Philadelphia Phillies",
+"prob": 11.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-09-30|849841|671739": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 671739,
+"name": "Michael Harris II",
+"team": "Atlanta Braves",
+"prob": 11.2,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-09-30|849841|645277": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 645277,
+"name": "Ozzie Albies",
+"team": "Atlanta Braves",
+"prob": 9.4,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-09-30|849841|664761": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 664761,
+"name": "Alec Bohm",
+"team": "Philadelphia Phillies",
+"prob": 9.2,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-09-30|849841|669221": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 669221,
+"name": "Sean Murphy",
+"team": "Atlanta Braves",
+"prob": 8.5,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-09-30|849841|643289": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 643289,
+"name": "Mauricio Dub\u00f3n",
+"team": "Atlanta Braves",
+"prob": 8.3,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-30|849841|592663": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 592663,
+"name": "J.T. Realmuto",
+"team": "Philadelphia Phillies",
+"prob": 8.2,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-30|849841|681082": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 681082,
+"name": "Bryson Stott",
+"team": "Philadelphia Phillies",
+"prob": 7.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-09-30|849841|673490": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 673490,
+"name": "Ha-Seong Kim",
+"team": "Atlanta Braves",
+"prob": 3.6,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-09-30|849841|702222": {
+"d": "2026-09-30",
+"g": 849841,
+"id": 702222,
+"name": "Justin Crawford",
+"team": "Philadelphia Phillies",
+"prob": 2.8,
+"mkt": null,
+"fair": null,
+"spot": 8
+}
+}
