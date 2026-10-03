@@ -5,10 +5,10 @@
 "id": 621566,
 "name": "Matt Olson",
 "team": "Atlanta Braves",
-"prob": 29.0,
-"mkt": 18.5,
-"fair": 14.4,
-"spot": null
+"prob": 30.6,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-03|849828|669257": {
 "d": "2026-10-03",
@@ -16,10 +16,10 @@
 "id": 669257,
 "name": "Will Smith",
 "team": "Los Angeles Dodgers",
-"prob": 26.0,
-"mkt": 20.4,
-"fair": 15.9,
-"spot": null
+"prob": 29.0,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-03|849828|605141": {
 "d": "2026-10-03",
@@ -27,10 +27,10 @@
 "id": 605141,
 "name": "Mookie Betts",
 "team": "Los Angeles Dodgers",
-"prob": 25.6,
-"mkt": 17.4,
-"fair": 13.6,
-"spot": null
+"prob": 30.4,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-03|849828|660670": {
 "d": "2026-10-03",
@@ -38,10 +38,10 @@
 "id": 660670,
 "name": "Ronald Acu\u00f1a Jr.",
 "team": "Atlanta Braves",
-"prob": 25.0,
-"mkt": 19.6,
-"fair": 15.3,
-"spot": null
+"prob": 27.6,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-03|849828|686948": {
 "d": "2026-10-03",
@@ -49,10 +49,10 @@
 "id": 686948,
 "name": "Drake Baldwin",
 "team": "Atlanta Braves",
-"prob": 23.4,
-"mkt": 13.3,
-"fair": 10.4,
-"spot": null
+"prob": 26.4,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-03|849828|660271": {
 "d": "2026-10-03",
@@ -60,10 +60,10 @@
 "id": 660271,
 "name": "Shohei Ohtani",
 "team": "Los Angeles Dodgers",
-"prob": 23.0,
-"mkt": 22.7,
-"fair": 17.7,
-"spot": null
+"prob": 32.3,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-03|849828|681624": {
 "d": "2026-10-03",
@@ -71,10 +71,10 @@
 "id": 681624,
 "name": "Andy Pages",
 "team": "Los Angeles Dodgers",
-"prob": 22.4,
-"mkt": 16.0,
-"fair": 12.5,
-"spot": null
+"prob": 24.4,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-10-03|849828|571970": {
 "d": "2026-10-03",
@@ -82,10 +82,10 @@
 "id": 571970,
 "name": "Max Muncy",
 "team": "Los Angeles Dodgers",
-"prob": 22.0,
-"mkt": 17.4,
-"fair": 13.6,
-"spot": null
+"prob": 23.0,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-10-03|849835|700250": {
 "d": "2026-10-03",
@@ -93,10 +93,10 @@
 "id": 700250,
 "name": "Ben Rice",
 "team": "New York Yankees",
-"prob": 21.5,
-"mkt": 25.0,
-"fair": 19.5,
-"spot": null
+"prob": 24.2,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-03|849835|691406": {
 "d": "2026-10-03",
@@ -104,10 +104,10 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 21.3,
-"mkt": 21.3,
-"fair": 16.6,
-"spot": null
+"prob": 23.0,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-03|849830|694192": {
 "d": "2026-10-03",
@@ -126,10 +126,10 @@
 "id": 683748,
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
-"prob": 19.2,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 19.4,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-10-03|849828|671739": {
 "d": "2026-10-03",
@@ -137,10 +137,10 @@
 "id": 671739,
 "name": "Michael Harris II",
 "team": "Atlanta Braves",
-"prob": 18.9,
-"mkt": 11.8,
-"fair": 9.2,
-"spot": null
+"prob": 19.6,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-03|849828|663656": {
 "d": "2026-10-03",
@@ -148,10 +148,10 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 18.6,
-"mkt": 16.7,
-"fair": 13.0,
-"spot": null
+"prob": 17.9,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-10-03|849828|663586": {
 "d": "2026-10-03",
@@ -159,10 +159,10 @@
 "id": 663586,
 "name": "Austin Riley",
 "team": "Atlanta Braves",
-"prob": 17.7,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 17.5,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-10-03|849828|606192": {
 "d": "2026-10-03",
@@ -170,10 +170,10 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 17.7,
-"mkt": 18.2,
-"fair": 14.2,
-"spot": null
+"prob": 20.0,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-03|849828|669242": {
 "d": "2026-10-03",
@@ -181,10 +181,10 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 17.0,
-"mkt": 11.1,
-"fair": 8.7,
-"spot": null
+"prob": 17.7,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-03|849829|808959": {
 "d": "2026-10-03",
@@ -203,10 +203,10 @@
 "id": 682987,
 "name": "Spencer Jones",
 "team": "New York Yankees",
-"prob": 15.8,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 16.8,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-03|849835|671277": {
 "d": "2026-10-03",
@@ -214,10 +214,10 @@
 "id": 671277,
 "name": "Luis Garc\u00eda Jr.",
 "team": "New York Yankees",
-"prob": 15.8,
-"mkt": 17.9,
-"fair": 14.0,
-"spot": null
+"prob": 17.1,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-03|849835|666018": {
 "d": "2026-10-03",
@@ -225,10 +225,10 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 15.7,
-"mkt": 14.8,
-"fair": 11.5,
-"spot": null
+"prob": 17.4,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-03|849829|545341": {
 "d": "2026-10-03",
@@ -247,10 +247,10 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 14.0,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 14.9,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-03|849835|669224": {
 "d": "2026-10-03",
@@ -258,10 +258,10 @@
 "id": 669224,
 "name": "Austin Wells",
 "team": "New York Yankees",
-"prob": 13.3,
-"mkt": 11.1,
-"fair": 8.7,
-"spot": null
+"prob": 12.8,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-10-03|849835|656775": {
 "d": "2026-10-03",
@@ -335,10 +335,10 @@
 "id": 806146,
 "name": "George Lombard Jr.",
 "team": "New York Yankees",
-"prob": 12.0,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 12.4,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-03|849835|641355": {
 "d": "2026-10-03",
@@ -346,10 +346,10 @@
 "id": 641355,
 "name": "Cody Bellinger",
 "team": "New York Yankees",
-"prob": 11.6,
-"mkt": 12.9,
-"fair": 10.1,
-"spot": null
+"prob": 12.9,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-03|849828|645277": {
 "d": "2026-10-03",
@@ -357,10 +357,10 @@
 "id": 645277,
 "name": "Ozzie Albies",
 "team": "Atlanta Braves",
-"prob": 11.2,
-"mkt": 14.3,
-"fair": 11.2,
-"spot": null
+"prob": 12.2,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-03|849835|641857": {
 "d": "2026-10-03",
@@ -368,10 +368,10 @@
 "id": 641857,
 "name": "Ryan McMahon",
 "team": "New York Yankees",
-"prob": 11.2,
-"mkt": 11.4,
-"fair": 8.9,
-"spot": null
+"prob": 10.4,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-03|849835|663757": {
 "d": "2026-10-03",
@@ -379,10 +379,10 @@
 "id": 663757,
 "name": "Trent Grisham",
 "team": "New York Yankees",
-"prob": 10.8,
-"mkt": 12.5,
-"fair": 9.8,
-"spot": null
+"prob": 10.7,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-10-03|849835|650490": {
 "d": "2026-10-03",
@@ -390,10 +390,10 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 10.8,
-"mkt": 14.3,
-"fair": 11.2,
-"spot": null
+"prob": 12.3,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-03|849835|689414": {
 "d": "2026-10-03",
@@ -401,10 +401,10 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 10.5,
-"mkt": 9.1,
-"fair": 7.1,
-"spot": null
+"prob": 11.2,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-03|849830|661388": {
 "d": "2026-10-03",
@@ -423,10 +423,10 @@
 "id": 643289,
 "name": "Mauricio Dub\u00f3n",
 "team": "Atlanta Braves",
-"prob": 10.2,
-"mkt": 10.0,
-"fair": 7.8,
-"spot": null
+"prob": 10.4,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-10-03|849829|686668": {
 "d": "2026-10-03",
@@ -456,10 +456,10 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 9.3,
-"mkt": 8.3,
-"fair": 6.5,
-"spot": null
+"prob": 9.0,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-10-03|849830|668930": {
 "d": "2026-10-03",
@@ -676,10 +676,10 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 2.9,
-"mkt": 7.1,
-"fair": 5.5,
-"spot": null
+"prob": 2.7,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-03|849830|687957": {
 "d": "2026-10-03",
@@ -709,10 +709,10 @@
 "id": 802415,
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
-"prob": 0.7,
-"mkt": 3.8,
-"fair": 3.0,
-"spot": null
+"prob": 0.8,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-03|849829|502054": {
 "d": "2026-10-03",
@@ -735,5 +735,49 @@
 "mkt": 8.3,
 "fair": 6.5,
 "spot": 7
+},
+"2026-10-03|849835|676356": {
+"d": "2026-10-03",
+"g": 849835,
+"id": 676356,
+"name": "Jonny DeLuca",
+"team": "Tampa Bay Rays",
+"prob": 12.8,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-10-03|849828|669221": {
+"d": "2026-10-03",
+"g": 849828,
+"id": 669221,
+"name": "Sean Murphy",
+"team": "Atlanta Braves",
+"prob": 11.5,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-03|849835|665862": {
+"d": "2026-10-03",
+"g": 849835,
+"id": 665862,
+"name": "Jazz Chisholm Jr.",
+"team": "New York Yankees",
+"prob": 9.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-03|849828|673490": {
+"d": "2026-10-03",
+"g": 849828,
+"id": 673490,
+"name": "Ha-Seong Kim",
+"team": "Atlanta Braves",
+"prob": 4.6,
+"mkt": null,
+"fair": null,
+"spot": 9
 }
 }
