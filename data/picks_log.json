@@ -5,10 +5,10 @@
 "id": 605141,
 "name": "Mookie Betts",
 "team": "Los Angeles Dodgers",
-"prob": 26.7,
-"mkt": 20.4,
-"fair": 15.9,
-"spot": null
+"prob": 30.7,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-04|849823|669257": {
 "d": "2026-10-04",
@@ -16,10 +16,10 @@
 "id": 669257,
 "name": "Will Smith",
 "team": "Los Angeles Dodgers",
-"prob": 25.5,
-"mkt": 22.2,
-"fair": 17.3,
-"spot": null
+"prob": 28.1,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-04|849823|681624": {
 "d": "2026-10-04",
@@ -27,10 +27,10 @@
 "id": 681624,
 "name": "Andy Pages",
 "team": "Los Angeles Dodgers",
-"prob": 23.8,
-"mkt": 18.9,
-"fair": 14.7,
-"spot": null
+"prob": 24.1,
+"mkt": null,
+"fair": null,
+"spot": 7
 },
 "2026-10-04|849823|660271": {
 "d": "2026-10-04",
@@ -38,10 +38,10 @@
 "id": 660271,
 "name": "Shohei Ohtani",
 "team": "Los Angeles Dodgers",
-"prob": 23.8,
-"mkt": 28.6,
-"fair": 22.3,
-"spot": null
+"prob": 26.8,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-04|849825|694192": {
 "d": "2026-10-04",
@@ -93,10 +93,10 @@
 "id": 621566,
 "name": "Matt Olson",
 "team": "Atlanta Braves",
-"prob": 19.9,
-"mkt": 18.2,
-"fair": 14.2,
-"spot": null
+"prob": 22.0,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-04|849823|606192": {
 "d": "2026-10-04",
@@ -104,10 +104,10 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 19.3,
-"mkt": 23.3,
-"fair": 18.2,
-"spot": null
+"prob": 20.4,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-04|849825|668930": {
 "d": "2026-10-04",
@@ -148,10 +148,10 @@
 "id": 660670,
 "name": "Ronald Acu\u00f1a Jr.",
 "team": "Atlanta Braves",
-"prob": 16.7,
-"mkt": 18.9,
-"fair": 14.7,
-"spot": null
+"prob": 18.9,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-04|849823|686948": {
 "d": "2026-10-04",
@@ -159,10 +159,10 @@
 "id": 686948,
 "name": "Drake Baldwin",
 "team": "Atlanta Braves",
-"prob": 16.4,
-"mkt": 14.3,
-"fair": 11.1,
-"spot": null
+"prob": 19.0,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-04|849823|663656": {
 "d": "2026-10-04",
@@ -170,10 +170,10 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 16.4,
-"mkt": 17.4,
-"fair": 13.6,
-"spot": null
+"prob": 16.9,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-10-04|849823|669242": {
 "d": "2026-10-04",
@@ -181,10 +181,10 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 16.4,
-"mkt": 14.3,
-"fair": 11.1,
-"spot": null
+"prob": 15.7,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-04|849825|664034": {
 "d": "2026-10-04",
@@ -214,10 +214,10 @@
 "id": 671739,
 "name": "Michael Harris II",
 "team": "Atlanta Braves",
-"prob": 13.0,
-"mkt": 13.8,
-"fair": 10.8,
-"spot": null
+"prob": 13.8,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-04|849825|806956": {
 "d": "2026-10-04",
@@ -236,10 +236,10 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 12.4,
-"mkt": 16.7,
-"fair": 13.0,
-"spot": null
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-04|849825|592885": {
 "d": "2026-10-04",
@@ -269,10 +269,10 @@
 "id": 663586,
 "name": "Austin Riley",
 "team": "Atlanta Braves",
-"prob": 11.7,
-"mkt": 16.0,
-"fair": 12.5,
-"spot": null
+"prob": 11.6,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-10-04|849825|669003": {
 "d": "2026-10-04",
@@ -313,10 +313,10 @@
 "id": 657041,
 "name": "Lane Thomas",
 "team": "Atlanta Braves",
-"prob": 7.6,
-"mkt": 12.5,
-"fair": 9.7,
-"spot": null
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-04|849823|645277": {
 "d": "2026-10-04",
@@ -324,10 +324,10 @@
 "id": 645277,
 "name": "Ozzie Albies",
 "team": "Atlanta Braves",
-"prob": 7.1,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-04|849823|643289": {
 "d": "2026-10-04",
@@ -335,10 +335,10 @@
 "id": 643289,
 "name": "Mauricio Dub\u00f3n",
 "team": "Atlanta Braves",
-"prob": 6.7,
-"mkt": 7.7,
-"fair": 6.0,
-"spot": null
+"prob": 6.9,
+"mkt": null,
+"fair": null,
+"spot": 6
 },
 "2026-10-04|849825|806198": {
 "d": "2026-10-04",
@@ -383,5 +383,27 @@
 "mkt": 7.1,
 "fair": 5.5,
 "spot": 9
+},
+"2026-10-04|849823|500743": {
+"d": "2026-10-04",
+"g": 849823,
+"id": 500743,
+"name": "Miguel Rojas",
+"team": "Los Angeles Dodgers",
+"prob": 15.5,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-04|849823|669221": {
+"d": "2026-10-04",
+"g": 849823,
+"id": 669221,
+"name": "Sean Murphy",
+"team": "Atlanta Braves",
+"prob": 7.9,
+"mkt": null,
+"fair": null,
+"spot": 7
 }
 }
