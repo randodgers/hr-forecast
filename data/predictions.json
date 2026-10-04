@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-04T06:34:41+00:00",
+ "generatedAtUtc": "2026-10-04T15:05:27+00:00",
  "date": "2026-10-04",
  "gameCount": 2,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "day",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 9.0,
-   "tempF": 92.1,
-   "windMph": 8.4,
-   "windFromDeg": 248,
-   "windOutMph": 3.7,
-   "humidityPct": 28,
+   "hrfi": 9.1,
+   "tempF": 92.3,
+   "windMph": 7.6,
+   "windFromDeg": 237,
+   "windOutMph": 3.9,
+   "humidityPct": 29,
    "cloudPct": 0,
    "parkFactorHR": 127,
    "elevationFt": 515
@@ -32,12 +32,12 @@
    "roof": "Retractable",
    "roofClosed": false,
    "hrfi": 6.0,
-   "tempF": 66.1,
-   "windMph": 12.7,
-   "windFromDeg": 302,
-   "windOutMph": 7.6,
-   "humidityPct": 51,
-   "cloudPct": 0,
+   "tempF": 66.3,
+   "windMph": 11.9,
+   "windFromDeg": 314,
+   "windOutMph": 7.1,
+   "humidityPct": 54,
+   "cloudPct": 1,
    "parkFactorHR": 106,
    "elevationFt": 597
   }
@@ -72,7 +72,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -91,7 +91,7 @@
    "l10Hr": 3,
    "l10Pa": 45,
    "brlPa": 6.3,
-   "probPct": 25.0,
+   "probPct": 25.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -104,7 +104,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -123,7 +123,7 @@
    "l10Hr": 0,
    "l10Pa": 45,
    "brlPa": 9.9,
-   "probPct": 22.4,
+   "probPct": 22.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -136,7 +136,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -168,7 +168,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -187,7 +187,7 @@
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 8.0,
-   "probPct": 21.4,
+   "probPct": 21.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -200,39 +200,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
-   }
-  },
-  {
-   "name": "Gavin Sheets",
-   "bats": "L",
-   "team": "San Diego Padres",
-   "opponent": "Milwaukee Brewers",
-   "pitcher": "Logan Henderson",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.28",
-   "platoonEdge": true,
-   "venue": "American Family Field",
-   "lineupSpot": null,
-   "seasonHr": 17,
-   "seasonPa": 419,
-   "l10Hr": 2,
-   "l10Pa": 28,
-   "brlPa": 4.8,
-   "probPct": 19.9,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849825,
-   "playerId": 657757,
-   "factors": {
-    "batterRatePct": 3.79,
-    "formMult": 1.2,
-    "pitcherMult": 1.077,
-    "arsenalMult": 0.97,
-    "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.205
    }
   },
   {
@@ -251,7 +219,7 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 9.3,
-   "probPct": 19.8,
+   "probPct": 19.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -264,7 +232,39 @@
     "pitcherMult": 0.711,
     "arsenalMult": 0.949,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
+   }
+  },
+  {
+   "name": "Gavin Sheets",
+   "bats": "L",
+   "team": "San Diego Padres",
+   "opponent": "Milwaukee Brewers",
+   "pitcher": "Logan Henderson",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.28",
+   "platoonEdge": true,
+   "venue": "American Family Field",
+   "lineupSpot": null,
+   "seasonHr": 17,
+   "seasonPa": 419,
+   "l10Hr": 2,
+   "l10Pa": 28,
+   "brlPa": 4.8,
+   "probPct": 19.8,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849825,
+   "playerId": 657757,
+   "factors": {
+    "batterRatePct": 3.79,
+    "formMult": 1.2,
+    "pitcherMult": 1.077,
+    "arsenalMult": 0.97,
+    "parkMult": 1.051,
+    "weatherMult": 1.049
    }
   },
   {
@@ -283,7 +283,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 8.4,
-   "probPct": 19.6,
+   "probPct": 19.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -296,7 +296,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 1.067,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -328,7 +328,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 1.005,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -347,7 +347,7 @@
    "l10Hr": 2,
    "l10Pa": 45,
    "brlPa": 9.1,
-   "probPct": 18.5,
+   "probPct": 18.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -360,7 +360,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 1.049,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -392,7 +392,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -411,7 +411,7 @@
    "l10Hr": 1,
    "l10Pa": 41,
    "brlPa": 6.7,
-   "probPct": 17.2,
+   "probPct": 17.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -424,7 +424,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -443,7 +443,7 @@
    "l10Hr": 1,
    "l10Pa": 41,
    "brlPa": 8.6,
-   "probPct": 17.0,
+   "probPct": 16.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -456,7 +456,7 @@
     "pitcherMult": 1.077,
     "arsenalMult": 1.016,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -475,7 +475,7 @@
    "l10Hr": 3,
    "l10Pa": 43,
    "brlPa": 8.5,
-   "probPct": 16.6,
+   "probPct": 16.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -488,7 +488,7 @@
     "pitcherMult": 0.633,
     "arsenalMult": 0.951,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -507,7 +507,7 @@
    "l10Hr": 2,
    "l10Pa": 41,
    "brlPa": 3.6,
-   "probPct": 16.5,
+   "probPct": 16.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -520,7 +520,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -552,7 +552,7 @@
     "pitcherMult": 0.711,
     "arsenalMult": 0.976,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -571,7 +571,7 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 4.7,
-   "probPct": 16.2,
+   "probPct": 16.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -584,7 +584,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.038,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -616,7 +616,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.091,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -648,7 +648,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -680,7 +680,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 1.031,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -712,7 +712,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.97,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -744,7 +744,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -763,7 +763,7 @@
    "l10Hr": 1,
    "l10Pa": 42,
    "brlPa": 7.9,
-   "probPct": 12.9,
+   "probPct": 13.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -776,39 +776,7 @@
     "pitcherMult": 0.711,
     "arsenalMult": 0.939,
     "parkMult": 1.23,
-    "weatherMult": 1.202
-   }
-  },
-  {
-   "name": "William Contreras",
-   "bats": "R",
-   "team": "Milwaukee Brewers",
-   "opponent": "San Diego Padres",
-   "pitcher": "Michael King",
-   "pitcherHand": "R",
-   "pitcherHr9": "0.97",
-   "platoonEdge": false,
-   "venue": "American Family Field",
-   "lineupSpot": null,
-   "seasonHr": 18,
-   "seasonPa": 640,
-   "l10Hr": 1,
-   "l10Pa": 43,
-   "brlPa": 6.4,
-   "probPct": 12.3,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849825,
-   "playerId": 661388,
-   "factors": {
-    "batterRatePct": 3.18,
-    "formMult": 0.92,
-    "pitcherMult": 0.94,
-    "arsenalMult": 1.032,
-    "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.205
    }
   },
   {
@@ -827,7 +795,7 @@
    "l10Hr": 2,
    "l10Pa": 31,
    "brlPa": 4.4,
-   "probPct": 12.3,
+   "probPct": 12.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -840,39 +808,39 @@
     "pitcherMult": 0.711,
     "arsenalMult": 0.913,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
-   "name": "Christian Yelich",
-   "bats": "L",
+   "name": "William Contreras",
+   "bats": "R",
    "team": "Milwaukee Brewers",
    "opponent": "San Diego Padres",
    "pitcher": "Michael King",
    "pitcherHand": "R",
    "pitcherHr9": "0.97",
-   "platoonEdge": true,
+   "platoonEdge": false,
    "venue": "American Family Field",
    "lineupSpot": null,
-   "seasonHr": 12,
-   "seasonPa": 500,
+   "seasonHr": 18,
+   "seasonPa": 640,
    "l10Hr": 1,
-   "l10Pa": 40,
-   "brlPa": 6.0,
-   "probPct": 11.9,
+   "l10Pa": 43,
+   "brlPa": 6.4,
+   "probPct": 12.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849825,
-   "playerId": 592885,
+   "playerId": 661388,
    "factors": {
-    "batterRatePct": 2.88,
-    "formMult": 0.985,
-    "pitcherMult": 0.956,
-    "arsenalMult": 1.01,
+    "batterRatePct": 3.18,
+    "formMult": 0.92,
+    "pitcherMult": 0.94,
+    "arsenalMult": 1.032,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -904,7 +872,39 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.959,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
+   }
+  },
+  {
+   "name": "Christian Yelich",
+   "bats": "L",
+   "team": "Milwaukee Brewers",
+   "opponent": "San Diego Padres",
+   "pitcher": "Michael King",
+   "pitcherHand": "R",
+   "pitcherHr9": "0.97",
+   "platoonEdge": true,
+   "venue": "American Family Field",
+   "lineupSpot": null,
+   "seasonHr": 12,
+   "seasonPa": 500,
+   "l10Hr": 1,
+   "l10Pa": 40,
+   "brlPa": 6.0,
+   "probPct": 11.8,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849825,
+   "playerId": 592885,
+   "factors": {
+    "batterRatePct": 2.88,
+    "formMult": 0.985,
+    "pitcherMult": 0.956,
+    "arsenalMult": 1.01,
+    "parkMult": 1.051,
+    "weatherMult": 1.049
    }
   },
   {
@@ -936,7 +936,7 @@
     "pitcherMult": 0.633,
     "arsenalMult": 0.889,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -968,7 +968,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -1000,7 +1000,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.947,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1019,7 +1019,7 @@
    "l10Hr": 0,
    "l10Pa": 39,
    "brlPa": 6.6,
-   "probPct": 10.7,
+   "probPct": 10.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1032,39 +1032,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 1.059,
     "parkMult": 1.051,
-    "weatherMult": 1.052
-   }
-  },
-  {
-   "name": "Joey Ortiz",
-   "bats": "R",
-   "team": "Milwaukee Brewers",
-   "opponent": "San Diego Padres",
-   "pitcher": "Michael King",
-   "pitcherHand": "R",
-   "pitcherHr9": "0.97",
-   "platoonEdge": false,
-   "venue": "American Family Field",
-   "lineupSpot": null,
-   "seasonHr": 9,
-   "seasonPa": 415,
-   "l10Hr": 1,
-   "l10Pa": 40,
-   "brlPa": 2.9,
-   "probPct": 9.1,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849825,
-   "playerId": 687401,
-   "factors": {
-    "batterRatePct": 2.22,
-    "formMult": 1.005,
-    "pitcherMult": 0.94,
-    "arsenalMult": 0.988,
-    "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1096,7 +1064,39 @@
     "pitcherMult": 1.077,
     "arsenalMult": 0.905,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
+   }
+  },
+  {
+   "name": "Joey Ortiz",
+   "bats": "R",
+   "team": "Milwaukee Brewers",
+   "opponent": "San Diego Padres",
+   "pitcher": "Michael King",
+   "pitcherHand": "R",
+   "pitcherHr9": "0.97",
+   "platoonEdge": false,
+   "venue": "American Family Field",
+   "lineupSpot": null,
+   "seasonHr": 9,
+   "seasonPa": 415,
+   "l10Hr": 1,
+   "l10Pa": 40,
+   "brlPa": 2.9,
+   "probPct": 9.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849825,
+   "playerId": 687401,
+   "factors": {
+    "batterRatePct": 2.22,
+    "formMult": 1.005,
+    "pitcherMult": 0.94,
+    "arsenalMult": 0.988,
+    "parkMult": 1.051,
+    "weatherMult": 1.049
    }
   },
   {
@@ -1115,7 +1115,7 @@
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 2.3,
-   "probPct": 8.1,
+   "probPct": 8.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1128,7 +1128,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.97,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1160,7 +1160,7 @@
     "pitcherMult": 0.633,
     "arsenalMult": 0.888,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -1192,7 +1192,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.905,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1224,7 +1224,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 0.998,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1256,7 +1256,7 @@
     "pitcherMult": 0.633,
     "arsenalMult": 0.866,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -1288,7 +1288,7 @@
     "pitcherMult": 0.633,
     "arsenalMult": 0.88,
     "parkMult": 1.23,
-    "weatherMult": 1.202
+    "weatherMult": 1.205
    }
   },
   {
@@ -1320,7 +1320,7 @@
     "pitcherMult": 0.991,
     "arsenalMult": 0.878,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1352,7 +1352,7 @@
     "pitcherMult": 0.94,
     "arsenalMult": 0.99,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1384,7 +1384,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 0.972,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1416,7 +1416,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 0.932,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1435,7 +1435,7 @@
    "l10Hr": 0,
    "l10Pa": 30,
    "brlPa": 1.8,
-   "probPct": 4.5,
+   "probPct": 4.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1448,7 +1448,7 @@
     "pitcherMult": 0.956,
     "arsenalMult": 0.992,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   },
   {
@@ -1480,7 +1480,7 @@
     "pitcherMult": 1.077,
     "arsenalMult": 0.959,
     "parkMult": 1.051,
-    "weatherMult": 1.052
+    "weatherMult": 1.049
    }
   }
  ],
