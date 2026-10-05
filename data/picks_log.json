@@ -1,1 +1,200 @@
-{}
+{
+"2026-10-05|849834|808959": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 808959,
+"name": "Munetaka Murakami",
+"team": "Chicago White Sox",
+"prob": 25.0,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-10-05|849834|678246": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 678246,
+"name": "Miguel Vargas",
+"team": "Chicago White Sox",
+"prob": 18.1,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-10-05|849834|682657": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 682657,
+"name": "Angel Mart\u00ednez",
+"team": "Cleveland Guardians",
+"prob": 13.9,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-05|849834|666176": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 666176,
+"name": "Jo Adell",
+"team": "Cleveland Guardians",
+"prob": 11.4,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-10-05|849834|643217": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 643217,
+"name": "Andrew Benintendi",
+"team": "Chicago White Sox",
+"prob": 11.2,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-10-05|849834|691019": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 691019,
+"name": "Kyle Teel",
+"team": "Chicago White Sox",
+"prob": 10.6,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-10-05|849834|672275": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 672275,
+"name": "Patrick Bailey",
+"team": "Cleveland Guardians",
+"prob": 10.5,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-05|849834|695657": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 695657,
+"name": "Colson Montgomery",
+"team": "Chicago White Sox",
+"prob": 10.2,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-10-05|849834|800050": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 800050,
+"name": "Chase DeLauter",
+"team": "Cleveland Guardians",
+"prob": 8.3,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-10-05|849834|608070": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 608070,
+"name": "Jos\u00e9 Ram\u00edrez",
+"team": "Cleveland Guardians",
+"prob": 8.0,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-10-05|849834|805367": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 805367,
+"name": "Chase Meidroth",
+"team": "Chicago White Sox",
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-05|849834|677587": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 677587,
+"name": "Brayan Rocchio",
+"team": "Cleveland Guardians",
+"prob": 7.4,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-10-05|849834|663993": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 663993,
+"name": "Nathaniel Lowe",
+"team": "Cleveland Guardians",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-10-05|849834|671976": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 671976,
+"name": "Tristan Peters",
+"team": "Chicago White Sox",
+"prob": 6.7,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-05|849834|803011": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 803011,
+"name": "Sam Antonacci",
+"team": "Chicago White Sox",
+"prob": 5.7,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-10-05|849834|695731": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 695731,
+"name": "Braden Montgomery",
+"team": "Chicago White Sox",
+"prob": 5.3,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-10-05|849834|683953": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 683953,
+"name": "Travis Bazzana",
+"team": "Cleveland Guardians",
+"prob": 5.1,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-10-05|849834|680757": {
+"d": "2026-10-05",
+"g": 849834,
+"id": 680757,
+"name": "Steven Kwan",
+"team": "Cleveland Guardians",
+"prob": 1.1,
+"mkt": null,
+"fair": null,
+"spot": 1
+}
+}
