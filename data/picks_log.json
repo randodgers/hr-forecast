@@ -5,7 +5,7 @@
 "id": 660670,
 "name": "Ronald Acu\u00f1a Jr.",
 "team": "Atlanta Braves",
-"prob": 21.4,
+"prob": 21.6,
 "mkt": 16.7,
 "fair": 13.0,
 "spot": null
@@ -16,7 +16,7 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 20.5,
+"prob": 20.3,
 "mkt": 18.5,
 "fair": 14.4,
 "spot": null
@@ -27,9 +27,9 @@
 "id": 621566,
 "name": "Matt Olson",
 "team": "Atlanta Braves",
-"prob": 19.9,
-"mkt": 20.4,
-"fair": 15.9,
+"prob": 20.1,
+"mkt": 19.6,
+"fair": 15.3,
 "spot": null
 },
 "2026-10-06|849819|686948": {
@@ -38,7 +38,7 @@
 "id": 686948,
 "name": "Drake Baldwin",
 "team": "Atlanta Braves",
-"prob": 18.3,
+"prob": 18.4,
 "mkt": 15.4,
 "fair": 12.0,
 "spot": null
@@ -49,7 +49,7 @@
 "id": 663586,
 "name": "Austin Riley",
 "team": "Atlanta Braves",
-"prob": 16.5,
+"prob": 16.6,
 "mkt": 12.9,
 "fair": 10.0,
 "spot": null
@@ -60,7 +60,7 @@
 "id": 592518,
 "name": "Manny Machado",
 "team": "San Diego Padres",
-"prob": 15.6,
+"prob": 15.5,
 "mkt": 17.4,
 "fair": 13.6,
 "spot": null
@@ -71,9 +71,9 @@
 "id": 665487,
 "name": "Fernando Tatis Jr.",
 "team": "San Diego Padres",
-"prob": 15.4,
-"mkt": 16.7,
-"fair": 13.0,
+"prob": 15.3,
+"mkt": 17.4,
+"fair": 13.6,
 "spot": null
 },
 "2026-10-06|849819|669257": {
@@ -82,9 +82,9 @@
 "id": 669257,
 "name": "Will Smith",
 "team": "Los Angeles Dodgers",
-"prob": 15.0,
-"mkt": 13.3,
-"fair": 10.4,
+"prob": 15.2,
+"mkt": 13.8,
+"fair": 10.8,
 "spot": null
 },
 "2026-10-06|849819|605141": {
@@ -93,7 +93,7 @@
 "id": 605141,
 "name": "Mookie Betts",
 "team": "Los Angeles Dodgers",
-"prob": 14.9,
+"prob": 15.1,
 "mkt": 13.8,
 "fair": 10.8,
 "spot": null
@@ -104,7 +104,7 @@
 "id": 671739,
 "name": "Michael Harris II",
 "team": "Atlanta Braves",
-"prob": 14.4,
+"prob": 14.5,
 "mkt": 12.9,
 "fair": 10.0,
 "spot": null
@@ -115,9 +115,9 @@
 "id": 668930,
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
-"prob": 14.2,
-"mkt": 12.5,
-"fair": 9.7,
+"prob": 14.0,
+"mkt": 12.1,
+"fair": 9.4,
 "spot": null
 },
 "2026-10-06|849826|701538": {
@@ -126,9 +126,9 @@
 "id": 701538,
 "name": "Jackson Merrill",
 "team": "San Diego Padres",
-"prob": 14.0,
-"mkt": 15.4,
-"fair": 12.0,
+"prob": 13.9,
+"mkt": 14.8,
+"fair": 11.5,
 "spot": null
 },
 "2026-10-06|849819|660271": {
@@ -137,7 +137,7 @@
 "id": 660271,
 "name": "Shohei Ohtani",
 "team": "Los Angeles Dodgers",
-"prob": 13.9,
+"prob": 14.0,
 "mkt": 18.5,
 "fair": 14.4,
 "spot": null
@@ -148,7 +148,7 @@
 "id": 681624,
 "name": "Andy Pages",
 "team": "Los Angeles Dodgers",
-"prob": 13.5,
+"prob": 13.6,
 "mkt": 10.3,
 "fair": 8.0,
 "spot": null
@@ -159,9 +159,9 @@
 "id": 641343,
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
-"prob": 13.5,
-"mkt": 17.4,
-"fair": 13.6,
+"prob": 13.3,
+"mkt": 17.9,
+"fair": 13.9,
 "spot": null
 },
 "2026-10-06|849819|571970": {
@@ -170,9 +170,9 @@
 "id": 571970,
 "name": "Max Muncy",
 "team": "Los Angeles Dodgers",
-"prob": 12.8,
-"mkt": 16.0,
-"fair": 12.5,
+"prob": 12.9,
+"mkt": 15.4,
+"fair": 12.0,
 "spot": null
 },
 "2026-10-06|849826|661388": {
@@ -181,7 +181,7 @@
 "id": 661388,
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
-"prob": 12.5,
+"prob": 12.4,
 "mkt": 13.8,
 "fair": 10.8,
 "spot": null
@@ -192,7 +192,7 @@
 "id": 573262,
 "name": "Mike Yastrzemski",
 "team": "Atlanta Braves",
-"prob": 12.0,
+"prob": 12.1,
 "mkt": 9.1,
 "fair": 7.1,
 "spot": null
@@ -203,7 +203,7 @@
 "id": 664034,
 "name": "Ty France",
 "team": "San Diego Padres",
-"prob": 11.7,
+"prob": 11.6,
 "mkt": 12.5,
 "fair": 9.7,
 "spot": null
@@ -214,9 +214,9 @@
 "id": 606192,
 "name": "Teoscar Hern\u00e1ndez",
 "team": "Los Angeles Dodgers",
-"prob": 11.3,
-"mkt": 12.9,
-"fair": 10.0,
+"prob": 11.4,
+"mkt": 12.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-10-06|849826|592885": {
@@ -225,7 +225,7 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 10.3,
+"prob": 10.2,
 "mkt": 11.1,
 "fair": 8.6,
 "spot": null
@@ -236,7 +236,7 @@
 "id": 593428,
 "name": "Xander Bogaerts",
 "team": "San Diego Padres",
-"prob": 10.1,
+"prob": 10.0,
 "mkt": 9.1,
 "fair": 7.1,
 "spot": null
@@ -247,7 +247,7 @@
 "id": 669242,
 "name": "Tommy Edman",
 "team": "Los Angeles Dodgers",
-"prob": 9.7,
+"prob": 9.8,
 "mkt": 9.1,
 "fair": 7.1,
 "spot": null
@@ -258,9 +258,9 @@
 "id": 669003,
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
-"prob": 9.5,
-"mkt": 12.9,
-"fair": 10.0,
+"prob": 9.4,
+"mkt": 12.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-10-06|849819|663656": {
@@ -269,7 +269,7 @@
 "id": 663656,
 "name": "Kyle Tucker",
 "team": "Los Angeles Dodgers",
-"prob": 9.4,
+"prob": 9.5,
 "mkt": 11.4,
 "fair": 8.9,
 "spot": null
@@ -280,7 +280,7 @@
 "id": 687401,
 "name": "Joey Ortiz",
 "team": "Milwaukee Brewers",
-"prob": 9.3,
+"prob": 9.2,
 "mkt": 10.0,
 "fair": 7.8,
 "spot": null
@@ -291,9 +291,9 @@
 "id": 669134,
 "name": "Luis Campusano",
 "team": "San Diego Padres",
-"prob": 9.2,
-"mkt": 14.3,
-"fair": 11.1,
+"prob": 9.1,
+"mkt": 14.8,
+"fair": 11.5,
 "spot": null
 },
 "2026-10-06|849819|645277": {
@@ -302,7 +302,7 @@
 "id": 645277,
 "name": "Ozzie Albies",
 "team": "Atlanta Braves",
-"prob": 8.0,
+"prob": 8.1,
 "mkt": 10.0,
 "fair": 7.8,
 "spot": null
@@ -313,7 +313,7 @@
 "id": 643289,
 "name": "Mauricio Dub\u00f3n",
 "team": "Atlanta Braves",
-"prob": 7.8,
+"prob": 7.9,
 "mkt": 6.2,
 "fair": 4.8,
 "spot": null
@@ -324,7 +324,7 @@
 "id": 630105,
 "name": "Jake Cronenworth",
 "team": "San Diego Padres",
-"prob": 7.4,
+"prob": 7.3,
 "mkt": 9.1,
 "fair": 7.1,
 "spot": null
@@ -335,7 +335,7 @@
 "id": 518692,
 "name": "Freddie Freeman",
 "team": "Los Angeles Dodgers",
-"prob": 7.3,
+"prob": 7.4,
 "mkt": 11.1,
 "fair": 8.6,
 "spot": null
@@ -357,7 +357,7 @@
 "id": 686217,
 "name": "Sal Frelick",
 "team": "Milwaukee Brewers",
-"prob": 3.9,
+"prob": 3.8,
 "mkt": 7.1,
 "fair": 5.5,
 "spot": null
