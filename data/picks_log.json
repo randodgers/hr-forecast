@@ -16,10 +16,10 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 20.3,
-"mkt": 20.4,
-"fair": 15.9,
-"spot": null
+"prob": 23.2,
+"mkt": 20.6,
+"fair": 16.0,
+"spot": 1
 },
 "2026-10-06|849819|621566": {
 "d": "2026-10-06",
@@ -60,10 +60,10 @@
 "id": 592518,
 "name": "Manny Machado",
 "team": "San Diego Padres",
-"prob": 15.5,
+"prob": 17.0,
 "mkt": 17.4,
 "fair": 13.6,
-"spot": null
+"spot": 3
 },
 "2026-10-06|849826|665487": {
 "d": "2026-10-06",
@@ -71,10 +71,10 @@
 "id": 665487,
 "name": "Fernando Tatis Jr.",
 "team": "San Diego Padres",
-"prob": 15.3,
-"mkt": 17.9,
-"fair": 13.9,
-"spot": null
+"prob": 17.5,
+"mkt": 17.4,
+"fair": 13.6,
+"spot": 1
 },
 "2026-10-06|849819|669257": {
 "d": "2026-10-06",
@@ -115,10 +115,10 @@
 "id": 668930,
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
-"prob": 14.0,
+"prob": 15.1,
 "mkt": 11.8,
 "fair": 9.2,
-"spot": null
+"spot": 4
 },
 "2026-10-06|849826|701538": {
 "d": "2026-10-06",
@@ -126,10 +126,10 @@
 "id": 701538,
 "name": "Jackson Merrill",
 "team": "San Diego Padres",
-"prob": 13.9,
+"prob": 15.6,
 "mkt": 17.4,
 "fair": 13.6,
-"spot": null
+"spot": 2
 },
 "2026-10-06|849819|660271": {
 "d": "2026-10-06",
@@ -159,10 +159,10 @@
 "id": 641343,
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
-"prob": 13.3,
-"mkt": 18.5,
-"fair": 14.4,
-"spot": null
+"prob": 15.0,
+"mkt": 19.2,
+"fair": 15.0,
+"spot": 2
 },
 "2026-10-06|849819|571970": {
 "d": "2026-10-06",
@@ -181,10 +181,10 @@
 "id": 661388,
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
-"prob": 12.4,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 13.6,
+"mkt": 16.0,
+"fair": 12.5,
+"spot": 3
 },
 "2026-10-06|849819|573262": {
 "d": "2026-10-06",
@@ -203,10 +203,10 @@
 "id": 664034,
 "name": "Ty France",
 "team": "San Diego Padres",
-"prob": 11.6,
-"mkt": 12.1,
-"fair": 9.4,
-"spot": null
+"prob": 12.5,
+"mkt": 12.5,
+"fair": 9.7,
+"spot": 4
 },
 "2026-10-06|849819|606192": {
 "d": "2026-10-06",
@@ -225,10 +225,10 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 10.2,
-"mkt": 10.5,
-"fair": 8.2,
-"spot": null
+"prob": 10.7,
+"mkt": 11.1,
+"fair": 8.6,
+"spot": 5
 },
 "2026-10-06|849826|593428": {
 "d": "2026-10-06",
@@ -237,9 +237,9 @@
 "name": "Xander Bogaerts",
 "team": "San Diego Padres",
 "prob": 10.0,
-"mkt": 8.3,
-"fair": 6.5,
-"spot": null
+"mkt": 9.1,
+"fair": 7.1,
+"spot": 7
 },
 "2026-10-06|849819|669242": {
 "d": "2026-10-06",
@@ -258,10 +258,10 @@
 "id": 669003,
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
-"prob": 9.4,
-"mkt": 11.8,
-"fair": 9.2,
-"spot": null
+"prob": 9.6,
+"mkt": 10.0,
+"fair": 7.8,
+"spot": 6
 },
 "2026-10-06|849819|663656": {
 "d": "2026-10-06",
@@ -280,10 +280,10 @@
 "id": 687401,
 "name": "Joey Ortiz",
 "team": "Milwaukee Brewers",
-"prob": 9.2,
-"mkt": 9.1,
-"fair": 7.1,
-"spot": null
+"prob": 8.7,
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 9
 },
 "2026-10-06|849826|669134": {
 "d": "2026-10-06",
@@ -324,10 +324,10 @@
 "id": 630105,
 "name": "Jake Cronenworth",
 "team": "San Diego Padres",
-"prob": 7.3,
+"prob": 6.9,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 9
 },
 "2026-10-06|849819|518692": {
 "d": "2026-10-06",
@@ -347,9 +347,9 @@
 "name": "Cooper Pratt",
 "team": "Milwaukee Brewers",
 "prob": 5.3,
-"mkt": 7.7,
-"fair": 6.0,
-"spot": null
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 7
 },
 "2026-10-06|849826|686217": {
 "d": "2026-10-06",
@@ -357,10 +357,10 @@
 "id": 686217,
 "name": "Sal Frelick",
 "team": "Milwaukee Brewers",
-"prob": 3.8,
+"prob": 3.7,
 "mkt": 6.2,
 "fair": 4.8,
-"spot": null
+"spot": 8
 },
 "2026-10-06|849826|687957": {
 "d": "2026-10-06",
@@ -368,10 +368,10 @@
 "id": 687957,
 "name": "Dustin Harris",
 "team": "San Diego Padres",
-"prob": 3.4,
-"mkt": 7.7,
-"fair": 6.0,
-"spot": null
+"prob": 3.3,
+"mkt": 6.2,
+"fair": 4.8,
+"spot": 8
 },
 "2026-10-06|849819|571771": {
 "d": "2026-10-06",
@@ -416,5 +416,27 @@
 "mkt": 6.7,
 "fair": 5.2,
 "spot": 9
+},
+"2026-10-06|849826|657757": {
+"d": "2026-10-06",
+"g": 849826,
+"id": 657757,
+"name": "Gavin Sheets",
+"team": "San Diego Padres",
+"prob": 16.4,
+"mkt": 12.1,
+"fair": 9.4,
+"spot": 6
+},
+"2026-10-06|849826|806956": {
+"d": "2026-10-06",
+"g": 849826,
+"id": 806956,
+"name": "Ethan Salas",
+"team": "San Diego Padres",
+"prob": 10.8,
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 5
 }
 }
