@@ -16,10 +16,10 @@
 "id": 700250,
 "name": "Ben Rice",
 "team": "New York Yankees",
-"prob": 26.1,
-"mkt": 24.4,
-"fair": 19.0,
-"spot": null
+"prob": 28.2,
+"mkt": 23.8,
+"fair": 18.5,
+"spot": 2
 },
 "2026-10-07|849822|660670": {
 "d": "2026-10-07",
@@ -93,10 +93,10 @@
 "id": 671277,
 "name": "Luis Garc\u00eda Jr.",
 "team": "New York Yankees",
-"prob": 19.4,
-"mkt": 17.9,
-"fair": 13.9,
-"spot": null
+"prob": 20.7,
+"mkt": 18.9,
+"fair": 14.7,
+"spot": 3
 },
 "2026-10-07|849838|682987": {
 "d": "2026-10-07",
@@ -104,10 +104,10 @@
 "id": 682987,
 "name": "Spencer Jones",
 "team": "New York Yankees",
-"prob": 19.4,
+"prob": 18.4,
 "mkt": 16.0,
 "fair": 12.4,
-"spot": null
+"spot": 8
 },
 "2026-10-07|849822|686948": {
 "d": "2026-10-07",
@@ -126,10 +126,10 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 21.1,
+"prob": 23.9,
 "mkt": 17.4,
 "fair": 13.5,
-"spot": null
+"spot": 1
 },
 "2026-10-07|849822|571970": {
 "d": "2026-10-07",
@@ -159,10 +159,10 @@
 "id": 665487,
 "name": "Fernando Tatis Jr.",
 "team": "San Diego Padres",
-"prob": 17.6,
-"mkt": 19.6,
-"fair": 15.2,
-"spot": null
+"prob": 25.3,
+"mkt": 20.0,
+"fair": 15.6,
+"spot": 1
 },
 "2026-10-07|849822|681624": {
 "d": "2026-10-07",
@@ -192,10 +192,10 @@
 "id": 592518,
 "name": "Manny Machado",
 "team": "San Diego Padres",
-"prob": 16.5,
+"prob": 18.4,
 "mkt": 17.9,
 "fair": 13.9,
-"spot": null
+"spot": 3
 },
 "2026-10-07|849838|669224": {
 "d": "2026-10-07",
@@ -203,10 +203,10 @@
 "id": 669224,
 "name": "Austin Wells",
 "team": "New York Yankees",
-"prob": 16.4,
-"mkt": 17.4,
-"fair": 13.5,
-"spot": null
+"prob": 16.3,
+"mkt": 17.9,
+"fair": 13.9,
+"spot": 6
 },
 "2026-10-07|849838|806146": {
 "d": "2026-10-07",
@@ -214,10 +214,10 @@
 "id": 806146,
 "name": "George Lombard Jr.",
 "team": "New York Yankees",
-"prob": 16.3,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 16.6,
+"mkt": 11.4,
+"fair": 8.9,
+"spot": 5
 },
 "2026-10-07|849833|682657": {
 "d": "2026-10-07",
@@ -247,10 +247,10 @@
 "id": 641355,
 "name": "Cody Bellinger",
 "team": "New York Yankees",
-"prob": 14.4,
-"mkt": 16.7,
-"fair": 13.0,
-"spot": null
+"prob": 15.1,
+"mkt": 15.4,
+"fair": 12.0,
+"spot": 4
 },
 "2026-10-07|849827|641343": {
 "d": "2026-10-07",
@@ -258,10 +258,10 @@
 "id": 641343,
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
-"prob": 14.6,
-"mkt": 17.4,
-"fair": 13.5,
-"spot": null
+"prob": 15.2,
+"mkt": 16.0,
+"fair": 12.4,
+"spot": 5
 },
 "2026-10-07|849827|668930": {
 "d": "2026-10-07",
@@ -269,10 +269,10 @@
 "id": 668930,
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
-"prob": 15.4,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 16.4,
+"mkt": 9.1,
+"fair": 7.1,
+"spot": 4
 },
 "2026-10-07|849827|701538": {
 "d": "2026-10-07",
@@ -280,10 +280,10 @@
 "id": 701538,
 "name": "Jackson Merrill",
 "team": "San Diego Padres",
-"prob": 14.0,
+"prob": 14.4,
 "mkt": 16.7,
 "fair": 13.0,
-"spot": null
+"spot": 2
 },
 "2026-10-07|849838|641857": {
 "d": "2026-10-07",
@@ -313,10 +313,10 @@
 "id": 663757,
 "name": "Trent Grisham",
 "team": "New York Yankees",
-"prob": 13.4,
-"mkt": 19.2,
-"fair": 14.9,
-"spot": null
+"prob": 15.0,
+"mkt": 22.2,
+"fair": 17.3,
+"spot": 1
 },
 "2026-10-07|849822|573262": {
 "d": "2026-10-07",
@@ -335,10 +335,10 @@
 "id": 664034,
 "name": "Ty France",
 "team": "San Diego Padres",
-"prob": 12.7,
-"mkt": 12.9,
-"fair": 10.0,
-"spot": null
+"prob": 14.6,
+"mkt": 13.3,
+"fair": 10.3,
+"spot": 4
 },
 "2026-10-07|849833|695657": {
 "d": "2026-10-07",
@@ -379,10 +379,10 @@
 "id": 661388,
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
-"prob": 13.5,
-"mkt": 12.9,
-"fair": 10.0,
-"spot": null
+"prob": 14.7,
+"mkt": 13.8,
+"fair": 10.7,
+"spot": 3
 },
 "2026-10-07|849833|672275": {
 "d": "2026-10-07",
@@ -401,10 +401,10 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 11.1,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 12.4,
+"mkt": 10.5,
+"fair": 8.2,
+"spot": 2
 },
 "2026-10-07|849827|593428": {
 "d": "2026-10-07",
@@ -412,10 +412,10 @@
 "id": 593428,
 "name": "Xander Bogaerts",
 "team": "San Diego Padres",
-"prob": 11.1,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 10.0,
+"mkt": 10.0,
+"fair": 7.8,
+"spot": 6
 },
 "2026-10-07|849838|691406": {
 "d": "2026-10-07",
@@ -423,10 +423,10 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 11.2,
-"mkt": 18.5,
-"fair": 14.4,
-"spot": null
+"prob": 11.9,
+"mkt": 19.6,
+"fair": 15.2,
+"spot": 3
 },
 "2026-10-07|849827|669134": {
 "d": "2026-10-07",
@@ -434,10 +434,10 @@
 "id": 669134,
 "name": "Luis Campusano",
 "team": "San Diego Padres",
-"prob": 11.0,
-"mkt": 11.1,
-"fair": 8.6,
-"spot": null
+"prob": 11.7,
+"mkt": 10.8,
+"fair": 8.4,
+"spot": 7
 },
 "2026-10-07|849833|805367": {
 "d": "2026-10-07",
@@ -478,10 +478,10 @@
 "id": 669003,
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
-"prob": 10.2,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 9.9,
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 8
 },
 "2026-10-07|849833|800050": {
 "d": "2026-10-07",
@@ -500,10 +500,10 @@
 "id": 683748,
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
-"prob": 9.4,
-"mkt": 14.3,
-"fair": 11.1,
-"spot": null
+"prob": 9.8,
+"mkt": 15.4,
+"fair": 12.0,
+"spot": 4
 },
 "2026-10-07|849827|630105": {
 "d": "2026-10-07",
@@ -511,10 +511,10 @@
 "id": 630105,
 "name": "Jake Cronenworth",
 "team": "San Diego Padres",
-"prob": 9.2,
-"mkt": 8.3,
-"fair": 6.5,
-"spot": null
+"prob": 6.7,
+"mkt": 7.7,
+"fair": 6.0,
+"spot": 8
 },
 "2026-10-07|849833|663993": {
 "d": "2026-10-07",
@@ -577,10 +577,10 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 7.4,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 8.3,
+"mkt": 10.0,
+"fair": 7.8,
+"spot": 1
 },
 "2026-10-07|849838|666018": {
 "d": "2026-10-07",
@@ -588,10 +588,10 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 7.2,
-"mkt": 12.5,
-"fair": 9.7,
-"spot": null
+"prob": 7.9,
+"mkt": 12.9,
+"fair": 10.0,
+"spot": 2
 },
 "2026-10-07|849833|683953": {
 "d": "2026-10-07",
@@ -621,10 +621,10 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 6.1,
-"mkt": 7.7,
-"fair": 6.0,
-"spot": null
+"prob": 6.0,
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 7
 },
 "2026-10-07|849827|806198": {
 "d": "2026-10-07",
@@ -632,10 +632,10 @@
 "id": 806198,
 "name": "Cooper Pratt",
 "team": "Milwaukee Brewers",
-"prob": 5.6,
-"mkt": 7.1,
-"fair": 5.5,
-"spot": null
+"prob": 5.7,
+"mkt": 6.2,
+"fair": 4.8,
+"spot": 6
 },
 "2026-10-07|849827|666152": {
 "d": "2026-10-07",
@@ -655,9 +655,9 @@
 "name": "Sal Frelick",
 "team": "Milwaukee Brewers",
 "prob": 4.1,
-"mkt": 7.1,
-"fair": 5.5,
-"spot": null
+"mkt": 6.2,
+"fair": 4.8,
+"spot": 7
 },
 "2026-10-07|849827|687957": {
 "d": "2026-10-07",
@@ -679,7 +679,7 @@
 "prob": 4.9,
 "mkt": 6.2,
 "fair": 4.8,
-"spot": null
+"spot": 6
 },
 "2026-10-07|849838|810938": {
 "d": "2026-10-07",
@@ -698,10 +698,10 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 2.0,
-"mkt": 5.9,
-"fair": 4.6,
-"spot": null
+"prob": 1.8,
+"mkt": 5.3,
+"fair": 4.1,
+"spot": 9
 },
 "2026-10-07|849833|680757": {
 "d": "2026-10-07",
@@ -742,10 +742,10 @@
 "id": 687401,
 "name": "Joey Ortiz",
 "team": "Milwaukee Brewers",
-"prob": 9.9,
+"prob": 9.3,
 "mkt": 7.1,
 "fair": 5.5,
-"spot": null
+"spot": 9
 },
 "2026-10-07|849838|668723": {
 "d": "2026-10-07",
@@ -753,10 +753,10 @@
 "id": 668723,
 "name": "Ryan Vilade",
 "team": "Tampa Bay Rays",
-"prob": 7.5,
-"mkt": 11.4,
-"fair": 8.9,
-"spot": null
+"prob": 7.7,
+"mkt": 10.3,
+"fair": 8.0,
+"spot": 5
 },
 "2026-10-07|849833|671976": {
 "d": "2026-10-07",
@@ -779,5 +779,60 @@
 "mkt": 11.1,
 "fair": 8.6,
 "spot": 1
+},
+"2026-10-07|849827|669720": {
+"d": "2026-10-07",
+"g": 849827,
+"id": 669720,
+"name": "Austin Hays",
+"team": "San Diego Padres",
+"prob": 14.0,
+"mkt": 11.8,
+"fair": 9.2,
+"spot": 5
+},
+"2026-10-07|849838|676609": {
+"d": "2026-10-07",
+"g": 849838,
+"id": 676609,
+"name": "Jos\u00e9 Caballero",
+"team": "New York Yankees",
+"prob": 9.5,
+"mkt": 9.1,
+"fair": 7.1,
+"spot": 9
+},
+"2026-10-07|849827|669392": {
+"d": "2026-10-07",
+"g": 849827,
+"id": 669392,
+"name": "Samad Taylor",
+"team": "San Diego Padres",
+"prob": 7.2,
+"mkt": 6.2,
+"fair": 4.8,
+"spot": 9
+},
+"2026-10-07|849838|683011": {
+"d": "2026-10-07",
+"g": 849838,
+"id": 683011,
+"name": "Anthony Volpe",
+"team": "New York Yankees",
+"prob": 5.0,
+"mkt": 10.3,
+"fair": 8.0,
+"spot": 7
+},
+"2026-10-07|849838|680700": {
+"d": "2026-10-07",
+"g": 849838,
+"id": 680700,
+"name": "Richie Palacios",
+"team": "Tampa Bay Rays",
+"prob": 3.9,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": 8
 }
 }
