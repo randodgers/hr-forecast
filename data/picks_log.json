@@ -6,8 +6,8 @@
 "name": "Munetaka Murakami",
 "team": "Chicago White Sox",
 "prob": 18.2,
-"mkt": 21.3,
-"fair": 16.5,
+"mkt": 21.7,
+"fair": 16.8,
 "spot": null
 },
 "2026-10-08|849832|545341": {
@@ -16,9 +16,9 @@
 "id": 545341,
 "name": "Randal Grichuk",
 "team": "Chicago White Sox",
-"prob": 15.8,
-"mkt": 17.4,
-"fair": 13.5,
+"prob": 15.7,
+"mkt": 13.8,
+"fair": 10.7,
 "spot": null
 },
 "2026-10-08|849832|678246": {
@@ -28,8 +28,8 @@
 "name": "Miguel Vargas",
 "team": "Chicago White Sox",
 "prob": 14.0,
-"mkt": 18.5,
-"fair": 14.4,
+"mkt": 18.9,
+"fair": 14.7,
 "spot": null
 },
 "2026-10-08|849832|686668": {
@@ -49,9 +49,9 @@
 "id": 695657,
 "name": "Colson Montgomery",
 "team": "Chicago White Sox",
-"prob": 10.2,
-"mkt": 17.9,
-"fair": 13.9,
+"prob": 10.1,
+"mkt": 18.5,
+"fair": 14.4,
 "spot": null
 },
 "2026-10-08|849832|682657": {
@@ -61,8 +61,8 @@
 "name": "Angel Mart\u00ednez",
 "team": "Cleveland Guardians",
 "prob": 9.8,
-"mkt": 10.3,
-"fair": 8.0,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": null
 },
 "2026-10-08|849832|805367": {
@@ -83,8 +83,8 @@
 "name": "Chase DeLauter",
 "team": "Cleveland Guardians",
 "prob": 7.6,
-"mkt": 12.9,
-"fair": 10.0,
+"mkt": 12.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-10-08|849832|672275": {
@@ -94,8 +94,8 @@
 "name": "Patrick Bailey",
 "team": "Cleveland Guardians",
 "prob": 7.3,
-"mkt": 12.1,
-"fair": 9.4,
+"mkt": 11.1,
+"fair": 8.6,
 "spot": null
 },
 "2026-10-08|849832|663993": {
@@ -116,8 +116,8 @@
 "name": "Jo Adell",
 "team": "Cleveland Guardians",
 "prob": 6.8,
-"mkt": 17.4,
-"fair": 13.5,
+"mkt": 16.0,
+"fair": 12.4,
 "spot": null
 },
 "2026-10-08|849832|677587": {
@@ -149,8 +149,8 @@
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
 "prob": 4.7,
-"mkt": 16.0,
-"fair": 12.4,
+"mkt": 15.4,
+"fair": 12.0,
 "spot": null
 },
 "2026-10-08|849832|695731": {
@@ -160,8 +160,8 @@
 "name": "Braden Montgomery",
 "team": "Chicago White Sox",
 "prob": 4.1,
-"mkt": 9.1,
-"fair": 7.1,
+"mkt": 8.3,
+"fair": 6.4,
 "spot": null
 },
 "2026-10-08|849832|680757": {
