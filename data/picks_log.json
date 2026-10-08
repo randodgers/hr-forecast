@@ -5,10 +5,10 @@
 "id": 808959,
 "name": "Munetaka Murakami",
 "team": "Chicago White Sox",
-"prob": 18.2,
-"mkt": 21.7,
-"fair": 16.8,
-"spot": null
+"prob": 19.1,
+"mkt": 21.3,
+"fair": 16.5,
+"spot": 4
 },
 "2026-10-08|849832|545341": {
 "d": "2026-10-08",
@@ -16,10 +16,10 @@
 "id": 545341,
 "name": "Randal Grichuk",
 "team": "Chicago White Sox",
-"prob": 15.7,
-"mkt": 13.8,
-"fair": 10.7,
-"spot": null
+"prob": 17.3,
+"mkt": 16.0,
+"fair": 12.4,
+"spot": 2
 },
 "2026-10-08|849832|678246": {
 "d": "2026-10-08",
@@ -27,10 +27,10 @@
 "id": 678246,
 "name": "Miguel Vargas",
 "team": "Chicago White Sox",
-"prob": 14.0,
-"mkt": 18.9,
-"fair": 14.7,
-"spot": null
+"prob": 15.0,
+"mkt": 18.5,
+"fair": 14.4,
+"spot": 3
 },
 "2026-10-08|849832|686668": {
 "d": "2026-10-08",
@@ -39,9 +39,9 @@
 "name": "Brenton Doyle",
 "team": "Chicago White Sox",
 "prob": 10.4,
-"mkt": 12.9,
-"fair": 10.0,
-"spot": null
+"mkt": 12.5,
+"fair": 9.7,
+"spot": 6
 },
 "2026-10-08|849832|695657": {
 "d": "2026-10-08",
@@ -49,10 +49,10 @@
 "id": 695657,
 "name": "Colson Montgomery",
 "team": "Chicago White Sox",
-"prob": 10.1,
-"mkt": 18.5,
-"fair": 14.4,
-"spot": null
+"prob": 9.4,
+"mkt": 17.4,
+"fair": 13.5,
+"spot": 9
 },
 "2026-10-08|849832|682657": {
 "d": "2026-10-08",
@@ -61,9 +61,9 @@
 "name": "Angel Mart\u00ednez",
 "team": "Cleveland Guardians",
 "prob": 9.8,
-"mkt": 10.0,
-"fair": 7.8,
-"spot": null
+"mkt": 11.1,
+"fair": 8.6,
+"spot": 6
 },
 "2026-10-08|849832|805367": {
 "d": "2026-10-08",
@@ -71,10 +71,10 @@
 "id": 805367,
 "name": "Chase Meidroth",
 "team": "Chicago White Sox",
-"prob": 8.4,
+"prob": 9.5,
 "mkt": 7.1,
 "fair": 5.5,
-"spot": null
+"spot": 1
 },
 "2026-10-08|849832|800050": {
 "d": "2026-10-08",
@@ -82,10 +82,10 @@
 "id": 800050,
 "name": "Chase DeLauter",
 "team": "Cleveland Guardians",
-"prob": 7.6,
-"mkt": 12.5,
-"fair": 9.7,
-"spot": null
+"prob": 8.2,
+"mkt": 11.8,
+"fair": 9.2,
+"spot": 3
 },
 "2026-10-08|849832|672275": {
 "d": "2026-10-08",
@@ -104,10 +104,10 @@
 "id": 663993,
 "name": "Nathaniel Lowe",
 "team": "Cleveland Guardians",
-"prob": 6.9,
-"mkt": 12.5,
-"fair": 9.7,
-"spot": null
+"prob": 7.1,
+"mkt": 11.1,
+"fair": 8.6,
+"spot": 5
 },
 "2026-10-08|849832|666176": {
 "d": "2026-10-08",
@@ -115,10 +115,10 @@
 "id": 666176,
 "name": "Jo Adell",
 "team": "Cleveland Guardians",
-"prob": 6.8,
-"mkt": 16.0,
-"fair": 12.4,
-"spot": null
+"prob": 7.2,
+"mkt": 17.4,
+"fair": 13.5,
+"spot": 4
 },
 "2026-10-08|849832|677587": {
 "d": "2026-10-08",
@@ -126,10 +126,10 @@
 "id": 677587,
 "name": "Brayan Rocchio",
 "team": "Cleveland Guardians",
-"prob": 5.2,
+"prob": 4.8,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 9
 },
 "2026-10-08|849832|683953": {
 "d": "2026-10-08",
@@ -137,10 +137,10 @@
 "id": 683953,
 "name": "Travis Bazzana",
 "team": "Cleveland Guardians",
-"prob": 4.9,
+"prob": 4.8,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 7
 },
 "2026-10-08|849832|608070": {
 "d": "2026-10-08",
@@ -148,10 +148,10 @@
 "id": 608070,
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
-"prob": 4.7,
-"mkt": 15.4,
-"fair": 12.0,
-"spot": null
+"prob": 5.2,
+"mkt": 16.0,
+"fair": 12.4,
+"spot": 2
 },
 "2026-10-08|849832|695731": {
 "d": "2026-10-08",
@@ -159,10 +159,10 @@
 "id": 695731,
 "name": "Braden Montgomery",
 "team": "Chicago White Sox",
-"prob": 4.1,
+"prob": 3.9,
 "mkt": 8.3,
 "fair": 6.4,
-"spot": null
+"spot": 8
 },
 "2026-10-08|849832|680757": {
 "d": "2026-10-08",
@@ -170,9 +170,42 @@
 "id": 680757,
 "name": "Steven Kwan",
 "team": "Cleveland Guardians",
-"prob": 0.9,
+"prob": 1.0,
 "mkt": 5.3,
 "fair": 4.1,
-"spot": null
+"spot": 1
+},
+"2026-10-08|849832|502054": {
+"d": "2026-10-08",
+"g": 849832,
+"id": 502054,
+"name": "Tommy Pham",
+"team": "Chicago White Sox",
+"prob": 8.2,
+"mkt": 10.0,
+"fair": 7.8,
+"spot": 5
+},
+"2026-10-08|849832|691019": {
+"d": "2026-10-08",
+"g": 849832,
+"id": 691019,
+"name": "Kyle Teel",
+"team": "Chicago White Sox",
+"prob": 6.9,
+"mkt": 10.3,
+"fair": 8.0,
+"spot": 7
+},
+"2026-10-08|849832|595978": {
+"d": "2026-10-08",
+"g": 849832,
+"id": 595978,
+"name": "Austin Hedges",
+"team": "Cleveland Guardians",
+"prob": 4.4,
+"mkt": 7.7,
+"fair": 6.0,
+"spot": 8
 }
 }
