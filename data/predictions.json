@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-13T11:20:17+00:00",
+ "generatedAtUtc": "2026-10-13T19:41:52+00:00",
  "date": "2026-10-13",
  "gameCount": 1,
  "parks": [
@@ -13,12 +13,12 @@
    "roof": "Dome",
    "roofClosed": true,
    "hrfi": 5.0,
-   "tempF": 75.0,
-   "windMph": 4.7,
-   "windFromDeg": 1,
+   "tempF": 76.0,
+   "windMph": 6.2,
+   "windFromDeg": 357,
    "windOutMph": 0.0,
-   "humidityPct": 83,
-   "cloudPct": 4,
+   "humidityPct": 81,
+   "cloudPct": 0,
    "parkFactorHR": 100,
    "elevationFt": 15
   }
