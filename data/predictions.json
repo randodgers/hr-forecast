@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-13T02:47:52+00:00",
+ "generatedAtUtc": "2026-10-13T11:20:17+00:00",
  "date": "2026-10-13",
  "gameCount": 1,
  "parks": [
@@ -15,10 +15,10 @@
    "hrfi": 5.0,
    "tempF": 75.0,
    "windMph": 4.7,
-   "windFromDeg": 353,
+   "windFromDeg": 1,
    "windOutMph": 0.0,
    "humidityPct": 83,
-   "cloudPct": 2,
+   "cloudPct": 4,
    "parkFactorHR": 100,
    "elevationFt": 15
   }
@@ -863,6 +863,6 @@
  },
  "marketDevig": {
   "factor": 0.776,
-  "calibratedOn": 9689
+  "calibratedOn": 9706
  }
 }
