@@ -1,1 +1,189 @@
-{}
+{
+"2026-10-14|849811|605141": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 605141,
+"name": "Mookie Betts",
+"team": "Los Angeles Dodgers",
+"prob": 26.8,
+"mkt": 17.4,
+"fair": 13.5,
+"spot": null
+},
+"2026-10-14|849811|669257": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 669257,
+"name": "Will Smith",
+"team": "Los Angeles Dodgers",
+"prob": 25.7,
+"mkt": 16.7,
+"fair": 13.0,
+"spot": null
+},
+"2026-10-14|849811|681624": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 681624,
+"name": "Andy Pages",
+"team": "Los Angeles Dodgers",
+"prob": 24.2,
+"mkt": 15.4,
+"fair": 12.0,
+"spot": null
+},
+"2026-10-14|849811|660271": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 660271,
+"name": "Shohei Ohtani",
+"team": "Los Angeles Dodgers",
+"prob": 22.7,
+"mkt": 17.4,
+"fair": 13.5,
+"spot": null
+},
+"2026-10-14|849811|606192": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 606192,
+"name": "Teoscar Hern\u00e1ndez",
+"team": "Los Angeles Dodgers",
+"prob": 18.5,
+"mkt": 17.9,
+"fair": 13.9,
+"spot": null
+},
+"2026-10-14|849811|694192": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 694192,
+"name": "Jackson Chourio",
+"team": "Milwaukee Brewers",
+"prob": 15.9,
+"mkt": 15.4,
+"fair": 12.0,
+"spot": null
+},
+"2026-10-14|849811|500743": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 500743,
+"name": "Miguel Rojas",
+"team": "Los Angeles Dodgers",
+"prob": 15.0,
+"mkt": 10.3,
+"fair": 8.0,
+"spot": null
+},
+"2026-10-14|849811|663656": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 663656,
+"name": "Kyle Tucker",
+"team": "Los Angeles Dodgers",
+"prob": 14.8,
+"mkt": 11.4,
+"fair": 8.8,
+"spot": null
+},
+"2026-10-14|849811|641343": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 641343,
+"name": "Jake Bauers",
+"team": "Milwaukee Brewers",
+"prob": 13.1,
+"mkt": 11.1,
+"fair": 8.6,
+"spot": null
+},
+"2026-10-14|849811|518692": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 518692,
+"name": "Freddie Freeman",
+"team": "Los Angeles Dodgers",
+"prob": 11.1,
+"mkt": 11.8,
+"fair": 9.2,
+"spot": null
+},
+"2026-10-14|849811|668930": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 668930,
+"name": "Brice Turang",
+"team": "Milwaukee Brewers",
+"prob": 10.0,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": null
+},
+"2026-10-14|849811|661388": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 661388,
+"name": "William Contreras",
+"team": "Milwaukee Brewers",
+"prob": 8.1,
+"mkt": 12.1,
+"fair": 9.4,
+"spot": null
+},
+"2026-10-14|849811|669003": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 669003,
+"name": "Garrett Mitchell",
+"team": "Milwaukee Brewers",
+"prob": 7.3,
+"mkt": 8.3,
+"fair": 6.4,
+"spot": null
+},
+"2026-10-14|849811|687401": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 687401,
+"name": "Joey Ortiz",
+"team": "Milwaukee Brewers",
+"prob": 5.5,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": null
+},
+"2026-10-14|849811|683734": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 683734,
+"name": "Andrew Vaughn",
+"team": "Milwaukee Brewers",
+"prob": 5.3,
+"mkt": 8.3,
+"fair": 6.4,
+"spot": null
+},
+"2026-10-14|849811|806198": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 806198,
+"name": "Cooper Pratt",
+"team": "Milwaukee Brewers",
+"prob": 4.3,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": null
+},
+"2026-10-14|849811|800325": {
+"d": "2026-10-14",
+"g": 849811,
+"id": 800325,
+"name": "Luis Lara",
+"team": "Milwaukee Brewers",
+"prob": 3.5,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": null
+}
+}
