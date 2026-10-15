@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-15T05:28:18+00:00",
+ "generatedAtUtc": "2026-10-15T14:36:22+00:00",
  "date": "2026-10-15",
  "gameCount": 2,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "day",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 7.7,
-   "tempF": 89.4,
-   "windMph": 2.3,
-   "windFromDeg": 274,
-   "windOutMph": 0.5,
-   "humidityPct": 14,
+   "hrfi": 8.2,
+   "tempF": 86.6,
+   "windMph": 6.5,
+   "windFromDeg": 198,
+   "windOutMph": 3.9,
+   "humidityPct": 19,
    "cloudPct": 0,
    "parkFactorHR": 127,
    "elevationFt": 515
@@ -31,13 +31,13 @@
    "dayNight": "day",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 3.9,
-   "tempF": 62.0,
-   "windMph": 2.6,
-   "windFromDeg": 115,
-   "windOutMph": 0.7,
-   "humidityPct": 76,
-   "cloudPct": 19,
+   "hrfi": 4.2,
+   "tempF": 62.3,
+   "windMph": 5.0,
+   "windFromDeg": 126,
+   "windOutMph": 1.8,
+   "humidityPct": 75,
+   "cloudPct": 21,
    "parkFactorHR": 85,
    "elevationFt": 653
   }
@@ -59,7 +59,7 @@
    "l10Hr": 3,
    "l10Pa": 41,
    "brlPa": 8.7,
-   "probPct": 24.2,
+   "probPct": 24.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -72,7 +72,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -91,7 +91,7 @@
    "l10Hr": 3,
    "l10Pa": 45,
    "brlPa": 6.3,
-   "probPct": 23.8,
+   "probPct": 24.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -104,7 +104,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -123,7 +123,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 8.4,
-   "probPct": 23.0,
+   "probPct": 23.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -136,7 +136,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 1.001,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -155,7 +155,7 @@
    "l10Hr": 0,
    "l10Pa": 45,
    "brlPa": 9.9,
-   "probPct": 21.3,
+   "probPct": 21.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -168,7 +168,39 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
+   }
+  },
+  {
+   "name": "Junior Caminero",
+   "bats": "R",
+   "team": "Tampa Bay Rays",
+   "opponent": "Cleveland Guardians",
+   "pitcher": "Gavin Williams",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.37",
+   "platoonEdge": false,
+   "venue": "Progressive Field",
+   "lineupSpot": 3,
+   "seasonHr": 42,
+   "seasonPa": 702,
+   "l10Hr": 1,
+   "l10Pa": 38,
+   "brlPa": 9.1,
+   "probPct": 21.4,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 691406,
+   "factors": {
+    "batterRatePct": 5.82,
+    "formMult": 0.85,
+    "pitcherMult": 1.18,
+    "arsenalMult": 1.073,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
    }
   },
   {
@@ -187,7 +219,7 @@
    "l10Hr": 2,
    "l10Pa": 41,
    "brlPa": 5.6,
-   "probPct": 20.8,
+   "probPct": 21.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -200,7 +232,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -219,7 +251,7 @@
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 8.0,
-   "probPct": 20.4,
+   "probPct": 20.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -232,39 +264,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Junior Caminero",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 42,
-   "seasonPa": 702,
-   "l10Hr": 1,
-   "l10Pa": 38,
-   "brlPa": 9.1,
-   "probPct": 19.5,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 691406,
-   "factors": {
-    "batterRatePct": 5.82,
-    "formMult": 0.85,
-    "pitcherMult": 1.18,
-    "arsenalMult": 1.073,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -283,7 +283,7 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 4.7,
-   "probPct": 18.4,
+   "probPct": 18.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -296,7 +296,7 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.991,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -315,7 +315,7 @@
    "l10Hr": 0,
    "l10Pa": 42,
    "brlPa": 7.8,
-   "probPct": 17.4,
+   "probPct": 17.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -328,7 +328,7 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.99,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -347,7 +347,7 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 4.5,
-   "probPct": 17.2,
+   "probPct": 17.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -360,7 +360,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -379,7 +379,7 @@
    "l10Hr": 1,
    "l10Pa": 32,
    "brlPa": 5.1,
-   "probPct": 17.0,
+   "probPct": 17.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -392,7 +392,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 0.98,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -411,7 +411,7 @@
    "l10Hr": 1,
    "l10Pa": 41,
    "brlPa": 6.7,
-   "probPct": 16.3,
+   "probPct": 16.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -424,7 +424,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -443,7 +443,7 @@
    "l10Hr": 2,
    "l10Pa": 41,
    "brlPa": 3.6,
-   "probPct": 15.7,
+   "probPct": 16.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -456,7 +456,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -475,7 +475,7 @@
    "l10Hr": 1,
    "l10Pa": 43,
    "brlPa": 6.4,
-   "probPct": 14.5,
+   "probPct": 14.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -488,7 +488,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 0.967,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -507,7 +507,7 @@
    "l10Hr": 1,
    "l10Pa": 26,
    "brlPa": 4.0,
-   "probPct": 14.5,
+   "probPct": 14.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -520,39 +520,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Angel Mart\u00ednez",
-   "bats": "S",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.20",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 18,
-   "seasonPa": 416,
-   "l10Hr": 3,
-   "l10Pa": 39,
-   "brlPa": 5.3,
-   "probPct": 14.3,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 682657,
-   "factors": {
-    "batterRatePct": 3.65,
-    "formMult": 1.2,
-    "pitcherMult": 1.049,
-    "arsenalMult": 0.974,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -565,13 +533,13 @@
    "pitcherHr9": "1.37",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 4,
    "seasonHr": 14,
    "seasonPa": 262,
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 7.6,
-   "probPct": 13.6,
+   "probPct": 14.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -584,12 +552,44 @@
     "pitcherMult": 1.044,
     "arsenalMult": 0.981,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
-   "name": "Patrick Bailey",
-   "bats": "S",
+   "name": "Jonathan Aranda",
+   "bats": "L",
+   "team": "Tampa Bay Rays",
+   "opponent": "Cleveland Guardians",
+   "pitcher": "Gavin Williams",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.37",
+   "platoonEdge": true,
+   "venue": "Progressive Field",
+   "lineupSpot": 2,
+   "seasonHr": 22,
+   "seasonPa": 668,
+   "l10Hr": 1,
+   "l10Pa": 38,
+   "brlPa": 6.3,
+   "probPct": 13.7,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 666018,
+   "factors": {
+    "batterRatePct": 3.63,
+    "formMult": 0.926,
+    "pitcherMult": 1.044,
+    "arsenalMult": 1.073,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
+   }
+  },
+  {
+   "name": "Chase DeLauter",
+   "bats": "L",
    "team": "Cleveland Guardians",
    "opponent": "Tampa Bay Rays",
    "pitcher": "Griffin Jax",
@@ -597,26 +597,26 @@
    "pitcherHr9": "1.20",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 10,
-   "seasonPa": 345,
+   "lineupSpot": 3,
+   "seasonHr": 16,
+   "seasonPa": 559,
    "l10Hr": 2,
-   "l10Pa": 34,
-   "brlPa": 4.9,
-   "probPct": 13.0,
+   "l10Pa": 46,
+   "brlPa": 4.7,
+   "probPct": 13.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849818,
-   "playerId": 672275,
+   "playerId": 800050,
    "factors": {
-    "batterRatePct": 3.23,
+    "batterRatePct": 3.0,
     "formMult": 1.2,
     "pitcherMult": 1.049,
-    "arsenalMult": 0.998,
+    "arsenalMult": 1.01,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -635,7 +635,7 @@
    "l10Hr": 1,
    "l10Pa": 40,
    "brlPa": 6.0,
-   "probPct": 13.0,
+   "probPct": 13.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -648,7 +648,7 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.929,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -667,7 +667,7 @@
    "l10Hr": 0,
    "l10Pa": 43,
    "brlPa": 5.8,
-   "probPct": 13.0,
+   "probPct": 13.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -680,7 +680,39 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
+   }
+  },
+  {
+   "name": "Patrick Bailey",
+   "bats": "S",
+   "team": "Cleveland Guardians",
+   "opponent": "Tampa Bay Rays",
+   "pitcher": "Griffin Jax",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.20",
+   "platoonEdge": true,
+   "venue": "Progressive Field",
+   "lineupSpot": 7,
+   "seasonHr": 10,
+   "seasonPa": 345,
+   "l10Hr": 2,
+   "l10Pa": 34,
+   "brlPa": 4.9,
+   "probPct": 13.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 672275,
+   "factors": {
+    "batterRatePct": 3.23,
+    "formMult": 1.2,
+    "pitcherMult": 1.049,
+    "arsenalMult": 0.998,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
    }
   },
   {
@@ -693,7 +725,7 @@
    "pitcherHr9": "1.37",
    "platoonEdge": false,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 7,
    "seasonHr": 11,
    "seasonPa": 370,
    "l10Hr": 2,
@@ -712,71 +744,7 @@
     "pitcherMult": 1.18,
     "arsenalMult": 0.976,
     "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Chase DeLauter",
-   "bats": "L",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.20",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 16,
-   "seasonPa": 559,
-   "l10Hr": 2,
-   "l10Pa": 46,
-   "brlPa": 4.7,
-   "probPct": 12.3,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 800050,
-   "factors": {
-    "batterRatePct": 3.0,
-    "formMult": 1.2,
-    "pitcherMult": 1.049,
-    "arsenalMult": 1.01,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Jonathan Aranda",
-   "bats": "L",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 22,
-   "seasonPa": 668,
-   "l10Hr": 1,
-   "l10Pa": 38,
-   "brlPa": 6.3,
-   "probPct": 12.1,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 666018,
-   "factors": {
-    "batterRatePct": 3.63,
-    "formMult": 0.926,
-    "pitcherMult": 1.044,
-    "arsenalMult": 1.073,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -795,7 +763,7 @@
    "l10Hr": 0,
    "l10Pa": 39,
    "brlPa": 6.6,
-   "probPct": 12.0,
+   "probPct": 12.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -808,39 +776,39 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.994,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
-   "name": "David Fry",
+   "name": "Yandy D\u00edaz",
    "bats": "R",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
+   "team": "Tampa Bay Rays",
+   "opponent": "Cleveland Guardians",
+   "pitcher": "Gavin Williams",
    "pitcherHand": "R",
-   "pitcherHr9": "1.20",
+   "pitcherHr9": "1.37",
    "platoonEdge": false,
    "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 8,
-   "seasonPa": 214,
-   "l10Hr": 2,
-   "l10Pa": 30,
-   "brlPa": 3.7,
-   "probPct": 11.2,
+   "lineupSpot": 1,
+   "seasonHr": 22,
+   "seasonPa": 686,
+   "l10Hr": 0,
+   "l10Pa": 44,
+   "brlPa": 5.4,
+   "probPct": 12.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849818,
-   "playerId": 681807,
+   "playerId": 650490,
    "factors": {
-    "batterRatePct": 3.09,
-    "formMult": 1.2,
-    "pitcherMult": 0.975,
-    "arsenalMult": 0.96,
+    "batterRatePct": 2.98,
+    "formMult": 0.85,
+    "pitcherMult": 1.18,
+    "arsenalMult": 1.068,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -853,13 +821,13 @@
    "pitcherHr9": "1.20",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 5,
    "seasonHr": 17,
    "seasonPa": 429,
    "l10Hr": 0,
    "l10Pa": 27,
    "brlPa": 5.6,
-   "probPct": 11.1,
+   "probPct": 11.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -872,7 +840,7 @@
     "pitcherMult": 1.049,
     "arsenalMult": 1.001,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -891,7 +859,7 @@
    "l10Hr": 1,
    "l10Pa": 40,
    "brlPa": 2.9,
-   "probPct": 10.8,
+   "probPct": 11.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -904,39 +872,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 0.928,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Ryan Vilade",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 11,
-   "seasonPa": 278,
-   "l10Hr": 0,
-   "l10Pa": 36,
-   "brlPa": 4.7,
-   "probPct": 10.6,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 668723,
-   "factors": {
-    "batterRatePct": 3.26,
-    "formMult": 0.85,
-    "pitcherMult": 1.18,
-    "arsenalMult": 0.996,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -955,7 +891,7 @@
    "l10Hr": 0,
    "l10Pa": 34,
    "brlPa": 4.8,
-   "probPct": 10.5,
+   "probPct": 10.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -968,103 +904,7 @@
     "pitcherMult": 1.0,
     "arsenalMult": 1.0,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Yandy D\u00edaz",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 22,
-   "seasonPa": 686,
-   "l10Hr": 0,
-   "l10Pa": 44,
-   "brlPa": 5.4,
-   "probPct": 10.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 650490,
-   "factors": {
-    "batterRatePct": 2.98,
-    "formMult": 0.85,
-    "pitcherMult": 1.18,
-    "arsenalMult": 1.068,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Cedric Mullins",
-   "bats": "L",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 15,
-   "seasonPa": 502,
-   "l10Hr": 1,
-   "l10Pa": 27,
-   "brlPa": 3.0,
-   "probPct": 9.5,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 656775,
-   "factors": {
-    "batterRatePct": 2.79,
-    "formMult": 1.07,
-    "pitcherMult": 1.044,
-    "arsenalMult": 0.933,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Petey Halpin",
-   "bats": "L",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.20",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 4,
-   "seasonPa": 195,
-   "l10Hr": 1,
-   "l10Pa": 18,
-   "brlPa": 4.1,
-   "probPct": 9.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 690984,
-   "factors": {
-    "batterRatePct": 2.34,
-    "formMult": 1.2,
-    "pitcherMult": 1.049,
-    "arsenalMult": 0.983,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -1077,13 +917,13 @@
    "pitcherHr9": "1.20",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 6,
    "seasonHr": 15,
    "seasonPa": 517,
    "l10Hr": 1,
    "l10Pa": 38,
    "brlPa": 3.5,
-   "probPct": 9.2,
+   "probPct": 9.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1096,7 +936,39 @@
     "pitcherMult": 1.049,
     "arsenalMult": 0.975,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
+   }
+  },
+  {
+   "name": "Petey Halpin",
+   "bats": "L",
+   "team": "Cleveland Guardians",
+   "opponent": "Tampa Bay Rays",
+   "pitcher": "Griffin Jax",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.20",
+   "platoonEdge": true,
+   "venue": "Progressive Field",
+   "lineupSpot": 8,
+   "seasonHr": 4,
+   "seasonPa": 195,
+   "l10Hr": 1,
+   "l10Pa": 18,
+   "brlPa": 4.1,
+   "probPct": 9.2,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 690984,
+   "factors": {
+    "batterRatePct": 2.34,
+    "formMult": 1.2,
+    "pitcherMult": 1.049,
+    "arsenalMult": 0.983,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
    }
   },
   {
@@ -1115,7 +987,7 @@
    "l10Hr": 0,
    "l10Pa": 29,
    "brlPa": 3.6,
-   "probPct": 9.0,
+   "probPct": 9.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1128,103 +1000,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 0.963,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Nick Fortes",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 6,
-   "seasonPa": 323,
-   "l10Hr": 1,
-   "l10Pa": 22,
-   "brlPa": 1.9,
-   "probPct": 8.6,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 663743,
-   "factors": {
-    "batterRatePct": 1.93,
-    "formMult": 1.2,
-    "pitcherMult": 1.18,
-    "arsenalMult": 0.96,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Brayan Rocchio",
-   "bats": "S",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.20",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 15,
-   "seasonPa": 592,
-   "l10Hr": 2,
-   "l10Pa": 38,
-   "brlPa": 2.2,
-   "probPct": 8.5,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 677587,
-   "factors": {
-    "batterRatePct": 2.11,
-    "formMult": 1.2,
-    "pitcherMult": 1.049,
-    "arsenalMult": 0.974,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Jorge Mateo",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 5,
-   "seasonPa": 221,
-   "l10Hr": 0,
-   "l10Pa": 23,
-   "brlPa": 5.0,
-   "probPct": 8.4,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 622761,
-   "factors": {
-    "batterRatePct": 2.65,
-    "formMult": 0.85,
-    "pitcherMult": 1.18,
-    "arsenalMult": 0.971,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -1237,13 +1013,13 @@
    "pitcherHr9": "1.20",
    "platoonEdge": false,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 4,
    "seasonHr": 23,
    "seasonPa": 660,
    "l10Hr": 1,
    "l10Pa": 44,
    "brlPa": 6.1,
-   "probPct": 8.3,
+   "probPct": 8.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1256,7 +1032,39 @@
     "pitcherMult": 0.975,
     "arsenalMult": 1.073,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
+   }
+  },
+  {
+   "name": "Brayan Rocchio",
+   "bats": "S",
+   "team": "Cleveland Guardians",
+   "opponent": "Tampa Bay Rays",
+   "pitcher": "Griffin Jax",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.20",
+   "platoonEdge": true,
+   "venue": "Progressive Field",
+   "lineupSpot": 9,
+   "seasonHr": 15,
+   "seasonPa": 592,
+   "l10Hr": 2,
+   "l10Pa": 38,
+   "brlPa": 2.2,
+   "probPct": 8.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 677587,
+   "factors": {
+    "batterRatePct": 2.11,
+    "formMult": 1.2,
+    "pitcherMult": 1.049,
+    "arsenalMult": 0.974,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
    }
   },
   {
@@ -1269,13 +1077,13 @@
    "pitcherHr9": "1.37",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 6,
    "seasonHr": 18,
    "seasonPa": 554,
    "l10Hr": 0,
    "l10Pa": 36,
    "brlPa": 2.9,
-   "probPct": 7.6,
+   "probPct": 7.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1288,39 +1096,39 @@
     "pitcherMult": 1.044,
     "arsenalMult": 0.974,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
-   "name": "Austin Hedges",
-   "bats": "R",
+   "name": "Jos\u00e9 Ram\u00edrez",
+   "bats": "S",
    "team": "Cleveland Guardians",
    "opponent": "Tampa Bay Rays",
    "pitcher": "Griffin Jax",
    "pitcherHand": "R",
    "pitcherHr9": "1.20",
-   "platoonEdge": false,
+   "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 6,
-   "seasonPa": 247,
+   "lineupSpot": 2,
+   "seasonHr": 12,
+   "seasonPa": 544,
    "l10Hr": 1,
-   "l10Pa": 35,
-   "brlPa": 3.2,
+   "l10Pa": 46,
+   "brlPa": 3.1,
    "probPct": 7.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
    "edgePct": null,
    "gamePk": 849818,
-   "playerId": 595978,
+   "playerId": 608070,
    "factors": {
-    "batterRatePct": 2.36,
-    "formMult": 1.017,
-    "pitcherMult": 0.975,
-    "arsenalMult": 0.953,
+    "batterRatePct": 1.95,
+    "formMult": 0.952,
+    "pitcherMult": 1.049,
+    "arsenalMult": 1.012,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -1339,7 +1147,7 @@
    "l10Hr": 0,
    "l10Pa": 34,
    "brlPa": 2.3,
-   "probPct": 6.6,
+   "probPct": 6.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1352,7 +1160,7 @@
     "pitcherMult": 0.947,
     "arsenalMult": 1.004,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -1365,13 +1173,13 @@
    "pitcherHr9": "1.37",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 8,
    "seasonHr": 10,
    "seasonPa": 399,
    "l10Hr": 0,
    "l10Pa": 30,
    "brlPa": 2.8,
-   "probPct": 6.5,
+   "probPct": 6.4,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1384,71 +1192,7 @@
     "pitcherMult": 1.044,
     "arsenalMult": 0.93,
     "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Jos\u00e9 Ram\u00edrez",
-   "bats": "S",
-   "team": "Cleveland Guardians",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Griffin Jax",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.20",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 12,
-   "seasonPa": 544,
-   "l10Hr": 1,
-   "l10Pa": 46,
-   "brlPa": 3.1,
-   "probPct": 6.5,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 608070,
-   "factors": {
-    "batterRatePct": 1.95,
-    "formMult": 0.952,
-    "pitcherMult": 1.049,
-    "arsenalMult": 1.012,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
-   }
-  },
-  {
-   "name": "Ben Williamson",
-   "bats": "R",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": false,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 3,
-   "seasonPa": 286,
-   "l10Hr": 1,
-   "l10Pa": 31,
-   "brlPa": 1.4,
-   "probPct": 6.0,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 810938,
-   "factors": {
-    "batterRatePct": 1.36,
-    "formMult": 1.2,
-    "pitcherMult": 1.18,
-    "arsenalMult": 0.95,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   },
   {
@@ -1467,7 +1211,7 @@
    "l10Hr": 0,
    "l10Pa": 39,
    "brlPa": 2.4,
-   "probPct": 5.5,
+   "probPct": 5.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1478,9 +1222,9 @@
     "batterRatePct": 1.36,
     "formMult": 0.85,
     "pitcherMult": 0.908,
-    "arsenalMult": 0.935,
+    "arsenalMult": 0.936,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -1499,7 +1243,7 @@
    "l10Hr": 0,
    "l10Pa": 30,
    "brlPa": 1.8,
-   "probPct": 5.2,
+   "probPct": 5.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1512,7 +1256,7 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.962,
     "parkMult": 1.23,
-    "weatherMult": 1.137
+    "weatherMult": 1.162
    }
   },
   {
@@ -1531,7 +1275,7 @@
    "l10Hr": 0,
    "l10Pa": 27,
    "brlPa": 2.3,
-   "probPct": 5.1,
+   "probPct": 5.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1544,39 +1288,7 @@
     "pitcherMult": 0.908,
     "arsenalMult": 0.903,
     "parkMult": 1.23,
-    "weatherMult": 1.137
-   }
-  },
-  {
-   "name": "Taylor Walls",
-   "bats": "S",
-   "team": "Tampa Bay Rays",
-   "opponent": "Cleveland Guardians",
-   "pitcher": "Gavin Williams",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.37",
-   "platoonEdge": true,
-   "venue": "Progressive Field",
-   "lineupSpot": null,
-   "seasonHr": 2,
-   "seasonPa": 433,
-   "l10Hr": 0,
-   "l10Pa": 35,
-   "brlPa": 1.4,
-   "probPct": 2.1,
-   "marketOdds": null,
-   "marketPct": null,
-   "marketFairPct": null,
-   "edgePct": null,
-   "gamePk": 849818,
-   "playerId": 670764,
-   "factors": {
-    "batterRatePct": 0.79,
-    "formMult": 0.85,
-    "pitcherMult": 1.044,
-    "arsenalMult": 0.897,
-    "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 1.162
    }
   },
   {
@@ -1589,13 +1301,13 @@
    "pitcherHr9": "1.20",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 1,
    "seasonHr": 3,
    "seasonPa": 637,
    "l10Hr": 0,
    "l10Pa": 46,
    "brlPa": 0.3,
-   "probPct": 1.8,
+   "probPct": 2.1,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1608,7 +1320,39 @@
     "pitcherMult": 1.049,
     "arsenalMult": 0.984,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
+   }
+  },
+  {
+   "name": "Taylor Walls",
+   "bats": "S",
+   "team": "Tampa Bay Rays",
+   "opponent": "Cleveland Guardians",
+   "pitcher": "Gavin Williams",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.37",
+   "platoonEdge": true,
+   "venue": "Progressive Field",
+   "lineupSpot": 9,
+   "seasonHr": 2,
+   "seasonPa": 433,
+   "l10Hr": 0,
+   "l10Pa": 35,
+   "brlPa": 1.4,
+   "probPct": 2.0,
+   "marketOdds": null,
+   "marketPct": null,
+   "marketFairPct": null,
+   "edgePct": null,
+   "gamePk": 849818,
+   "playerId": 670764,
+   "factors": {
+    "batterRatePct": 0.79,
+    "formMult": 0.85,
+    "pitcherMult": 1.044,
+    "arsenalMult": 0.897,
+    "parkMult": 0.873,
+    "weatherMult": 0.959
    }
   },
   {
@@ -1621,13 +1365,13 @@
    "pitcherHr9": "1.37",
    "platoonEdge": true,
    "venue": "Progressive Field",
-   "lineupSpot": null,
+   "lineupSpot": 5,
    "seasonHr": 0,
    "seasonPa": 612,
    "l10Hr": 0,
    "l10Pa": 39,
    "brlPa": 0.0,
-   "probPct": 0.5,
+   "probPct": 0.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -1640,7 +1384,7 @@
     "pitcherMult": 1.044,
     "arsenalMult": 0.946,
     "parkMult": 0.873,
-    "weatherMult": 0.944
+    "weatherMult": 0.959
    }
   }
  ],

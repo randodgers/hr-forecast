@@ -1,1 +1,200 @@
-{}
+{
+"2026-10-15|849818|691406": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 691406,
+"name": "Junior Caminero",
+"team": "Tampa Bay Rays",
+"prob": 21.4,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-10-15|849818|683748": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 683748,
+"name": "Victor Mesa Jr.",
+"team": "Tampa Bay Rays",
+"prob": 14.6,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-10-15|849818|666018": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 666018,
+"name": "Jonathan Aranda",
+"team": "Tampa Bay Rays",
+"prob": 13.7,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-10-15|849818|800050": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 800050,
+"name": "Chase DeLauter",
+"team": "Cleveland Guardians",
+"prob": 13.5,
+"mkt": null,
+"fair": null,
+"spot": 3
+},
+"2026-10-15|849818|672275": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 672275,
+"name": "Patrick Bailey",
+"team": "Cleveland Guardians",
+"prob": 13.0,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-10-15|849818|676356": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 676356,
+"name": "Jonny DeLuca",
+"team": "Tampa Bay Rays",
+"prob": 12.6,
+"mkt": null,
+"fair": null,
+"spot": 7
+},
+"2026-10-15|849818|650490": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 650490,
+"name": "Yandy D\u00edaz",
+"team": "Tampa Bay Rays",
+"prob": 12.0,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-10-15|849818|663993": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 663993,
+"name": "Nathaniel Lowe",
+"team": "Cleveland Guardians",
+"prob": 11.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+},
+"2026-10-15|849818|683953": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 683953,
+"name": "Travis Bazzana",
+"team": "Cleveland Guardians",
+"prob": 9.4,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-15|849818|690984": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 690984,
+"name": "Petey Halpin",
+"team": "Cleveland Guardians",
+"prob": 9.2,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-15|849818|666176": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 666176,
+"name": "Jo Adell",
+"team": "Cleveland Guardians",
+"prob": 8.9,
+"mkt": null,
+"fair": null,
+"spot": 4
+},
+"2026-10-15|849818|677587": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 677587,
+"name": "Brayan Rocchio",
+"team": "Cleveland Guardians",
+"prob": 8.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-10-15|849818|689414": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 689414,
+"name": "Liam Hicks",
+"team": "Tampa Bay Rays",
+"prob": 7.8,
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-15|849818|608070": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 608070,
+"name": "Jos\u00e9 Ram\u00edrez",
+"team": "Cleveland Guardians",
+"prob": 7.3,
+"mkt": null,
+"fair": null,
+"spot": 2
+},
+"2026-10-15|849818|680700": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 680700,
+"name": "Richie Palacios",
+"team": "Tampa Bay Rays",
+"prob": 6.4,
+"mkt": null,
+"fair": null,
+"spot": 8
+},
+"2026-10-15|849818|680757": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 680757,
+"name": "Steven Kwan",
+"team": "Cleveland Guardians",
+"prob": 2.1,
+"mkt": null,
+"fair": null,
+"spot": 1
+},
+"2026-10-15|849818|670764": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 670764,
+"name": "Taylor Walls",
+"team": "Tampa Bay Rays",
+"prob": 2.0,
+"mkt": null,
+"fair": null,
+"spot": 9
+},
+"2026-10-15|849818|802415": {
+"d": "2026-10-15",
+"g": 849818,
+"id": 802415,
+"name": "Chandler Simpson",
+"team": "Tampa Bay Rays",
+"prob": 0.6,
+"mkt": null,
+"fair": null,
+"spot": 5
+}
+}
