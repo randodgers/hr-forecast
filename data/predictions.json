@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-18T21:12:47+00:00",
+ "generatedAtUtc": "2026-10-18T23:51:04+00:00",
  "date": "2026-10-18",
  "gameCount": 1,
  "parks": [
@@ -12,12 +12,12 @@
    "dayNight": "night",
    "roof": "Open",
    "roofClosed": false,
-   "hrfi": 5.0,
-   "tempF": 62.3,
-   "windMph": 9.6,
-   "windFromDeg": 190,
-   "windOutMph": 5.7,
-   "humidityPct": 28,
+   "hrfi": 4.9,
+   "tempF": 64.1,
+   "windMph": 7.8,
+   "windFromDeg": 203,
+   "windOutMph": 4.3,
+   "humidityPct": 26,
    "cloudPct": 0,
    "parkFactorHR": 85,
    "elevationFt": 653
@@ -40,7 +40,7 @@
    "l10Hr": 1,
    "l10Pa": 38,
    "brlPa": 9.1,
-   "probPct": 12.9,
+   "probPct": 12.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -53,7 +53,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 1.061,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -85,7 +85,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.948,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -117,7 +117,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.942,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -149,7 +149,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.987,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -181,7 +181,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 0.993,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -213,7 +213,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 1.012,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -245,7 +245,7 @@
     "pitcherMult": 0.854,
     "arsenalMult": 0.996,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -264,7 +264,7 @@
    "l10Hr": 1,
    "l10Pa": 38,
    "brlPa": 3.5,
-   "probPct": 7.9,
+   "probPct": 7.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -277,7 +277,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.926,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -309,7 +309,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.912,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -341,7 +341,7 @@
     "pitcherMult": 0.788,
     "arsenalMult": 0.986,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -373,7 +373,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.926,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -405,7 +405,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 0.911,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -437,7 +437,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.94,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -469,7 +469,7 @@
     "pitcherMult": 0.854,
     "arsenalMult": 0.96,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -501,7 +501,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 0.936,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -533,7 +533,7 @@
     "pitcherMult": 0.811,
     "arsenalMult": 0.879,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -565,7 +565,7 @@
     "pitcherMult": 0.88,
     "arsenalMult": 0.92,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   },
   {
@@ -597,7 +597,7 @@
     "pitcherMult": 0.854,
     "arsenalMult": 0.914,
     "parkMult": 0.873,
-    "weatherMult": 0.998
+    "weatherMult": 0.996
    }
   }
  ],
