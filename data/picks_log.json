@@ -192,9 +192,9 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 17.0,
-"mkt": 20.4,
-"fair": 15.9,
+"prob": 18.4,
+"mkt": 19.6,
+"fair": 15.2,
 "spot": null
 },
 "2026-10-19|849815|672275": {
@@ -204,8 +204,8 @@
 "name": "Patrick Bailey",
 "team": "Cleveland Guardians",
 "prob": 15.0,
-"mkt": 10.0,
-"fair": 7.8,
+"mkt": 9.1,
+"fair": 7.1,
 "spot": null
 },
 "2026-10-19|849815|683748": {
@@ -215,8 +215,8 @@
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
 "prob": 14.4,
-"mkt": 12.9,
-"fair": 10.0,
+"mkt": 13.3,
+"fair": 10.3,
 "spot": null
 },
 "2026-10-19|849815|800050": {
@@ -226,8 +226,8 @@
 "name": "Chase DeLauter",
 "team": "Cleveland Guardians",
 "prob": 14.3,
-"mkt": 10.0,
-"fair": 7.8,
+"mkt": 11.4,
+"fair": 8.9,
 "spot": null
 },
 "2026-10-19|849815|663993": {
@@ -237,8 +237,8 @@
 "name": "Nathaniel Lowe",
 "team": "Cleveland Guardians",
 "prob": 13.0,
-"mkt": 10.3,
-"fair": 8.0,
+"mkt": 12.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-10-19|849815|666018": {
@@ -247,9 +247,9 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 12.0,
-"mkt": 11.1,
-"fair": 8.6,
+"prob": 12.6,
+"mkt": 14.8,
+"fair": 11.5,
 "spot": null
 },
 "2026-10-19|849815|676356": {
@@ -258,9 +258,9 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 11.7,
-"mkt": 9.1,
-"fair": 7.1,
+"prob": 11.9,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": null
 },
 "2026-10-19|849815|690984": {
@@ -281,8 +281,8 @@
 "name": "Travis Bazzana",
 "team": "Cleveland Guardians",
 "prob": 10.7,
-"mkt": 10.3,
-"fair": 8.0,
+"mkt": 12.1,
+"fair": 9.4,
 "spot": null
 },
 "2026-10-19|849815|650490": {
@@ -291,9 +291,9 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 10.4,
-"mkt": 13.8,
-"fair": 10.7,
+"prob": 9.6,
+"mkt": 12.1,
+"fair": 9.4,
 "spot": null
 },
 "2026-10-19|849815|677587": {
@@ -303,8 +303,8 @@
 "name": "Brayan Rocchio",
 "team": "Cleveland Guardians",
 "prob": 9.7,
-"mkt": 7.1,
-"fair": 5.5,
+"mkt": 6.2,
+"fair": 4.8,
 "spot": null
 },
 "2026-10-19|849815|666176": {
@@ -314,8 +314,8 @@
 "name": "Jo Adell",
 "team": "Cleveland Guardians",
 "prob": 8.9,
-"mkt": 13.3,
-"fair": 10.3,
+"mkt": 12.5,
+"fair": 9.7,
 "spot": null
 },
 "2026-10-19|849815|689414": {
@@ -324,9 +324,9 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 8.9,
-"mkt": 8.3,
-"fair": 6.5,
+"prob": 7.8,
+"mkt": 9.1,
+"fair": 7.1,
 "spot": null
 },
 "2026-10-19|849815|680700": {
@@ -335,9 +335,9 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 7.8,
-"mkt": 7.7,
-"fair": 6.0,
+"prob": 6.9,
+"mkt": 7.1,
+"fair": 5.5,
 "spot": null
 },
 "2026-10-19|849815|608070": {
@@ -347,8 +347,8 @@
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
 "prob": 7.5,
-"mkt": 12.1,
-"fair": 9.4,
+"mkt": 14.8,
+"fair": 11.5,
 "spot": null
 },
 "2026-10-19|849815|670764": {
@@ -357,7 +357,7 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 3.8,
+"prob": 2.2,
 "mkt": 5.9,
 "fair": 4.6,
 "spot": null
@@ -379,9 +379,9 @@
 "id": 802415,
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
-"prob": 1.7,
-"mkt": 3.2,
-"fair": 2.5,
+"prob": 0.6,
+"mkt": 2.4,
+"fair": 1.9,
 "spot": null
 }
 }
