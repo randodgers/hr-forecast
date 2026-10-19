@@ -192,10 +192,10 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 18.4,
-"mkt": 19.6,
-"fair": 15.2,
-"spot": null
+"prob": 19.5,
+"mkt": 20.4,
+"fair": 15.9,
+"spot": 4
 },
 "2026-10-19|849815|672275": {
 "d": "2026-10-19",
@@ -203,10 +203,10 @@
 "id": 672275,
 "name": "Patrick Bailey",
 "team": "Cleveland Guardians",
-"prob": 15.0,
-"mkt": 9.1,
-"fair": 7.1,
-"spot": null
+"prob": 14.8,
+"mkt": 10.3,
+"fair": 8.0,
+"spot": 7
 },
 "2026-10-19|849815|683748": {
 "d": "2026-10-19",
@@ -214,10 +214,10 @@
 "id": 683748,
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
-"prob": 14.4,
-"mkt": 13.3,
-"fair": 10.3,
-"spot": null
+"prob": 14.6,
+"mkt": 13.8,
+"fair": 10.7,
+"spot": 6
 },
 "2026-10-19|849815|800050": {
 "d": "2026-10-19",
@@ -225,10 +225,10 @@
 "id": 800050,
 "name": "Chase DeLauter",
 "team": "Cleveland Guardians",
-"prob": 14.3,
-"mkt": 11.4,
-"fair": 8.9,
-"spot": null
+"prob": 15.5,
+"mkt": 12.9,
+"fair": 10.0,
+"spot": 3
 },
 "2026-10-19|849815|663993": {
 "d": "2026-10-19",
@@ -236,10 +236,10 @@
 "id": 663993,
 "name": "Nathaniel Lowe",
 "team": "Cleveland Guardians",
-"prob": 13.0,
+"prob": 13.5,
 "mkt": 12.5,
 "fair": 9.7,
-"spot": null
+"spot": 5
 },
 "2026-10-19|849815|666018": {
 "d": "2026-10-19",
@@ -247,10 +247,10 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 12.6,
-"mkt": 14.8,
-"fair": 11.5,
-"spot": null
+"prob": 14.0,
+"mkt": 13.8,
+"fair": 10.7,
+"spot": 2
 },
 "2026-10-19|849815|676356": {
 "d": "2026-10-19",
@@ -258,10 +258,10 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 11.9,
+"prob": 11.7,
 "mkt": 10.0,
 "fair": 7.8,
-"spot": null
+"spot": 7
 },
 "2026-10-19|849815|690984": {
 "d": "2026-10-19",
@@ -269,10 +269,10 @@
 "id": 690984,
 "name": "Petey Halpin",
 "team": "Cleveland Guardians",
-"prob": 10.9,
-"mkt": 7.1,
-"fair": 5.5,
-"spot": null
+"prob": 10.4,
+"mkt": 8.3,
+"fair": 6.5,
+"spot": 8
 },
 "2026-10-19|849815|683953": {
 "d": "2026-10-19",
@@ -280,10 +280,10 @@
 "id": 683953,
 "name": "Travis Bazzana",
 "team": "Cleveland Guardians",
-"prob": 10.7,
-"mkt": 12.1,
-"fair": 9.4,
-"spot": null
+"prob": 10.8,
+"mkt": 11.8,
+"fair": 9.2,
+"spot": 6
 },
 "2026-10-19|849815|650490": {
 "d": "2026-10-19",
@@ -291,10 +291,10 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 9.6,
-"mkt": 12.1,
-"fair": 9.4,
-"spot": null
+"prob": 10.9,
+"mkt": 13.8,
+"fair": 10.7,
+"spot": 1
 },
 "2026-10-19|849815|677587": {
 "d": "2026-10-19",
@@ -302,10 +302,10 @@
 "id": 677587,
 "name": "Brayan Rocchio",
 "team": "Cleveland Guardians",
-"prob": 9.7,
-"mkt": 6.2,
-"fair": 4.8,
-"spot": null
+"prob": 9.1,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": 9
 },
 "2026-10-19|849815|666176": {
 "d": "2026-10-19",
@@ -313,10 +313,10 @@
 "id": 666176,
 "name": "Jo Adell",
 "team": "Cleveland Guardians",
-"prob": 8.9,
-"mkt": 12.5,
-"fair": 9.7,
-"spot": null
+"prob": 9.4,
+"mkt": 16.0,
+"fair": 12.4,
+"spot": 4
 },
 "2026-10-19|849815|689414": {
 "d": "2026-10-19",
@@ -324,10 +324,10 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 7.8,
+"prob": 8.5,
 "mkt": 9.1,
 "fair": 7.1,
-"spot": null
+"spot": 3
 },
 "2026-10-19|849815|680700": {
 "d": "2026-10-19",
@@ -335,10 +335,10 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 6.9,
+"prob": 6.6,
 "mkt": 7.1,
 "fair": 5.5,
-"spot": null
+"spot": 8
 },
 "2026-10-19|849815|608070": {
 "d": "2026-10-19",
@@ -346,10 +346,10 @@
 "id": 608070,
 "name": "Jos\u00e9 Ram\u00edrez",
 "team": "Cleveland Guardians",
-"prob": 7.5,
+"prob": 8.3,
 "mkt": 14.8,
 "fair": 11.5,
-"spot": null
+"spot": 2
 },
 "2026-10-19|849815|670764": {
 "d": "2026-10-19",
@@ -357,10 +357,10 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 2.2,
-"mkt": 5.9,
-"fair": 4.6,
-"spot": null
+"prob": 2.1,
+"mkt": 7.1,
+"fair": 5.5,
+"spot": 9
 },
 "2026-10-19|849815|680757": {
 "d": "2026-10-19",
@@ -368,10 +368,10 @@
 "id": 680757,
 "name": "Steven Kwan",
 "team": "Cleveland Guardians",
-"prob": 2.0,
+"prob": 2.3,
 "mkt": 5.3,
 "fair": 4.1,
-"spot": null
+"spot": 1
 },
 "2026-10-19|849815|802415": {
 "d": "2026-10-19",
@@ -382,6 +382,6 @@
 "prob": 0.6,
 "mkt": 2.4,
 "fair": 1.9,
-"spot": null
+"spot": 5
 }
 }
