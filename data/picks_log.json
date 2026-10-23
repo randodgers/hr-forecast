@@ -192,7 +192,7 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 16.4,
+"prob": 16.6,
 "mkt": 15.4,
 "fair": 12.0,
 "spot": null
@@ -203,7 +203,7 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 14.3,
+"prob": 14.5,
 "mkt": 15.4,
 "fair": 12.0,
 "spot": null
@@ -214,7 +214,7 @@
 "id": 668930,
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
-"prob": 13.6,
+"prob": 13.8,
 "mkt": 11.1,
 "fair": 8.6,
 "spot": null
@@ -225,7 +225,7 @@
 "id": 641343,
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
-"prob": 13.3,
+"prob": 13.4,
 "mkt": 15.4,
 "fair": 12.0,
 "spot": null
@@ -236,7 +236,7 @@
 "id": 661388,
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
-"prob": 10.4,
+"prob": 10.6,
 "mkt": 12.9,
 "fair": 10.0,
 "spot": null
@@ -247,7 +247,7 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 10.0,
+"prob": 10.1,
 "mkt": 10.3,
 "fair": 8.0,
 "spot": null
@@ -258,7 +258,7 @@
 "id": 683748,
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
-"prob": 9.7,
+"prob": 9.9,
 "mkt": 11.1,
 "fair": 8.6,
 "spot": null
@@ -269,7 +269,7 @@
 "id": 669003,
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
-"prob": 9.0,
+"prob": 9.1,
 "mkt": 10.3,
 "fair": 8.0,
 "spot": null
@@ -280,7 +280,7 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 8.4,
+"prob": 8.6,
 "mkt": 7.1,
 "fair": 5.5,
 "spot": null
@@ -291,7 +291,7 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 7.9,
+"prob": 8.0,
 "mkt": 11.4,
 "fair": 8.9,
 "spot": null
@@ -302,7 +302,7 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 6.7,
+"prob": 6.8,
 "mkt": 10.0,
 "fair": 7.8,
 "spot": null
@@ -313,7 +313,7 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 5.2,
+"prob": 5.3,
 "mkt": 8.3,
 "fair": 6.5,
 "spot": null
@@ -324,7 +324,7 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 4.6,
+"prob": 4.7,
 "mkt": 7.1,
 "fair": 5.5,
 "spot": null
@@ -335,7 +335,7 @@
 "id": 806198,
 "name": "Cooper Pratt",
 "team": "Milwaukee Brewers",
-"prob": 4.1,
+"prob": 4.2,
 "mkt": 7.1,
 "fair": 5.5,
 "spot": null
@@ -346,7 +346,7 @@
 "id": 666152,
 "name": "David Hamilton",
 "team": "Milwaukee Brewers",
-"prob": 3.8,
+"prob": 3.9,
 "mkt": 6.2,
 "fair": 4.8,
 "spot": null

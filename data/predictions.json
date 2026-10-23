@@ -1,5 +1,5 @@
 {
- "generatedAtUtc": "2026-10-23T00:20:58+00:00",
+ "generatedAtUtc": "2026-10-23T05:39:52+00:00",
  "date": "2026-10-23",
  "gameCount": 1,
  "parks": [
@@ -12,13 +12,13 @@
    "dayNight": "night",
    "roof": "Retractable",
    "roofClosed": false,
-   "hrfi": 2.2,
-   "tempF": 55.2,
-   "windMph": 4.3,
-   "windFromDeg": 135,
-   "windOutMph": -2.6,
-   "humidityPct": 79,
-   "cloudPct": 75,
+   "hrfi": 2.4,
+   "tempF": 56.6,
+   "windMph": 3.9,
+   "windFromDeg": 127,
+   "windOutMph": -2.3,
+   "humidityPct": 80,
+   "cloudPct": 100,
    "parkFactorHR": 106,
    "elevationFt": 597
   }
@@ -40,11 +40,11 @@
    "l10Hr": 2,
    "l10Pa": 39,
    "brlPa": 8.4,
-   "probPct": 16.4,
+   "probPct": 16.6,
    "marketOdds": 550,
    "marketPct": 15.4,
    "marketFairPct": 12.0,
-   "edgePct": 4.4,
+   "edgePct": 4.6,
    "gamePk": 849805,
    "playerId": 694192,
    "factors": {
@@ -53,7 +53,7 @@
     "pitcherMult": 0.983,
     "arsenalMult": 1.032,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -72,11 +72,11 @@
    "l10Hr": 1,
    "l10Pa": 38,
    "brlPa": 9.1,
-   "probPct": 14.3,
+   "probPct": 14.5,
    "marketOdds": 550,
    "marketPct": 15.4,
    "marketFairPct": 12.0,
-   "edgePct": 2.3,
+   "edgePct": 2.5,
    "gamePk": 849805,
    "playerId": 691406,
    "factors": {
@@ -85,7 +85,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 1.015,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -104,11 +104,11 @@
    "l10Hr": 2,
    "l10Pa": 40,
    "brlPa": 4.7,
-   "probPct": 13.6,
+   "probPct": 13.8,
    "marketOdds": 800,
    "marketPct": 11.1,
    "marketFairPct": 8.6,
-   "edgePct": 5.0,
+   "edgePct": 5.2,
    "gamePk": 849805,
    "playerId": 668930,
    "factors": {
@@ -117,7 +117,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 1.018,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -136,11 +136,11 @@
    "l10Hr": 0,
    "l10Pa": 42,
    "brlPa": 7.8,
-   "probPct": 13.3,
+   "probPct": 13.4,
    "marketOdds": 550,
    "marketPct": 15.4,
    "marketFairPct": 12.0,
-   "edgePct": 1.3,
+   "edgePct": 1.4,
    "gamePk": 849805,
    "playerId": 641343,
    "factors": {
@@ -149,7 +149,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 1.05,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -168,7 +168,7 @@
    "l10Hr": 1,
    "l10Pa": 32,
    "brlPa": 5.1,
-   "probPct": 11.5,
+   "probPct": 11.7,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -181,7 +181,7 @@
     "pitcherMult": 0.983,
     "arsenalMult": 0.97,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -200,11 +200,11 @@
    "l10Hr": 1,
    "l10Pa": 43,
    "brlPa": 6.4,
-   "probPct": 10.4,
+   "probPct": 10.6,
    "marketOdds": 675,
    "marketPct": 12.9,
    "marketFairPct": 10.0,
-   "edgePct": 0.4,
+   "edgePct": 0.6,
    "gamePk": 849805,
    "playerId": 661388,
    "factors": {
@@ -213,7 +213,7 @@
     "pitcherMult": 0.983,
     "arsenalMult": 1.023,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -232,11 +232,11 @@
    "l10Hr": 1,
    "l10Pa": 40,
    "brlPa": 6.0,
-   "probPct": 10.0,
+   "probPct": 10.1,
    "marketOdds": 875,
    "marketPct": 10.3,
    "marketFairPct": 8.0,
-   "edgePct": 2.0,
+   "edgePct": 2.1,
    "gamePk": 849805,
    "playerId": 592885,
    "factors": {
@@ -245,7 +245,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 0.992,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -264,11 +264,11 @@
    "l10Hr": 1,
    "l10Pa": 36,
    "brlPa": 7.6,
-   "probPct": 9.7,
+   "probPct": 9.9,
    "marketOdds": 800,
    "marketPct": 11.1,
    "marketFairPct": 8.6,
-   "edgePct": 1.1,
+   "edgePct": 1.3,
    "gamePk": 849805,
    "playerId": 683748,
    "factors": {
@@ -277,7 +277,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.926,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -296,11 +296,11 @@
    "l10Hr": 0,
    "l10Pa": 39,
    "brlPa": 6.6,
-   "probPct": 9.0,
+   "probPct": 9.1,
    "marketOdds": 875,
    "marketPct": 10.3,
    "marketFairPct": 8.0,
-   "edgePct": 1.0,
+   "edgePct": 1.1,
    "gamePk": 849805,
    "playerId": 669003,
    "factors": {
@@ -309,7 +309,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 1.038,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -328,11 +328,11 @@
    "l10Hr": 2,
    "l10Pa": 38,
    "brlPa": 2.7,
-   "probPct": 8.4,
+   "probPct": 8.6,
    "marketOdds": 1300,
    "marketPct": 7.1,
    "marketFairPct": 5.5,
-   "edgePct": 2.9,
+   "edgePct": 3.1,
    "gamePk": 849805,
    "playerId": 676356,
    "factors": {
@@ -341,7 +341,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.851,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -360,11 +360,11 @@
    "l10Hr": 1,
    "l10Pa": 38,
    "brlPa": 6.3,
-   "probPct": 7.9,
+   "probPct": 8.0,
    "marketOdds": 775,
    "marketPct": 11.4,
    "marketFairPct": 8.9,
-   "edgePct": -1.0,
+   "edgePct": -0.9,
    "gamePk": 849805,
    "playerId": 666018,
    "factors": {
@@ -373,7 +373,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.923,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -392,7 +392,7 @@
    "l10Hr": 1,
    "l10Pa": 40,
    "brlPa": 2.9,
-   "probPct": 7.7,
+   "probPct": 7.8,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -405,7 +405,7 @@
     "pitcherMult": 0.983,
     "arsenalMult": 0.972,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -424,7 +424,7 @@
    "l10Hr": 0,
    "l10Pa": 36,
    "brlPa": 4.7,
-   "probPct": 7.4,
+   "probPct": 7.5,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -437,7 +437,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.916,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -456,11 +456,11 @@
    "l10Hr": 0,
    "l10Pa": 44,
    "brlPa": 5.4,
-   "probPct": 6.7,
+   "probPct": 6.8,
    "marketOdds": 900,
    "marketPct": 10.0,
    "marketFairPct": 7.8,
-   "edgePct": -1.1,
+   "edgePct": -1.0,
    "gamePk": 849805,
    "playerId": 650490,
    "factors": {
@@ -469,7 +469,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.906,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -488,7 +488,7 @@
    "l10Hr": 1,
    "l10Pa": 27,
    "brlPa": 3.0,
-   "probPct": 6.5,
+   "probPct": 6.6,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -501,7 +501,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.85,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -520,7 +520,7 @@
    "l10Hr": 0,
    "l10Pa": 29,
    "brlPa": 3.6,
-   "probPct": 6.1,
+   "probPct": 6.2,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -533,7 +533,7 @@
     "pitcherMult": 0.983,
     "arsenalMult": 0.962,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -552,7 +552,7 @@
    "l10Hr": 0,
    "l10Pa": 23,
    "brlPa": 5.0,
-   "probPct": 5.9,
+   "probPct": 6.0,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -565,7 +565,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.89,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -584,7 +584,7 @@
    "l10Hr": 1,
    "l10Pa": 22,
    "brlPa": 1.9,
-   "probPct": 5.8,
+   "probPct": 5.9,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -597,7 +597,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.85,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -616,11 +616,11 @@
    "l10Hr": 0,
    "l10Pa": 36,
    "brlPa": 2.9,
-   "probPct": 5.2,
+   "probPct": 5.3,
    "marketOdds": 1100,
    "marketPct": 8.3,
    "marketFairPct": 6.5,
-   "edgePct": -1.3,
+   "edgePct": -1.2,
    "gamePk": 849805,
    "playerId": 689414,
    "factors": {
@@ -629,7 +629,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.889,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -648,11 +648,11 @@
    "l10Hr": 0,
    "l10Pa": 30,
    "brlPa": 2.8,
-   "probPct": 4.6,
+   "probPct": 4.7,
    "marketOdds": 1300,
    "marketPct": 7.1,
    "marketFairPct": 5.5,
-   "edgePct": -0.9,
+   "edgePct": -0.8,
    "gamePk": 849805,
    "playerId": 680700,
    "factors": {
@@ -661,7 +661,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.869,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -680,7 +680,7 @@
    "l10Hr": 1,
    "l10Pa": 31,
    "brlPa": 1.4,
-   "probPct": 4.2,
+   "probPct": 4.3,
    "marketOdds": null,
    "marketPct": null,
    "marketFairPct": null,
@@ -693,7 +693,7 @@
     "pitcherMult": 0.815,
     "arsenalMult": 0.88,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -712,11 +712,11 @@
    "l10Hr": 0,
    "l10Pa": 34,
    "brlPa": 2.3,
-   "probPct": 4.1,
+   "probPct": 4.2,
    "marketOdds": 1300,
    "marketPct": 7.1,
    "marketFairPct": 5.5,
-   "edgePct": -1.4,
+   "edgePct": -1.3,
    "gamePk": 849805,
    "playerId": 806198,
    "factors": {
@@ -725,7 +725,39 @@
     "pitcherMult": 0.983,
     "arsenalMult": 0.934,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
+   }
+  },
+  {
+   "name": "David Hamilton",
+   "bats": "L",
+   "team": "Milwaukee Brewers",
+   "opponent": "Tampa Bay Rays",
+   "pitcher": "Nick Martinez",
+   "pitcherHand": "R",
+   "pitcherHr9": "1.10",
+   "platoonEdge": true,
+   "venue": "American Family Field",
+   "lineupSpot": null,
+   "seasonHr": 4,
+   "seasonPa": 387,
+   "l10Hr": 0,
+   "l10Pa": 27,
+   "brlPa": 2.3,
+   "probPct": 3.9,
+   "marketOdds": 1500,
+   "marketPct": 6.2,
+   "marketFairPct": 4.8,
+   "edgePct": -0.9,
+   "gamePk": 849805,
+   "playerId": 666152,
+   "factors": {
+    "batterRatePct": 1.3,
+    "formMult": 0.85,
+    "pitcherMult": 0.995,
+    "arsenalMult": 0.949,
+    "parkMult": 1.051,
+    "weatherMult": 0.871
    }
   },
   {
@@ -757,39 +789,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 0.925,
     "parkMult": 1.051,
-    "weatherMult": 0.859
-   }
-  },
-  {
-   "name": "David Hamilton",
-   "bats": "L",
-   "team": "Milwaukee Brewers",
-   "opponent": "Tampa Bay Rays",
-   "pitcher": "Nick Martinez",
-   "pitcherHand": "R",
-   "pitcherHr9": "1.10",
-   "platoonEdge": true,
-   "venue": "American Family Field",
-   "lineupSpot": null,
-   "seasonHr": 4,
-   "seasonPa": 387,
-   "l10Hr": 0,
-   "l10Pa": 27,
-   "brlPa": 2.3,
-   "probPct": 3.8,
-   "marketOdds": 1500,
-   "marketPct": 6.2,
-   "marketFairPct": 4.8,
-   "edgePct": -1.0,
-   "gamePk": 849805,
-   "playerId": 666152,
-   "factors": {
-    "batterRatePct": 1.3,
-    "formMult": 0.85,
-    "pitcherMult": 0.995,
-    "arsenalMult": 0.949,
-    "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -821,7 +821,7 @@
     "pitcherMult": 0.995,
     "arsenalMult": 0.961,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -853,7 +853,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.85,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   },
   {
@@ -885,7 +885,7 @@
     "pitcherMult": 0.712,
     "arsenalMult": 0.85,
     "parkMult": 1.051,
-    "weatherMult": 0.859
+    "weatherMult": 0.871
    }
   }
  ],
