@@ -192,9 +192,9 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 18.9,
-"mkt": 18.9,
-"fair": 14.7,
+"prob": 19.0,
+"mkt": 19.6,
+"fair": 15.2,
 "spot": 4
 },
 "2026-10-24|849802|683748": {
@@ -203,9 +203,9 @@
 "id": 683748,
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
-"prob": 15.5,
-"mkt": 14.8,
-"fair": 11.5,
+"prob": 15.6,
+"mkt": 13.8,
+"fair": 10.7,
 "spot": 8
 },
 "2026-10-24|849802|694192": {
@@ -214,9 +214,9 @@
 "id": 694192,
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
-"prob": 14.7,
-"mkt": 15.4,
-"fair": 12.0,
+"prob": 14.8,
+"mkt": 16.7,
+"fair": 13.0,
 "spot": 1
 },
 "2026-10-24|849802|666018": {
@@ -225,7 +225,7 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 14.2,
+"prob": 14.3,
 "mkt": 13.8,
 "fair": 10.7,
 "spot": 2
@@ -248,8 +248,8 @@
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
 "prob": 12.6,
-"mkt": 16.0,
-"fair": 12.4,
+"mkt": 17.9,
+"fair": 13.9,
 "spot": 2
 },
 "2026-10-24|849802|676356": {
@@ -259,8 +259,8 @@
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
 "prob": 10.7,
-"mkt": 9.1,
-"fair": 7.1,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": 7
 },
 "2026-10-24|849802|650490": {
@@ -269,9 +269,9 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 10.0,
-"mkt": 12.1,
-"fair": 9.4,
+"prob": 10.1,
+"mkt": 13.3,
+"fair": 10.3,
 "spot": 1
 },
 "2026-10-24|849802|592885": {
@@ -280,7 +280,7 @@
 "id": 592885,
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
-"prob": 9.3,
+"prob": 9.4,
 "mkt": 9.1,
 "fair": 7.1,
 "spot": 3
@@ -291,9 +291,9 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 8.7,
-"mkt": 9.1,
-"fair": 7.1,
+"prob": 8.8,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": 5
 },
 "2026-10-24|849802|661388": {
@@ -303,8 +303,8 @@
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
 "prob": 8.7,
-"mkt": 12.1,
-"fair": 9.4,
+"mkt": 13.8,
+"fair": 10.7,
 "spot": 4
 },
 "2026-10-24|849802|669003": {
@@ -314,8 +314,8 @@
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
 "prob": 7.9,
-"mkt": 10.5,
-"fair": 8.2,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": 6
 },
 "2026-10-24|849802|680700": {
@@ -324,9 +324,9 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 7.8,
-"mkt": 7.7,
-"fair": 6.0,
+"prob": 7.9,
+"mkt": 9.1,
+"fair": 7.1,
 "spot": 6
 },
 "2026-10-24|849802|806198": {
@@ -336,8 +336,8 @@
 "name": "Cooper Pratt",
 "team": "Milwaukee Brewers",
 "prob": 3.1,
-"mkt": 6.2,
-"fair": 4.8,
+"mkt": 7.1,
+"fair": 5.5,
 "spot": 7
 },
 "2026-10-24|849802|666152": {
@@ -347,8 +347,8 @@
 "name": "David Hamilton",
 "team": "Milwaukee Brewers",
 "prob": 3.0,
-"mkt": 6.2,
-"fair": 4.8,
+"mkt": 7.1,
+"fair": 5.5,
 "spot": 9
 },
 "2026-10-24|849802|686217": {
@@ -358,8 +358,8 @@
 "name": "Sal Frelick",
 "team": "Milwaukee Brewers",
 "prob": 2.9,
-"mkt": 5.9,
-"fair": 4.6,
+"mkt": 6.7,
+"fair": 5.2,
 "spot": 8
 },
 "2026-10-24|849802|670764": {
@@ -369,8 +369,8 @@
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
 "prob": 2.2,
-"mkt": 5.9,
-"fair": 4.6,
+"mkt": 6.2,
+"fair": 4.8,
 "spot": 9
 },
 "2026-10-24|849802|802415": {
