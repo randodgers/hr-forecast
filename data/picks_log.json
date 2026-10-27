@@ -203,10 +203,10 @@
 "id": 691406,
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
-"prob": 17.0,
-"mkt": 20.4,
-"fair": 15.9,
-"spot": null
+"prob": 18.4,
+"mkt": null,
+"fair": null,
+"spot": 3
 },
 "2026-10-27|849803|668930": {
 "d": "2026-10-27",
@@ -247,10 +247,10 @@
 "id": 666018,
 "name": "Jonathan Aranda",
 "team": "Tampa Bay Rays",
-"prob": 12.0,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 13.4,
+"mkt": null,
+"fair": null,
+"spot": 2
 },
 "2026-10-27|849803|592885": {
 "d": "2026-10-27",
@@ -269,10 +269,10 @@
 "id": 676356,
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
-"prob": 11.7,
-"mkt": 7.1,
-"fair": 5.5,
-"spot": null
+"prob": 12.1,
+"mkt": null,
+"fair": null,
+"spot": 5
 },
 "2026-10-27|849803|661388": {
 "d": "2026-10-27",
@@ -302,10 +302,10 @@
 "id": 650490,
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
-"prob": 10.4,
-"mkt": 10.3,
-"fair": 8.0,
-"spot": null
+"prob": 11.8,
+"mkt": null,
+"fair": null,
+"spot": 1
 },
 "2026-10-27|849803|689414": {
 "d": "2026-10-27",
@@ -313,10 +313,10 @@
 "id": 689414,
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
-"prob": 8.9,
-"mkt": 8.3,
-"fair": 6.4,
-"spot": null
+"prob": 9.5,
+"mkt": null,
+"fair": null,
+"spot": 4
 },
 "2026-10-27|849803|680700": {
 "d": "2026-10-27",
@@ -324,10 +324,10 @@
 "id": 680700,
 "name": "Richie Palacios",
 "team": "Tampa Bay Rays",
-"prob": 7.8,
-"mkt": 7.7,
-"fair": 6.0,
-"spot": null
+"prob": 7.5,
+"mkt": null,
+"fair": null,
+"spot": 8
 },
 "2026-10-27|849803|806198": {
 "d": "2026-10-27",
@@ -368,10 +368,10 @@
 "id": 670764,
 "name": "Taylor Walls",
 "team": "Tampa Bay Rays",
-"prob": 3.8,
-"mkt": 5.3,
-"fair": 4.1,
-"spot": null
+"prob": 3.6,
+"mkt": null,
+"fair": null,
+"spot": 9
 },
 "2026-10-27|849803|802415": {
 "d": "2026-10-27",
@@ -380,8 +380,19 @@
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
 "prob": 1.7,
-"mkt": 2.4,
-"fair": 1.9,
-"spot": null
+"mkt": null,
+"fair": null,
+"spot": 6
+},
+"2026-10-27|849803|668723": {
+"d": "2026-10-27",
+"g": 849803,
+"id": 668723,
+"name": "Ryan Vilade",
+"team": "Tampa Bay Rays",
+"prob": 10.7,
+"mkt": null,
+"fair": null,
+"spot": 7
 }
 }
