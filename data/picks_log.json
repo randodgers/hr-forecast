@@ -193,8 +193,8 @@
 "name": "Jackson Chourio",
 "team": "Milwaukee Brewers",
 "prob": 17.9,
-"mkt": 19.2,
-"fair": 14.9,
+"mkt": 18.9,
+"fair": 14.7,
 "spot": null
 },
 "2026-10-28|849799|691406": {
@@ -204,8 +204,8 @@
 "name": "Junior Caminero",
 "team": "Tampa Bay Rays",
 "prob": 15.7,
-"mkt": 19.2,
-"fair": 14.9,
+"mkt": 18.9,
+"fair": 14.7,
 "spot": null
 },
 "2026-10-28|849799|641343": {
@@ -215,8 +215,8 @@
 "name": "Jake Bauers",
 "team": "Milwaukee Brewers",
 "prob": 13.8,
-"mkt": 16.0,
-"fair": 12.4,
+"mkt": 16.7,
+"fair": 13.0,
 "spot": null
 },
 "2026-10-28|849799|668930": {
@@ -226,8 +226,8 @@
 "name": "Brice Turang",
 "team": "Milwaukee Brewers",
 "prob": 13.6,
-"mkt": 9.1,
-"fair": 7.1,
+"mkt": 10.0,
+"fair": 7.8,
 "spot": null
 },
 "2026-10-28|849799|661388": {
@@ -237,8 +237,8 @@
 "name": "William Contreras",
 "team": "Milwaukee Brewers",
 "prob": 11.2,
-"mkt": 16.0,
-"fair": 12.4,
+"mkt": 16.7,
+"fair": 13.0,
 "spot": null
 },
 "2026-10-28|849799|592885": {
@@ -248,8 +248,8 @@
 "name": "Christian Yelich",
 "team": "Milwaukee Brewers",
 "prob": 11.0,
-"mkt": 11.1,
-"fair": 8.6,
+"mkt": 12.1,
+"fair": 9.4,
 "spot": null
 },
 "2026-10-28|849799|683748": {
@@ -259,8 +259,8 @@
 "name": "Victor Mesa Jr.",
 "team": "Tampa Bay Rays",
 "prob": 10.7,
-"mkt": 12.1,
-"fair": 9.4,
+"mkt": 11.8,
+"fair": 9.2,
 "spot": null
 },
 "2026-10-28|849799|669003": {
@@ -270,8 +270,8 @@
 "name": "Garrett Mitchell",
 "team": "Milwaukee Brewers",
 "prob": 9.4,
-"mkt": 10.0,
-"fair": 7.8,
+"mkt": 8.3,
+"fair": 6.5,
 "spot": null
 },
 "2026-10-28|849799|676356": {
@@ -281,8 +281,8 @@
 "name": "Jonny DeLuca",
 "team": "Tampa Bay Rays",
 "prob": 9.3,
-"mkt": 7.7,
-"fair": 6.0,
+"mkt": 8.3,
+"fair": 6.5,
 "spot": null
 },
 "2026-10-28|849799|666018": {
@@ -303,8 +303,8 @@
 "name": "Yandy D\u00edaz",
 "team": "Tampa Bay Rays",
 "prob": 7.5,
-"mkt": 11.4,
-"fair": 8.9,
+"mkt": 11.1,
+"fair": 8.6,
 "spot": null
 },
 "2026-10-28|849799|806198": {
@@ -314,8 +314,8 @@
 "name": "Cooper Pratt",
 "team": "Milwaukee Brewers",
 "prob": 5.9,
-"mkt": 9.1,
-"fair": 7.1,
+"mkt": 7.7,
+"fair": 6.0,
 "spot": null
 },
 "2026-10-28|849799|689414": {
@@ -325,8 +325,8 @@
 "name": "Liam Hicks",
 "team": "Tampa Bay Rays",
 "prob": 5.8,
-"mkt": 7.1,
-"fair": 5.5,
+"mkt": 7.7,
+"fair": 6.0,
 "spot": null
 },
 "2026-10-28|849799|666152": {
@@ -336,8 +336,8 @@
 "name": "David Hamilton",
 "team": "Milwaukee Brewers",
 "prob": 5.4,
-"mkt": 6.2,
-"fair": 4.8,
+"mkt": 7.1,
+"fair": 5.5,
 "spot": null
 },
 "2026-10-28|849799|686217": {
@@ -380,8 +380,8 @@
 "name": "Chandler Simpson",
 "team": "Tampa Bay Rays",
 "prob": 0.4,
-"mkt": 1.5,
-"fair": 1.2,
+"mkt": 1.8,
+"fair": 1.4,
 "spot": null
 }
 }
